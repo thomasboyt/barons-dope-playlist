@@ -2,6 +2,7 @@ import path from 'path';
 import {writeFileSync} from 'fs';
 import SpotifyWebApi from 'spotify-web-api-node';
 import express from 'express';
+import {chunk, sortBy} from 'lodash';
 
 const secret = require('../secret.json');
 
@@ -34,9 +35,9 @@ async function main() {
 
 async function afterAuth() {
   // only search songs that haven't been searched yet
-  const songs = playlist.filter((song) => song.result === undefined);
+  const songsToSearch = playlist.filter((song) => song.result === undefined);
 
-  for (let song of songs) {
+  for (let song of songsToSearch) {
     console.log(`*** Searching ${song.artist} - ${song.title}`);
 
     const data = await spotifyApi.searchTracks(`artist:${song.artist} title:${song.title}`);
@@ -58,6 +59,23 @@ async function afterAuth() {
 
     await sleep(1);
   }
+
+  const playlistData = await spotifyApi.createPlaylist(secret.userId, 'BARONS DOPE PLAYLIST', {'public': true});
+  const playlistId = playlistData.body.id;
+
+  const songsOnSpotify = playlist.filter((song) => song.result !== null);
+  const sortedSongs = sortBy(songsOnSpotify, (song) => song.artist);
+  const songChunks = chunk(sortedSongs, 50);
+
+  for (let idx = 0; idx < songChunks.length; idx++) {
+    console.log(`*** Adding song chunk ${idx + 1} of ${songChunks.length}`);
+
+    const chunk = songChunks[idx];
+    const ids = chunk.map((chunk) => chunk.result.uri);
+    await spotifyApi.addTracksToPlaylist(secret.userId, playlistId, ids);
+  }
+
+  console.log('*** all done!');
 }
 
 async function authCallback(req, res) {
@@ -78,7 +96,7 @@ async function authCallback(req, res) {
 
   stopServer();
 
-  await afterAuth();
+  afterAuth();
 }
 
 let server;

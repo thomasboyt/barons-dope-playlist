@@ -1,4 +1,4 @@
 require('babel-register');
 require('babel-regenerator-runtime');
 
-require('../src/search');
+require('../src/spotify');
