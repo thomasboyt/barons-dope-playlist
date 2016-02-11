@@ -1,2694 +1,6622 @@
 [
   {
     "artist": "2 Brothers On The 4th Floor",
-    "title": "Never Alone"
+    "title": "Never Alone",
+    "result": {
+      "album": "Dreams",
+      "artist": "2 Brothers On The 4th Floor",
+      "name": "Never Alone",
+      "uri": "spotify:track:4cqiLvFRDuV8ClE61eMmZx"
+    }
   },
   {
     "artist": "2 Unlimited",
-    "title": "Get Ready For This"
+    "title": "Get Ready For This",
+    "result": {
+      "album": "How To Eat Fried Worms (Music From The Motion Picture)",
+      "artist": "2 Unlimited",
+      "name": "Get Ready For This",
+      "uri": "spotify:track:45Q5IYHJbBdmvlcnwVpXw5"
+    }
   },
   {
     "artist": "2 Unlimited",
-    "title": "No Limit"
+    "title": "No Limit",
+    "result": {
+      "album": "Unlimited Hits & Remixes",
+      "artist": "2 Unlimited",
+      "name": "No Limit",
+      "uri": "spotify:track:7pSJmBTlbA4S5zSLsj6Pzz"
+    }
   },
   {
     "artist": "28 Days",
-    "title": "Rip It Up"
+    "title": "Rip It Up",
+    "result": {
+      "album": "Rip It Up",
+      "artist": "28 Days",
+      "name": "Rip It Up",
+      "uri": "spotify:track:10mllaHwnPzxCQMDjDbFcR"
+    }
   },
   {
     "artist": "2Pac",
-    "title": "California Love [Remix]"
+    "title": "California Love [Remix]",
+    "result": {
+      "album": "All Eyez On Me",
+      "artist": "2Pac",
+      "name": "California Love (remix)",
+      "uri": "spotify:track:2pwTzYUTIiwF7Pn8ygXD91"
+    }
   },
   {
     "artist": "3 Doors Down",
-    "title": "Kryptonite"
+    "title": "Kryptonite",
+    "result": {
+      "album": "The Better Life - Deluxe Edition",
+      "artist": "3 Doors Down",
+      "name": "Kryptonite",
+      "uri": "spotify:track:3bbUkaQYGQHkx1TJi7gPSL"
+    }
   },
   {
     "artist": "311",
-    "title": "Beautiful Disaster"
+    "title": "Beautiful Disaster",
+    "result": {
+      "album": "Transistor",
+      "artist": "311",
+      "name": "Beautiful Disaster",
+      "uri": "spotify:track:0LtsuNRz3IMRrHCYO9fKRk"
+    }
   },
   {
     "artist": "311",
-    "title": "Come Original"
+    "title": "Come Original",
+    "result": {
+      "album": "Greatest Hits '93 - '03",
+      "artist": "311",
+      "name": "Come Original",
+      "uri": "spotify:track:7LG5qAX1r73gafhxvzu28K"
+    }
   },
   {
     "artist": "311",
-    "title": "Down"
+    "title": "Down",
+    "result": {
+      "album": "311 (Deluxe Version)",
+      "artist": "311",
+      "name": "Down",
+      "uri": "spotify:track:1zBFEYEwHKCahttaE2mhg7"
+    }
   },
   {
     "artist": "4 Non Blondes",
-    "title": "What's Up?"
+    "title": "What's Up?",
+    "result": {
+      "album": "Bigger, Better, Faster, More !",
+      "artist": "4 Non Blondes",
+      "name": "What's Up?",
+      "uri": "spotify:track:7f0jXNMu2xjQUtmKMuWhGA"
+    }
   },
   {
     "artist": "5ive",
-    "title": "Don't Wanna Let You Go"
+    "title": "Don't Wanna Let You Go",
+    "result": null
   },
   {
     "artist": "5ive",
-    "title": "Got The Feelin'"
+    "title": "Got The Feelin'",
+    "result": null
   },
   {
     "artist": "5ive",
-    "title": "If Ya Gettin' Down"
+    "title": "If Ya Gettin' Down",
+    "result": null
   },
   {
     "artist": "5ive",
-    "title": "Slam Dunk (Da Funk)"
+    "title": "Slam Dunk (Da Funk)",
+    "result": null
   },
   {
     "artist": "5ive",
-    "title": "When the Lights Go Out"
+    "title": "When the Lights Go Out",
+    "result": null
   },
   {
     "artist": "911",
-    "title": "Bodyshakin'"
+    "title": "Bodyshakin'",
+    "result": {
+      "album": "The Journey",
+      "artist": "911",
+      "name": "Bodyshakin' - Radio Mix",
+      "uri": "spotify:track:2tCrepYvlN3u0XUjDexGx2"
+    }
   },
   {
     "artist": "A Tribe Called Quest",
-    "title": "Electric Relaxation"
+    "title": "Electric Relaxation",
+    "result": {
+      "album": "The Anthology",
+      "artist": "A Tribe Called Quest",
+      "name": "Electric Relaxation",
+      "uri": "spotify:track:0eEXcw3JLVXcRxYrVYMy68"
+    }
   },
   {
     "artist": "Aaron Carter",
-    "title": "Crush On You"
+    "title": "Crush On You",
+    "result": {
+      "album": "Aaron Carter (Fan-Album)",
+      "artist": "Aaron Carter",
+      "name": "Crush On You",
+      "uri": "spotify:track:4lpQgO24osmtIi06H4qLHi"
+    }
   },
   {
     "artist": "AC/DC",
-    "title": "Thunderstruck"
+    "title": "Thunderstruck",
+    "result": {
+      "album": "The Razors Edge",
+      "artist": "AC/DC",
+      "name": "Thunderstruck",
+      "uri": "spotify:track:57bgtoPSgt236HzfBOd8kj"
+    }
   },
   {
     "artist": "Ace of Base",
-    "title": "Don't Turn Around"
+    "title": "Don't Turn Around",
+    "result": {
+      "album": "The Sign (US Album) [Remastered]",
+      "artist": "Ace of Base",
+      "name": "Don't Turn Around",
+      "uri": "spotify:track:4SYMibQ93bfzOk6uzkF0dO"
+    }
   },
   {
     "artist": "Ace of Base",
-    "title": "The Sign"
+    "title": "The Sign",
+    "result": {
+      "album": "The Sign (US Album) [Remastered]",
+      "artist": "Ace of Base",
+      "name": "The Sign",
+      "uri": "spotify:track:0hrBpAOgrt8RXigk83LLNE"
+    }
   },
   {
     "artist": "Air",
-    "title": "Sexy Boy"
+    "title": "Sexy Boy",
+    "result": {
+      "album": "Moon Safari",
+      "artist": "Air",
+      "name": "Sexy Boy",
+      "uri": "spotify:track:6INLpBxo9F5QMer04VXEnd"
+    }
   },
   {
     "artist": "Aisher",
-    "title": "Everybody's Free (to Wear Sunscreen) (Edit)"
+    "title": "Everybody's Free (to Wear Sunscreen) (Edit)",
+    "result": null
   },
   {
     "artist": "Alabama 3",
-    "title": "Woke Up This Morning (Chosen One Mix)"
+    "title": "Woke Up This Morning (Chosen One Mix)",
+    "result": {
+      "album": "La Peste",
+      "artist": "Alabama 3",
+      "name": "Woke Up This Morning (Chosen One Mix)",
+      "uri": "spotify:track:2ODTSqo27IaC7pe1RvAwoI"
+    }
   },
   {
     "artist": "Alanis Morissette",
-    "title": "Hand in My Pocket"
+    "title": "Hand in My Pocket",
+    "result": {
+      "album": "Jagged Little Pill (Collector's Edition)",
+      "artist": "Alanis Morissette",
+      "name": "Hand In My Pocket - 2015 Remastered",
+      "uri": "spotify:track:7kx2rAZPHAZHfASGfxeCci"
+    }
   },
   {
     "artist": "Alanis Morissette",
-    "title": "Head over Feet"
+    "title": "Head over Feet",
+    "result": {
+      "album": "The Collection (Standard Edition)",
+      "artist": "Alanis Morissette",
+      "name": "Head Over Feet",
+      "uri": "spotify:track:7fWFqVCqWk6tUvN7QPtAgN"
+    }
   },
   {
     "artist": "Alanis Morissette",
-    "title": "Ironic"
+    "title": "Ironic",
+    "result": {
+      "album": "The Collection (Standard Edition)",
+      "artist": "Alanis Morissette",
+      "name": "Ironic",
+      "uri": "spotify:track:29YBihzQOmat0U74k4ukdx"
+    }
   },
   {
     "artist": "Alanis Morissette",
-    "title": "You Learn"
+    "title": "You Learn",
+    "result": {
+      "album": "Jagged Little Pill (Collector's Edition)",
+      "artist": "Alanis Morissette",
+      "name": "You Learn - 2015 Remastered",
+      "uri": "spotify:track:7J065yqFEFxakgch0LdFeg"
+    }
   },
   {
     "artist": "Alanis Morissette",
-    "title": "You Oughta Know"
+    "title": "You Oughta Know",
+    "result": {
+      "album": "The Collection (Standard Edition)",
+      "artist": "Alanis Morissette",
+      "name": "You Oughta Know",
+      "uri": "spotify:track:17ZAZ24Eyh5fKqQ06u4R3d"
+    }
   },
   {
     "artist": "Alice in Chains",
-    "title": "Man in the Box"
+    "title": "Man in the Box",
+    "result": {
+      "album": "Facelift",
+      "artist": "Alice In Chains",
+      "name": "Man in the Box",
+      "uri": "spotify:track:3G0EKJZy0j3rMG077UawaC"
+    }
   },
   {
     "artist": "Alice in Chains",
-    "title": "Rooster"
+    "title": "Rooster",
+    "result": {
+      "album": "Dirt",
+      "artist": "Alice In Chains",
+      "name": "Rooster",
+      "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+    }
   },
   {
     "artist": "Andrew W.K.",
-    "title": "Party Hard"
+    "title": "Party Hard",
+    "result": {
+      "album": "I Get Wet",
+      "artist": "Andrew W.K.",
+      "name": "Party Hard",
+      "uri": "spotify:track:72arBimTMao2pv0lskTwkR"
+    }
   },
   {
     "artist": "Aqua",
-    "title": "Barbie Girl"
+    "title": "Barbie Girl",
+    "result": {
+      "album": "Pop Party (International Version)",
+      "artist": "Aqua",
+      "name": "Barbie Girl",
+      "uri": "spotify:track:7kz6GbFr2MCI7PgXJOdq8c"
+    }
   },
   {
     "artist": "Aqua",
-    "title": "Doctor Jones"
+    "title": "Doctor Jones",
+    "result": {
+      "album": "Aquarium",
+      "artist": "Aqua",
+      "name": "Doctor Jones",
+      "uri": "spotify:track:2biWKOdQ3jXHJPTzk0ZMZD"
+    }
   },
   {
     "artist": "Aqua",
-    "title": "Turn Back Time"
+    "title": "Turn Back Time",
+    "result": {
+      "album": "Aquarium",
+      "artist": "Aqua",
+      "name": "Turn Back Time",
+      "uri": "spotify:track:7nnEIiUzTgXbXzqSN4Ann8"
+    }
   },
   {
     "artist": "Arrested Development",
-    "title": "Tennessee"
+    "title": "Tennessee",
+    "result": {
+      "album": "Classic Masters",
+      "artist": "Arrested Development",
+      "name": "Tennessee - 2001 - Remaster",
+      "uri": "spotify:track:5K8qwhQQSAj9ebIvlNJY8q"
+    }
   },
   {
     "artist": "ATC",
-    "title": "Around the World (La la la la La)"
+    "title": "Around the World (La la la la La)",
+    "result": {
+      "album": "Mickey's Dance Party",
+      "artist": "Christensen",
+      "name": "Around the World (La La La La La) Disney Version",
+      "uri": "spotify:track:2KCxxlWDpsexsxbrPETNu0"
+    }
   },
   {
     "artist": "Babylon Zoo",
-    "title": "Spaceman"
+    "title": "Spaceman",
+    "result": {
+      "album": "Pure 90s",
+      "artist": "Babylon Zoo",
+      "name": "Spaceman",
+      "uri": "spotify:track:2Elq6GxVh8v9QFCF3ca2Xc"
+    }
   },
   {
     "artist": "Backstreet Boys",
-    "title": "Everybody (Backstreet's Back)"
+    "title": "Everybody (Backstreet's Back)",
+    "result": {
+      "album": "Backstreet Boys",
+      "artist": "Backstreet Boys",
+      "name": "Everybody (Backstreet's Back) - Extended Version",
+      "uri": "spotify:track:5WTxbyWTpoqhdxEN2szOnl"
+    }
   },
   {
     "artist": "Backstreet Boys",
-    "title": "I Want It That Way"
+    "title": "I Want It That Way",
+    "result": {
+      "album": "The Hits--Chapter One",
+      "artist": "Backstreet Boys",
+      "name": "I Want It That Way",
+      "uri": "spotify:track:6e40mgJiCid5HRAGrbpGA6"
+    }
   },
   {
     "artist": "Barenaked Ladies",
-    "title": "One Week"
+    "title": "One Week",
+    "result": {
+      "album": "Stunt",
+      "artist": "Barenaked Ladies",
+      "name": "One Week",
+      "uri": "spotify:track:1C0pmryC2MdXfa7MZ9uIrU"
+    }
   },
   {
     "artist": "Beastie Boys",
-    "title": "Body Movin'"
+    "title": "Body Movin'",
+    "result": {
+      "album": "Hello Nasty (Deluxe Version) [Remastered]",
+      "artist": "Beastie Boys",
+      "name": "Body Movin' - 2009 Digital Remaster;",
+      "uri": "spotify:track:3ZQqzOCuHqJQqqEH8KB282"
+    }
   },
   {
     "artist": "Beastie Boys",
-    "title": "Body Movin' [Fatboy Slim Remix]"
+    "title": "Body Movin' [Fatboy Slim Remix]",
+    "result": null
   },
   {
     "artist": "Beastie Boys",
-    "title": "Hey Ladies"
+    "title": "Hey Ladies",
+    "result": {
+      "album": "Paul's Boutique",
+      "artist": "Beastie Boys",
+      "name": "Hey Ladies",
+      "uri": "spotify:track:1X3U53BiZuDRTzz3XCQZnR"
+    }
   },
   {
     "artist": "Beastie Boys",
-    "title": "Intergalactic"
+    "title": "Intergalactic",
+    "result": {
+      "album": "Hello Nasty (Deluxe Version) [Remastered]",
+      "artist": "Beastie Boys",
+      "name": "Intergalactic - 2009 Digital Remaster",
+      "uri": "spotify:track:5fpizYGbi5IQoEraj6FP0R"
+    }
   },
   {
     "artist": "Beastie Boys",
-    "title": "Sabotage"
+    "title": "Sabotage",
+    "result": {
+      "album": "Ill Communication",
+      "artist": "Beastie Boys",
+      "name": "Sabotage",
+      "uri": "spotify:track:0Puj4YlTm6xNzDDADXHMI9"
+    }
   },
   {
     "artist": "Beastie Boys",
-    "title": "Sure Shot"
+    "title": "Sure Shot",
+    "result": {
+      "album": "Ill Communication",
+      "artist": "Beastie Boys",
+      "name": "Sure Shot",
+      "uri": "spotify:track:21REQ1bCUWphT2QK3bLWYQ"
+    }
   },
   {
     "artist": "Beats International",
-    "title": "Dub Be Good to Me"
+    "title": "Dub Be Good to Me",
+    "result": {
+      "album": "True 90s (3 CD Set)",
+      "artist": "Beats International",
+      "name": "Dub Be Good To Me",
+      "uri": "spotify:track:2VsSnYZzq8mhAtdhwzYxXi"
+    }
   },
   {
     "artist": "Beck",
-    "title": "Beercan"
+    "title": "Beercan",
+    "result": {
+      "album": "Mellow Gold (Explicit Version)",
+      "artist": "Beck",
+      "name": "Beercan",
+      "uri": "spotify:track:4U7sXsrNV30wnev984jEzt"
+    }
   },
   {
     "artist": "Beck",
-    "title": "Deadweight"
+    "title": "Deadweight",
+    "result": {
+      "album": "Odelay - Deluxe Edition",
+      "artist": "Beck",
+      "name": "Deadweight",
+      "uri": "spotify:track:6evxJuCHNDTHGg7Z4BIbZq"
+    }
   },
   {
     "artist": "Beck",
-    "title": "Loser"
+    "title": "Loser",
+    "result": {
+      "album": "Mellow Gold (Explicit Version)",
+      "artist": "Beck",
+      "name": "Loser",
+      "uri": "spotify:track:4b8GTae6rqb9oPiRzVa3Gy"
+    }
   },
   {
     "artist": "Beck",
-    "title": "Sexx Laws"
+    "title": "Sexx Laws",
+    "result": {
+      "album": "Midnite Vultures",
+      "artist": "Beck",
+      "name": "Sexx Laws",
+      "uri": "spotify:track:6zOR1Ls8o48CXaz6SshmNN"
+    }
   },
   {
     "artist": "Beck",
-    "title": "The New Pollution"
+    "title": "The New Pollution",
+    "result": {
+      "album": "Odelay",
+      "artist": "Beck",
+      "name": "The New Pollution",
+      "uri": "spotify:track:1flci5s2ER4nP40d5Cf4Nj"
+    }
   },
   {
     "artist": "Beck",
-    "title": "Where It's At"
+    "title": "Where It's At",
+    "result": {
+      "album": "Odelay",
+      "artist": "Beck",
+      "name": "Where It's At - Album Version W/ Intro",
+      "uri": "spotify:track:1GreGTs4rIfjDILBERxKcB"
+    }
   },
   {
     "artist": "Bell Biv DeVoe",
-    "title": "Poison"
+    "title": "Poison",
+    "result": {
+      "album": "20 #1's: 90's R&B",
+      "artist": "Bell Biv DeVoe",
+      "name": "Poison",
+      "uri": "spotify:track:231mi5BkHyJHxQre25S6oS"
+    }
   },
   {
     "artist": "Ben Folds Five",
-    "title": "Army"
+    "title": "Army",
+    "result": {
+      "album": "The Unauthorized Biography Of Reinhold Messner",
+      "artist": "Ben Folds Five",
+      "name": "Army",
+      "uri": "spotify:track:3vxqxKLhQDG8BOu65tXi8g"
+    }
   },
   {
     "artist": "Ben Folds Five",
-    "title": "Battle of Who Could Care Less"
+    "title": "Battle of Who Could Care Less",
+    "result": {
+      "album": "Whatever And Ever Amen (Remastered Edition)",
+      "artist": "Ben Folds Five",
+      "name": "Battle of Who Could Care Less",
+      "uri": "spotify:track:0PvMKZyipzuQCK7AI6iwgK"
+    }
   },
   {
     "artist": "Ben Folds Five",
-    "title": "Brick"
+    "title": "Brick",
+    "result": {
+      "album": "Whatever And Ever Amen (Remastered Edition)",
+      "artist": "Ben Folds Five",
+      "name": "Brick",
+      "uri": "spotify:track:4jKq1e80xAYixkIwt6YyV1"
+    }
   },
   {
     "artist": "Ben Harper",
-    "title": "Faded"
+    "title": "Faded",
+    "result": {
+      "album": "The Will To Live",
+      "artist": "Ben Harper",
+      "name": "Faded",
+      "uri": "spotify:track:3Bt5vZFjstranJlqhwpuZz"
+    }
   },
   {
     "artist": "Better Than Ezra",
-    "title": "Good"
+    "title": "Good",
+    "result": {
+      "album": "Rhino Hi-Five: Better Than Ezra",
+      "artist": "Better Than Ezra",
+      "name": "Good",
+      "uri": "spotify:track:6ILtPjGYb3mvprfsCaJRTA"
+    }
   },
   {
     "artist": "Betty Boo",
-    "title": "Doin' the Do [7'' Radio Mix]"
+    "title": "Doin' the Do [7'' Radio Mix]",
+    "result": {
+      "album": "Boomania",
+      "artist": "Betty Boo",
+      "name": "Doin' The Do - 7\" Radio Mix",
+      "uri": "spotify:track:3h9mCACYWP4iDVFEBhyyYC"
+    }
   },
   {
     "artist": "Betty Boo",
-    "title": "Where Are You Baby "
+    "title": "Where Are You Baby ",
+    "result": {
+      "album": "Boomania",
+      "artist": "Betty Boo",
+      "name": "Where Are You Baby?",
+      "uri": "spotify:track:3A1lF1uAeszylWH9nLQKAW"
+    }
   },
   {
     "artist": "Billie",
-    "title": "Because We Want To"
+    "title": "Because We Want To",
+    "result": {
+      "album": "The Very Best Of Billie Piper",
+      "artist": "Billie",
+      "name": "Because We Want to",
+      "uri": "spotify:track:6PJb8v5dvpy8tGqVWE9Ziv"
+    }
   },
   {
     "artist": "Billy Crawford",
-    "title": "Pokemon Theme"
+    "title": "Pokemon Theme",
+    "result": null
   },
   {
     "artist": "Björk",
-    "title": "Human Behaviour"
+    "title": "Human Behaviour",
+    "result": {
+      "album": "Debut (Ecopac)",
+      "artist": "Björk",
+      "name": "Human Behaviour",
+      "uri": "spotify:track:4ry6oqlwdsooYtniYJFkt5"
+    }
   },
   {
     "artist": "Black Sheep",
-    "title": "Choice Is Yours"
+    "title": "Choice Is Yours",
+    "result": {
+      "album": "A Wolf In Sheep's Clothing",
+      "artist": "Black Sheep",
+      "name": "The Choice Is Yours (Revisited)",
+      "uri": "spotify:track:0cbodmgjBx4IVPOIyl3F4b"
+    }
   },
   {
-    "artist": "Blackstreet - No Diggity",
-    "title": "Blackstreet, Dr. Dre"
+    "artist": "Blackstreet",
+    "title": "No Diggity",
+    "result": {
+      "album": "Hip Hop - Universal Masters",
+      "artist": "Blackstreet",
+      "name": "No Diggity",
+      "uri": "spotify:track:0BSUsLKmtxKWFckXM4CVTH"
+    }
   },
   {
     "artist": "Blessid Union of Souls",
-    "title": "Hey Leonardo (She Likes Me for Me)"
+    "title": "Hey Leonardo (She Likes Me for Me)",
+    "result": {
+      "album": "Live at Never on Sunday",
+      "artist": "Blessid Union Of Souls",
+      "name": "Hey Leonardo (She Likes Me for Me) - Live",
+      "uri": "spotify:track:01cv0e6DdNlx3TkzzWfAHB"
+    }
   },
   {
     "artist": "Blind Melon",
-    "title": "No Rain"
+    "title": "No Rain",
+    "result": {
+      "album": "Blind Melon",
+      "artist": "Blind Melon",
+      "name": "No Rain",
+      "uri": "spotify:track:6txWz9UapYHVxEd7dDIHXT"
+    }
   },
   {
     "artist": "Blink 182",
-    "title": "Adam's Song"
+    "title": "Adam's Song",
+    "result": {
+      "album": "Enema Of The State (Explicit Version)",
+      "artist": "blink-182",
+      "name": "Adam's Song",
+      "uri": "spotify:track:5EauMVTXVoQOkax03XXVaV"
+    }
   },
   {
     "artist": "Blink 182",
-    "title": "All the Small Things"
+    "title": "All the Small Things",
+    "result": {
+      "album": "Enema Of The State (Explicit Version)",
+      "artist": "blink-182",
+      "name": "All The Small Things",
+      "uri": "spotify:track:12qZHAeOyTf93YAWvGDTat"
+    }
   },
   {
     "artist": "Blink 182",
-    "title": "Dammit"
+    "title": "Dammit",
+    "result": {
+      "album": "Greatest Hits [International Version (Explicit)]",
+      "artist": "blink-182",
+      "name": "Dammit",
+      "uri": "spotify:track:2AMxpzLNGLZxtkoD3VxKlO"
+    }
   },
   {
     "artist": "Blink 182",
-    "title": "Josie"
+    "title": "Josie",
+    "result": {
+      "album": "Greatest Hits [International Version (Explicit)]",
+      "artist": "blink-182",
+      "name": "Josie - Radio Edit",
+      "uri": "spotify:track:3qxxkiO0YgbHwuZ4ubocu9"
+    }
   },
   {
     "artist": "Blink 182",
-    "title": "Man Overboard"
+    "title": "Man Overboard",
+    "result": {
+      "album": "Greatest Hits [International Version (Explicit)]",
+      "artist": "blink-182",
+      "name": "Man Overboard",
+      "uri": "spotify:track:2ismxwCuBCzX3u3HJpEKxf"
+    }
   },
   {
     "artist": "Blues Traveler",
-    "title": "Run-Around"
+    "title": "Run-Around",
+    "result": {
+      "album": "Four",
+      "artist": "Blues Traveler",
+      "name": "Run-Around",
+      "uri": "spotify:track:6A64S6NPQwA5KIQ0tQuEJR"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Beetlebum"
+    "title": "Beetlebum",
+    "result": {
+      "album": "Blur: The Best Of",
+      "artist": "Blur",
+      "name": "Beetlebum",
+      "uri": "spotify:track:0cXm3QqepHVzXKdm73sqkl"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Coffee & TV"
+    "title": "Coffee & TV",
+    "result": {
+      "album": "13",
+      "artist": "Blur",
+      "name": "Coffee And TV",
+      "uri": "spotify:track:5eSllZgRWCIJsDTAqFRwQw"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Country House"
+    "title": "Country House",
+    "result": {
+      "album": "Blur: The Best Of",
+      "artist": "Blur",
+      "name": "Country House",
+      "uri": "spotify:track:4vnYwFOZCVl0bmerWyuzRw"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Girls & Boys"
+    "title": "Girls & Boys",
+    "result": {
+      "album": "Blur: The Best Of",
+      "artist": "Blur",
+      "name": "Girls And Boys",
+      "uri": "spotify:track:5CeL9C3bsoe4yzYS1Qz8cw"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Parklife"
+    "title": "Parklife",
+    "result": {
+      "album": "Blur: The Best Of",
+      "artist": "Blur",
+      "name": "Parklife",
+      "uri": "spotify:track:3mqRLlD9j92BBv1ueFhJ1l"
+    }
   },
   {
     "artist": "Blur",
-    "title": "Song 2"
+    "title": "Song 2",
+    "result": {
+      "album": "Blur: The Best Of",
+      "artist": "Blur",
+      "name": "Song 2",
+      "uri": "spotify:track:3GfOAdcoc3X5GPiiXmpBjK"
+    }
   },
   {
-    "artist": "Bob Marley & Funkstar de Luxe",
-    "title": "Sun Is Shining (Funkstar Club Mix)"
+    "artist": "Funkstar de Luxe",
+    "title": "Sun Is Shining",
+    "result": {
+      "album": "Sun Is Shining (15th Anniversary) (Remixes)",
+      "artist": "Funkstar De Luxe",
+      "name": "Sun Is Shining - Radio De Luxe Mix",
+      "uri": "spotify:track:0HnaHNLndwgiIOL2XBRnL4"
+    }
   },
   {
     "artist": "Bomfunk Mcs",
-    "title": "Freestyler"
+    "title": "Freestyler",
+    "result": {
+      "album": "Freestyler",
+      "artist": "Bomfunk MC's",
+      "name": "Freestyler",
+      "uri": "spotify:track:47xLbuUdmD03ATrke934S1"
+    }
   },
   {
     "artist": "Bon Jovi",
-    "title": "It's My Life"
+    "title": "It's My Life",
+    "result": {
+      "album": "Bon Jovi Greatest Hits - The Ultimate Collection (Int'l Deluxe Package)",
+      "artist": "Bon Jovi",
+      "name": "It's My Life",
+      "uri": "spotify:track:4TmGtGkkmaoXRCvpOwDJoO"
+    }
   },
   {
     "artist": "Bone Thugs-N-Harmony",
-    "title": "Tha Crossroads"
+    "title": "Tha Crossroads",
+    "result": {
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "artist": "Bone Thugs-N-Harmony",
+      "name": "Tha Crossroads",
+      "uri": "spotify:track:0UUSebzzrC8hKiVcX8fBsz"
+    }
   },
   {
     "artist": "Bran Van 3000",
-    "title": "Drinking in L.A."
+    "title": "Drinking in L.A.",
+    "result": {
+      "album": "This Is... 1998",
+      "artist": "Bran Van 3000",
+      "name": "Drinking In L.A.",
+      "uri": "spotify:track:7J71oVcsttUDtL3bc47ClX"
+    }
   },
   {
     "artist": "Bressa Creeting Cake",
-    "title": "Palm Singing"
+    "title": "Palm Singing",
+    "result": {
+      "album": "Bressa Creeting Cake",
+      "artist": "Bressa Creeting Cake",
+      "name": "Palm Singing",
+      "uri": "spotify:track:2nPeZDCUnnsDRs1aVdZSSG"
+    }
   },
   {
     "artist": "Britney Spears",
-    "title": "...Baby One More Time"
+    "title": "...Baby One More Time",
+    "result": {
+      "album": "...Baby One More Time (Digital Deluxe Version)",
+      "artist": "Britney Spears",
+      "name": "...Baby One More Time",
+      "uri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa"
+    }
   },
   {
     "artist": "Britney Spears",
-    "title": "Oops! ... I Did It Again"
+    "title": "Oops! ... I Did It Again",
+    "result": {
+      "album": "Greatest Hits: My Prerogative",
+      "artist": "Britney Spears",
+      "name": "Oops!...I Did It Again",
+      "uri": "spotify:track:4jUuqKRr1fB4c1RvU6syls"
+    }
   },
   {
     "artist": "Bus Stop",
-    "title": "Kung Fu Fighting"
+    "title": "Kung Fu Fighting",
+    "result": {
+      "album": "The Soul of the Kung Fu Fighter",
+      "artist": "Bus Stop & Carl Douglas",
+      "name": "Kung Fu Fighting",
+      "uri": "spotify:track:111P8I22TrLyxQm7Jcwdoy"
+    }
   },
   {
     "artist": "Bush",
-    "title": "Chemicals Between Us"
+    "title": "Chemicals Between Us",
+    "result": {
+      "album": "The Science Of Things (Remastered)",
+      "artist": "Bush",
+      "name": "The Chemicals Between Us",
+      "uri": "spotify:track:4PMfVdotyZYRi0CMwjOAvS"
+    }
   },
   {
     "artist": "Bush",
-    "title": "Glycerine"
+    "title": "Glycerine",
+    "result": {
+      "album": "Sixteen Stone (Remastered)",
+      "artist": "Bush",
+      "name": "Glycerine",
+      "uri": "spotify:track:0l9l90a1zB3wUObtwWbqHy"
+    }
   },
   {
     "artist": "Butthole Surfers",
-    "title": "Pepper"
+    "title": "Pepper",
+    "result": {
+      "album": "Electriclarryland",
+      "artist": "Butthole Surfers",
+      "name": "Pepper",
+      "uri": "spotify:track:1ng36571Iyov4HBxUClySn"
+    }
   },
   {
-    "artist": "BxWitched",
-    "title": "C'est la Vie"
+    "artist": "B*Witched",
+    "title": "C'est la Vie",
+    "result": {
+      "album": "B*Witched",
+      "artist": "B*Witched",
+      "name": "C'est la Vie",
+      "uri": "spotify:track:0SHmApKzT0EWhbFKBjsOex"
+    }
   },
   {
-    "artist": "BxWitched",
-    "title": "Rollercoaster"
+    "artist": "B*Witched",
+    "title": "Rollercoaster",
+    "result": {
+      "album": "B*Witched",
+      "artist": "B*Witched",
+      "name": "Rollercoaster",
+      "uri": "spotify:track:4JaUZ4rZaEtisZUiVx1qFJ"
+    }
   },
   {
     "artist": "C+C Music Factory, Freedom Williams",
-    "title": "Gonna Make You Sweat (Everybody Dance Now)"
+    "title": "Gonna Make You Sweat (Everybody Dance Now)",
+    "result": {
+      "album": "90 Talsklassiker (-Nostalgi)",
+      "artist": "C & C Music Factory",
+      "name": "Gonna Make You Sweat (Everybody Dance Now)",
+      "uri": "spotify:track:6HURR102ikbkENZzVwbrYV"
+    }
   },
   {
     "artist": "Cake",
-    "title": "I Will Survive"
+    "title": "I Will Survive",
+    "result": {
+      "album": "Fashion Nugget",
+      "artist": "Cake",
+      "name": "I Will Survive",
+      "uri": "spotify:track:0qgiFuYhYuwtFXEwYakddE"
+    }
   },
   {
     "artist": "Cake",
-    "title": "Never There"
+    "title": "Never There",
+    "result": {
+      "album": "Prolonging the Magic",
+      "artist": "Cake",
+      "name": "Never There",
+      "uri": "spotify:track:7aKWgpecgLEqisWcXPElDl"
+    }
   },
   {
     "artist": "Ce Ce Peniston",
-    "title": "Finally"
+    "title": "Finally",
+    "result": {
+      "album": "We Are Planet Perfecto Volume 01",
+      "artist": "Ce Ce Peniston feat. Joyriders",
+      "name": "Finally (Zen Freeman & Remy Le Duc Remix)",
+      "uri": "spotify:track:6S1h5MarEfGlYJ5WqnAOiK"
+    }
   },
   {
     "artist": "Celine Dion",
-    "title": "My Heart Will Go On"
+    "title": "My Heart Will Go On",
+    "result": {
+      "album": "My Love Essential Collection",
+      "artist": "Céline Dion",
+      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "uri": "spotify:track:0sGNcx6lfc3zrbiIOxY4vb"
+    }
   },
   {
     "artist": "Charles & Eddie",
-    "title": "Would I Lie to You "
+    "title": "Would I Lie to You ",
+    "result": {
+      "album": "Playlist: 90s Pop",
+      "artist": "Charles & Eddie",
+      "name": "Would I Lie To You?",
+      "uri": "spotify:track:62R1MRux3R0v2cngA2xdJn"
+    }
   },
   {
     "artist": "Cherry Poppin' Daddies",
-    "title": "Zoot Suit Riot"
+    "title": "Zoot Suit Riot",
+    "result": {
+      "album": "Zoot Suit Riot",
+      "artist": "Cherry Poppin' Daddies",
+      "name": "Zoot Suit Riot",
+      "uri": "spotify:track:1qmJbXpVLydNcN6VTR40GU"
+    }
   },
   {
     "artist": "Chris Isaak",
-    "title": "Wicked Game"
+    "title": "Wicked Game",
+    "result": {
+      "album": "Best Of Chris Isaak",
+      "artist": "Chris Isaak",
+      "name": "Wicked Game - Remastered",
+      "uri": "spotify:track:5l91KHr9uF8wdSdtRoZba8"
+    }
   },
   {
     "artist": "Christina Aguilera",
-    "title": "Genie in a Bottle"
+    "title": "Genie in a Bottle",
+    "result": {
+      "album": "Christina Aguilera",
+      "artist": "Christina Aguilera",
+      "name": "Genie in a Bottle",
+      "uri": "spotify:track:6onLnWywmbSnXDFPVY1mM6"
+    }
   },
   {
     "artist": "Chumbawamba",
-    "title": "Tubthumping"
+    "title": "Tubthumping",
+    "result": {
+      "album": "Tubthumper",
+      "artist": "Chumbawamba",
+      "name": "Tubthumping",
+      "uri": "spotify:track:22HYEJveCvykVDHDiEEmjZ"
+    }
   },
   {
     "artist": "Citizen King",
-    "title": "Better Days (And the Bottom Drops Out)"
+    "title": "Better Days (And the Bottom Drops Out)",
+    "result": {
+      "album": "Mobile Estates",
+      "artist": "Citizen King",
+      "name": "Better Days (And The Bottom Drops Out)",
+      "uri": "spotify:track:460Wn6Dq2uMviG5nPXtPnb"
+    }
   },
   {
     "artist": "Collective Soul",
-    "title": "December"
+    "title": "December",
+    "result": {
+      "album": "December / Gel [Digital 45]",
+      "artist": "Collective Soul",
+      "name": "December (45 Version)",
+      "uri": "spotify:track:4wx38D1Y9vv9WG3T0J6lTA"
+    }
   },
   {
     "artist": "Collective Soul",
-    "title": "Shine"
+    "title": "Shine",
+    "result": {
+      "album": "Hints, Allegations & Things Left Unsaid",
+      "artist": "Collective Soul",
+      "name": "Shine",
+      "uri": "spotify:track:1HZ3cUZUw5htSFmah1V8Ko"
+    }
   },
   {
     "artist": "Collective Soul",
-    "title": "The World I Know"
+    "title": "The World I Know",
+    "result": {
+      "album": "Collective Soul",
+      "artist": "Collective Soul",
+      "name": "The World I Know",
+      "uri": "spotify:track:794pcMq18sBEsmwjRq0aOI"
+    }
   },
   {
     "artist": "Coolio",
-    "title": "1, 2, 3, 4 (Sumpin' New)"
+    "title": "1, 2, 3, 4 (Sumpin' New)",
+    "result": {
+      "album": "Ultimate Collection",
+      "artist": "Coolio",
+      "name": "1, 2, 3, 4 - Sumpin' New",
+      "uri": "spotify:track:3no3yXQLbaHgR7LScnIXYh"
+    }
   },
   {
     "artist": "Coolio",
-    "title": "C U When U Get There"
+    "title": "C U When U Get There",
+    "result": {
+      "album": "My Soul",
+      "artist": "Coolio",
+      "name": "C U When U Get There",
+      "uri": "spotify:track:1TcSvuMbxlWtryXTaBI9LY"
+    }
   },
   {
     "artist": "Coolio",
-    "title": "Fantastic Voyage"
+    "title": "Fantastic Voyage",
+    "result": {
+      "album": "It Takes A Thief (US Release)",
+      "artist": "Coolio",
+      "name": "Fantastic Voyage",
+      "uri": "spotify:track:1VvsWao3Tx3QjkWgr6sTaO"
+    }
   },
   {
     "artist": "Coolio",
-    "title": "Gangsta's Paradise"
+    "title": "Gangsta's Paradise",
+    "result": {
+      "album": "Gangsta's Paradise (US Release)",
+      "artist": "Coolio",
+      "name": "Gangsta's Paradise",
+      "uri": "spotify:track:3u9fHuAtjMY1RW2mZfO4Cf"
+    }
   },
   {
     "artist": "Cornershop",
-    "title": "Brimful of Asha (Norman Cook remix)"
+    "title": "Brimful of Asha (Norman Cook remix)",
+    "result": {
+      "album": "Brimful Of Asha",
+      "artist": "Cornershop",
+      "name": "Brimful Of Asha - The Norman Cook Remix (Single Version)",
+      "uri": "spotify:track:29capylmokCeuNAWqGitij"
+    }
   },
   {
     "artist": "Corona",
-    "title": "The Rhythm of the Night"
+    "title": "The Rhythm of the Night",
+    "result": {
+      "album": "The Rhythm of the Night",
+      "artist": "Corona",
+      "name": "The Rhythm of the Night",
+      "uri": "spotify:track:0ofMkI3jzmGCElAOgOLeo3"
+    }
   },
   {
     "artist": "Counting Crows",
-    "title": "Mr. Jones"
+    "title": "Mr. Jones",
+    "result": {
+      "album": "Films About Ghosts (The Best Of Counting Crows) [International Version]",
+      "artist": "Counting Crows",
+      "name": "Mr. Jones",
+      "uri": "spotify:track:7n3REqDfZBpkd0bEpGu2H3"
+    }
   },
   {
     "artist": "Crazy Town",
-    "title": "Butterfly"
+    "title": "Butterfly",
+    "result": {
+      "album": "The Gift Of Game",
+      "artist": "Crazy Town",
+      "name": "Butterfly",
+      "uri": "spotify:track:4BggEwLhGfrbrl7JBhC8EC"
+    }
   },
   {
     "artist": "Crystal Waters",
-    "title": "100% Pure Love"
+    "title": "100% Pure Love",
+    "result": {
+      "album": "Ultimate Club Dance 90s",
+      "artist": "Crystal Waters",
+      "name": "100% Pure Love",
+      "uri": "spotify:track:7yBLRyQBBnpT4mD8eG7I7f"
+    }
   },
   {
     "artist": "Cut 'N Move",
-    "title": "Give It Up"
+    "title": "Give It Up",
+    "result": {
+      "album": "peace, love & harmony",
+      "artist": "Cut 'N' Move",
+      "name": "Give It Up",
+      "uri": "spotify:track:1Hh5gDiXZGhtKfHzJYYhSJ"
+    }
   },
   {
     "artist": "Cypress Hill",
-    "title": "Hits from the Bong"
+    "title": "Hits from the Bong",
+    "result": {
+      "album": "Black Sunday",
+      "artist": "Cypress Hill",
+      "name": "Hits from the Bong",
+      "uri": "spotify:track:0cfqYhY6B8PbGF9vaVNUeG"
+    }
   },
   {
     "artist": "Cypress Hill",
-    "title": "How I Could Just Kill a Man"
+    "title": "How I Could Just Kill a Man",
+    "result": {
+      "album": "Cypress Hill",
+      "artist": "Cypress Hill",
+      "name": "How I Could Just Kill a Man",
+      "uri": "spotify:track:6l4wMAXzI8RxIysQMYZY0w"
+    }
   },
   {
     "artist": "Cypress Hill",
-    "title": "I Ain't Goin' Out Like That"
+    "title": "I Ain't Goin' Out Like That",
+    "result": {
+      "album": "The Essential Cypress Hill",
+      "artist": "Cypress Hill",
+      "name": "I Ain't Goin' Out Like That",
+      "uri": "spotify:track:2B4prLJChULYfTxQ0Yd5ZZ"
+    }
   },
   {
     "artist": "Cypress Hill",
-    "title": "Illusions"
+    "title": "Illusions",
+    "result": {
+      "album": "The Essential Cypress Hill",
+      "artist": "Cypress Hill",
+      "name": "Illusions",
+      "uri": "spotify:track:1crTf4RvraCjcPoqsaT9hd"
+    }
   },
   {
     "artist": "Cypress Hill",
-    "title": "Insane in the Brain"
+    "title": "Insane in the Brain",
+    "result": {
+      "album": "Black Sunday",
+      "artist": "Cypress Hill",
+      "name": "Insane in the Brain",
+      "uri": "spotify:track:1oTHteQbmJw15rPxPVXUTv"
+    }
   },
   {
     "artist": "Daft Punk",
-    "title": "Around the World"
+    "title": "Around the World",
+    "result": {
+      "album": "Homework",
+      "artist": "Daft Punk",
+      "name": "Around The World",
+      "uri": "spotify:track:1pKYYY0dkg23sQQXi0Q5zN"
+    }
   },
   {
     "artist": "Daft Punk",
-    "title": "Da Funk"
+    "title": "Da Funk",
+    "result": {
+      "album": "Homework",
+      "artist": "Daft Punk",
+      "name": "Da Funk",
+      "uri": "spotify:track:0MyY4WcN7DIfbSmp5yej5z"
+    }
   },
   {
     "artist": "Darcy Clay",
-    "title": "Jesus I Was Evil"
+    "title": "Jesus I Was Evil",
+    "result": {
+      "album": "Jesus I Was Evil",
+      "artist": "Darcy Clay",
+      "name": "Jesus I Was Evil",
+      "uri": "spotify:track:3sD4YghTcyVtDeIDWL2VDq"
+    }
   },
   {
     "artist": "Dave Dobbyn",
-    "title": "Slice Of Heaven"
+    "title": "Slice Of Heaven",
+    "result": {
+      "album": "Footrot Flats - The Dog's Tale (Motion Picture Soundtrack)",
+      "artist": "Dave Dobbyn",
+      "name": "Slice of Heaven",
+      "uri": "spotify:track:00c3V7ujXLRlcZgy3T1c2P"
+    }
   },
   {
     "artist": "Days of the New",
-    "title": "Touch, Peel and Stand"
+    "title": "Touch, Peel and Stand",
+    "result": {
+      "album": "The Definitive Collection",
+      "artist": "Days Of The New",
+      "name": "Touch, Peel And Stand",
+      "uri": "spotify:track:23uE4wTCYfGkG4hQSaPBMV"
+    }
   },
   {
     "artist": "Deadeye Dick",
-    "title": "New Age Girl"
+    "title": "New Age Girl",
+    "result": {
+      "album": "Sk8terboy Rock!, Vol. 1",
+      "artist": "Deadeye Dick",
+      "name": "New Age Girl",
+      "uri": "spotify:track:7np4o0t06MCD487BYud7VI"
+    }
   },
   {
     "artist": "Deee-Lite",
-    "title": "Groove Is in the Heart"
+    "title": "Groove Is in the Heart",
+    "result": {
+      "album": "Rhino Hi-Five: Deee-Lite",
+      "artist": "Deee-Lite",
+      "name": "Groove Is In The Heart",
+      "uri": "spotify:track:2UVLuddklEVak5PXgC7baA"
+    }
   },
   {
     "artist": "Deep Blue Something",
-    "title": "Breakfast At Tiffany's"
+    "title": "Breakfast At Tiffany's",
+    "result": {
+      "album": "True Power-Ballads / 3CD set",
+      "artist": "Deep Blue Something",
+      "name": "Breakfast At Tiffany's",
+      "uri": "spotify:track:6nRV46vbiHE5tTnS4VmKk7"
+    }
   },
   {
     "artist": "Del Amitri",
-    "title": "Roll to Me"
+    "title": "Roll to Me",
+    "result": {
+      "album": "The Best Of Del Amitri - Hatful Of Rain",
+      "artist": "Del Amitri",
+      "name": "Roll To Me",
+      "uri": "spotify:track:4pmP2dfH9QJ9Z0b5B9wPUF"
+    }
   },
   {
     "artist": "Del tha Funkee Homosapien",
-    "title": "Mistadobalina"
+    "title": "Mistadobalina",
+    "result": {
+      "album": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
+      "artist": "Del The Funky Homosapien",
+      "name": "Mistadobalina (Remastered LP Version)",
+      "uri": "spotify:track:0KQd3QY1Y8zC2rfO4ZBQRC"
+    }
   },
   {
     "artist": "Denis Leary",
-    "title": "Asshole"
+    "title": "Asshole",
+    "result": {
+      "album": "No Cure For Cancer (Explicit Version)",
+      "artist": "Denis Leary",
+      "name": "Asshole",
+      "uri": "spotify:track:331yCUzz2vctjIEZQjPpRl"
+    }
   },
   {
     "artist": "Des'ree",
-    "title": "You Gotta Be"
+    "title": "You Gotta Be",
+    "result": {
+      "album": "Love Love Love",
+      "artist": "Des'ree",
+      "name": "You Gotta Be",
+      "uri": "spotify:track:2npItHjiJQVVAYpTMN2gfV"
+    }
   },
   {
     "artist": "Diana King",
-    "title": "Shy Guy"
+    "title": "Shy Guy",
+    "result": {
+      "album": "Tougher Than Love",
+      "artist": "Diana King",
+      "name": "Shy Guy",
+      "uri": "spotify:track:3ldG6XCLDXxWg1N6XhrSKo"
+    }
   },
   {
     "artist": "Digital Underground",
-    "title": "Humpty Dance"
+    "title": "Humpty Dance",
+    "result": {
+      "album": "Sex Packets (US Release)",
+      "artist": "Digital Underground",
+      "name": "The Humpty Dance",
+      "uri": "spotify:track:4WxQGUmWBRNovxlF2g8Xdv"
+    }
   },
   {
     "artist": "Dirty Vegas",
-    "title": "Days Go By"
+    "title": "Days Go By",
+    "result": {
+      "album": "Dirty Vegas",
+      "artist": "Dirty Vegas",
+      "name": "Days Go By - Acoustic",
+      "uri": "spotify:track:4O6Nru7BNneOkbIUkUVutO"
+    }
   },
   {
     "artist": "Disturbed",
-    "title": "Down With the Sickness"
+    "title": "Down With the Sickness",
+    "result": {
+      "album": "The Sickness 10th Anniversary Edition",
+      "artist": "Disturbed",
+      "name": "Down With The Sickness",
+      "uri": "spotify:track:4ImIJRZNJhNQLLdUFSYJoS"
+    }
   },
   {
-    "artist": "DJ DMD and the inner soul clique",
-    "title": "25 Lighters feat Lil KeKe and Fat Pat"
+    "artist": "DJ DMD",
+    "title": "25 Lighters",
+    "result": {
+      "album": "Forty Four: 3rd Coast Classics, Vol. 1",
+      "artist": "DJ DMD",
+      "name": "25 Lighters",
+      "uri": "spotify:track:51UVuDbX8WqHyn2ga4dsyG"
+    }
   },
   {
     "artist": "DJ Jazzy Jeff & the Fresh Prince",
-    "title": "Boom! Shake the Room"
+    "title": "Boom! Shake the Room",
+    "result": {
+      "album": "The Very Best Of D.J. Jazzy Jeff & The Fresh Prince",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "name": "Boom! Shake the Room",
+      "uri": "spotify:track:6l2haiCg21JT5KS1j0gUoH"
+    }
   },
   {
     "artist": "DJ Jazzy Jeff & the Fresh Prince",
-    "title": "Summertime"
+    "title": "Summertime",
+    "result": {
+      "album": "The Very Best Of D.J. Jazzy Jeff & The Fresh Prince",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "name": "Summertime - Single Edit",
+      "uri": "spotify:track:1Ckd4d6vkhvOp5HlAc5Ie2"
+    }
   },
   {
     "artist": "Dr. Alban",
-    "title": "Sing Hallelujah!"
+    "title": "Sing Hallelujah!",
+    "result": {
+      "album": "One Love (2nd Edition)",
+      "artist": "Dr. Alban",
+      "name": "Sing Hallelujah!",
+      "uri": "spotify:track:1ohbjkuczl6hEoYEo931PH"
+    }
   },
   {
     "artist": "Dr. Dre",
-    "title": "Next Episode"
+    "title": "Next Episode",
+    "result": {
+      "album": "2001 (Explicit Version)",
+      "artist": "Dr. Dre",
+      "name": "The Next Episode",
+      "uri": "spotify:track:20LxTsa6936zOlzTWqoPVt"
+    }
   },
   {
     "artist": "Dr. Dre",
-    "title": "Nuthin' But a \"G\" Thang"
+    "title": "Nuthin' But a \"G\" Thang",
+    "result": {
+      "album": "R&B Classics Collection",
+      "artist": "Dr. Dre",
+      "name": "Nuthin' But A \"G\" Thang",
+      "uri": "spotify:track:35VUTs0LoeWGp69L0jyHOZ"
+    }
   },
   {
     "artist": "Drugstore",
-    "title": "El President"
+    "title": "El President",
+    "result": {
+      "album": "The Best of Drugstore",
+      "artist": "Drugstore",
+      "name": "El President",
+      "uri": "spotify:track:1CLVKDnpYnB9c7odEKsloB"
+    }
   },
   {
     "artist": "Dub Pistols",
-    "title": "Cyclone"
+    "title": "Cyclone",
+    "result": {
+      "album": "Point Blank",
+      "artist": "Dub Pistols",
+      "name": "Cyclone",
+      "uri": "spotify:track:2qQieiApQ1TkvkZGLkbCH0"
+    }
   },
   {
     "artist": "Dynamite Hack",
-    "title": "Boyz-N-The Hood"
+    "title": "Boyz-N-The Hood",
+    "result": {
+      "album": "Boyz-N-The Hood - Single",
+      "artist": "Dynamite Hack",
+      "name": "Boyz-N-The Hood",
+      "uri": "spotify:track:10un93PelYeLHZZfUk1eQU"
+    }
   },
   {
     "artist": "Eagle Eye Cherry",
-    "title": "Save Tonight"
+    "title": "Save Tonight",
+    "result": {
+      "album": "Desireless",
+      "artist": "Eagle-Eye Cherry",
+      "name": "Save Tonight",
+      "uri": "spotify:track:7v02Sn9vYRQ6pc1lqhnkWY"
+    }
   },
   {
     "artist": "Earth Wind & Fire Vs. Phats & Small",
-    "title": "September '99 (Phats & Small Remix)"
+    "title": "September '99 (Phats & Small Remix)",
+    "result": null
   },
   {
     "artist": "Edwyn Collins",
-    "title": "Girl Like You"
+    "title": "Girl Like You",
+    "result": {
+      "album": "Gorgeous George",
+      "artist": "Edwyn Collins",
+      "name": "A Girl Like You",
+      "uri": "spotify:track:6XOINCZBv8Q7RXgNNiTwIN"
+    }
   },
   {
     "artist": "Eels",
-    "title": "Novocaine for the Soul"
+    "title": "Novocaine for the Soul",
+    "result": {
+      "album": "Meet The EELS: Essential EELS 1996-2006 Vol. 1",
+      "artist": "Eels",
+      "name": "Novocaine For The Soul",
+      "uri": "spotify:track:533QgagtVqk5MLR3VvBP3T"
+    }
   },
   {
     "artist": "Eiffel 65",
-    "title": "Blue (Da Ba Dee)"
+    "title": "Blue (Da Ba Dee)",
+    "result": {
+      "album": "Europop",
+      "artist": "Eiffel 65",
+      "name": "Blue (Da Ba Dee)",
+      "uri": "spotify:track:5FgtdSf7I5lClThz2ptWvl"
+    }
   },
   {
     "artist": "Elastica",
-    "title": "Connection"
+    "title": "Connection",
+    "result": {
+      "album": "Elastica",
+      "artist": "Elastica",
+      "name": "Connection",
+      "uri": "spotify:track:53LZqMzQEnjBkFXPqOq0cD"
+    }
   },
   {
     "artist": "Elwood",
-    "title": "Sundown"
+    "title": "Sundown",
+    "result": {
+      "album": "The Parlance Of Our Time",
+      "artist": "Elwood",
+      "name": "Sundown",
+      "uri": "spotify:track:4rLqnnxV6tgafUjGi0cwwC"
+    }
   },
   {
     "artist": "EMF",
-    "title": "Unbelievable"
+    "title": "Unbelievable",
+    "result": {
+      "album": "Playlist: Dance",
+      "artist": "EMF",
+      "name": "Unbelievable",
+      "uri": "spotify:track:1FneEQoaS41dMjX76qAVL3"
+    }
   },
   {
     "artist": "Eminem",
-    "title": "My Name Is"
+    "title": "My Name Is",
+    "result": {
+      "album": "Curtain Call (Deluxe Explicit)",
+      "artist": "Eminem",
+      "name": "My Name Is",
+      "uri": "spotify:track:4rc9kQ6qyssElIccFJgbJb"
+    }
   },
   {
     "artist": "Enigma - Enigma",
-    "title": "Sadness Part 1"
+    "title": "Sadness Part 1",
+    "result": {
+      "album": "Lsd - Love Sensuality Devotion",
+      "artist": "Enigma",
+      "name": "Sadness Part 1",
+      "uri": "spotify:track:57h06SZNL6LJ3YKZ1UGCeu"
+    }
   },
   {
     "artist": "Enrique Iglesias",
-    "title": "Bailamos"
+    "title": "Bailamos",
+    "result": {
+      "album": "UNO (95/08)",
+      "artist": "Enrique Iglesias",
+      "name": "Bailamos - Wild Wild West/Soundtrack Version",
+      "uri": "spotify:track:1OXHnIZaBGRdXT9GfyZa7G"
+    }
   },
   {
     "artist": "Eve 6",
-    "title": "Inside Out"
+    "title": "Inside Out",
+    "result": {
+      "album": "Eve 6",
+      "artist": "Eve 6",
+      "name": "Inside Out",
+      "uri": "spotify:track:4GiVcDqNQI0fc0yYuRGH9m"
+    }
   },
   {
     "artist": "Eve 6",
-    "title": "Promise"
+    "title": "Promise",
+    "result": {
+      "album": "Horrorscope",
+      "artist": "Eve 6",
+      "name": "Promise",
+      "uri": "spotify:track:5mqEL5pgnDCcWtTWpAofIV"
+    }
   },
   {
     "artist": "Everclear",
-    "title": "Everything to Everyone"
+    "title": "Everything to Everyone",
+    "result": {
+      "album": "So Much For The Afterglow",
+      "artist": "Everclear",
+      "name": "Everything To Everyone",
+      "uri": "spotify:track:1ehYgygYqN9SRpTMYT1zYV"
+    }
   },
   {
     "artist": "Everclear",
-    "title": "Santa Monica"
+    "title": "Santa Monica",
+    "result": {
+      "album": "Sparkle And Fade",
+      "artist": "Everclear",
+      "name": "Santa Monica",
+      "uri": "spotify:track:37EJtTS7jT5WUyXGZzrwnI"
+    }
   },
   {
     "artist": "Everclear",
-    "title": "Wonderful"
+    "title": "Wonderful",
+    "result": {
+      "album": "Ten Years Gone The Best Of Everclear 1994-2004",
+      "artist": "Everclear",
+      "name": "Wonderful - 2004 Digital Remaster",
+      "uri": "spotify:track:5xcSi6kSAq1MfPXVuzC5gD"
+    }
   },
   {
     "artist": "Everlast",
-    "title": "What It's Like"
+    "title": "What It's Like",
+    "result": {
+      "album": "Whitey Ford Sings The Blues",
+      "artist": "Everlast",
+      "name": "What It's Like",
+      "uri": "spotify:track:7pMVB2oz4Q4SlfTvvevNro"
+    }
   },
   {
     "artist": "Everything",
-    "title": "Hooch"
+    "title": "Hooch",
+    "result": {
+      "album": "In the Juju Underworld",
+      "artist": "Everything",
+      "name": "Hooch",
+      "uri": "spotify:track:2gaBpwTpEBiUeU13E1XeAi"
+    }
   },
   {
     "artist": "Everything But the Girl",
-    "title": "Missing"
+    "title": "Missing",
+    "result": {
+      "album": "Amplified Heart + Extra Track",
+      "artist": "Everything But The Girl",
+      "name": "Missing",
+      "uri": "spotify:track:411Ecgzht1ky1mKDSl1N7R"
+    }
   },
   {
     "artist": "Faith No More",
-    "title": "Epic"
+    "title": "Epic",
+    "result": {
+      "album": "The Real Thing",
+      "artist": "Faith No More",
+      "name": "Epic",
+      "uri": "spotify:track:4ReyTz0y3TGkX48wO3Llot"
+    }
   },
   {
     "artist": "Faithless",
-    "title": "Insomnia"
+    "title": "Insomnia",
+    "result": {
+      "album": "Ultra South Africa 2016",
+      "artist": "Faithless",
+      "name": "Insomnia - Fedde le Grand Remix",
+      "uri": "spotify:track:5blEjbK0DUQBxggguyKsEP"
+    }
   },
   {
     "artist": "Fastball",
-    "title": "The Way"
+    "title": "The Way",
+    "result": {
+      "album": "All The Pain Money Can Buy",
+      "artist": "Fastball",
+      "name": "The Way",
+      "uri": "spotify:track:7IsEXPk6qqt30FfQv4SZMa"
+    }
   },
   {
     "artist": "Fatboy Slim",
-    "title": "Gangster Tripping"
+    "title": "Gangster Tripping",
+    "result": {
+      "album": "You've Come a Long Way Baby",
+      "artist": "Fatboy Slim",
+      "name": "Gangster Tripping",
+      "uri": "spotify:track:6Bc5V1vcjsH3UKPsLMAWwG"
+    }
   },
   {
     "artist": "Fatboy Slim",
-    "title": "Praise You"
+    "title": "Praise You",
+    "result": {
+      "album": "Why Try Harder (The Greatest Hits)",
+      "artist": "Fatboy Slim",
+      "name": "Praise You",
+      "uri": "spotify:track:25bQlUokjsyZ91GvXtLrUb"
+    }
   },
   {
     "artist": "Fatboy Slim",
-    "title": "Right Here, Right Now"
+    "title": "Right Here, Right Now",
+    "result": {
+      "album": "You've Come a Long Way Baby (10th Anniversary Edition)",
+      "artist": "Fatboy Slim",
+      "name": "Right Here, Right Now",
+      "uri": "spotify:track:5kL3fvZKJ5Ua5pSqg2dkZv"
+    }
   },
   {
     "artist": "Fatboy Slim",
-    "title": "The Rockafella Skank"
+    "title": "The Rockafeller Skank",
+    "result": {
+      "album": "You've Come a Long Way Baby",
+      "artist": "Fatboy Slim",
+      "name": "The Rockafeller Skank",
+      "uri": "spotify:track:7eWYXAP87TFfF7fn2LEL1b"
+    }
   },
   {
     "artist": "Filter",
-    "title": "Hey Man Nice Shot"
+    "title": "Hey Man Nice Shot",
+    "result": {
+      "album": "Short Bus",
+      "artist": "Filter",
+      "name": "Hey Man, Nice Shot (Remastered Album Version)",
+      "uri": "spotify:track:6jc5gHCmrZW1XLcRM3wFlC"
+    }
   },
   {
     "artist": "Filter",
-    "title": "Take a Picture"
+    "title": "Take a Picture",
+    "result": {
+      "album": "Title Of Record",
+      "artist": "Filter",
+      "name": "Take A Picture",
+      "uri": "spotify:track:2c5wml8wsBnPfNSbCZ574T"
+    }
   },
   {
     "artist": "Fine Young Cannibals",
-    "title": "She Drives Me Crazy"
+    "title": "She Drives Me Crazy",
+    "result": {
+      "album": "The Platinum Collection",
+      "artist": "Fine Young Cannibals",
+      "name": "She Drives Me Crazy",
+      "uri": "spotify:track:0Zt9fqRK58Y0onY1VwaKp7"
+    }
   },
   {
     "artist": "Finley Quaye",
-    "title": "Sunday Shining"
+    "title": "Sunday Shining",
+    "result": {
+      "album": "The Best Of",
+      "artist": "Finley Quaye",
+      "name": "Sunday Shining",
+      "uri": "spotify:track:2HEp8tGdLYhwprqfh7HHmE"
+    }
   },
   {
     "artist": "Fiona Apple",
-    "title": "Criminal"
+    "title": "Criminal",
+    "result": {
+      "album": "Tidal",
+      "artist": "Fiona Apple",
+      "name": "Criminal",
+      "uri": "spotify:track:6PNvv1dmDbOWrAYwEcuKBX"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "Baker Street"
+    "title": "Baker Street",
+    "result": {
+      "album": "The Colour And The Shape (Special Edition)",
+      "artist": "Foo Fighters",
+      "name": "Baker Street",
+      "uri": "spotify:track:0IZOvlQYLCeOdZDb9zBmDE"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "Big Me"
+    "title": "Big Me",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Foo Fighters",
+      "name": "Big Me",
+      "uri": "spotify:track:04Jk0uP8SbDHLyAKfRctNQ"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "Everlong"
+    "title": "Everlong",
+    "result": {
+      "album": "The Colour And The Shape",
+      "artist": "Foo Fighters",
+      "name": "Everlong",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "Learn to Fly"
+    "title": "Learn to Fly",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Foo Fighters",
+      "name": "Learn to Fly",
+      "uri": "spotify:track:0mWiuXuLAJ3Brin3Or2x6v"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "Monkey Wrench"
+    "title": "Monkey Wrench",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Foo Fighters",
+      "name": "Monkey Wrench",
+      "uri": "spotify:track:43TxY9bYSyZ4QRPA0UJddL"
+    }
   },
   {
     "artist": "Foo Fighters",
-    "title": "My Hero"
+    "title": "My Hero",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Foo Fighters",
+      "name": "My Hero",
+      "uri": "spotify:track:7u5dBtASrtOuBTTZjJrvuJ"
+    }
   },
   {
-    "artist": "Fool's Garden",
-    "title": "Lemon Tree"
+    "artist": "Fools Garden",
+    "title": "Lemon Tree",
+    "result": {
+      "album": "Dish Of The Day",
+      "artist": "Fools Garden",
+      "name": "Lemon Tree - Album Edit",
+      "uri": "spotify:track:4jH2NgiLe1z17ev6z6i7Fz"
+    }
   },
   {
     "artist": "Fuel",
-    "title": "Hemorrhage (In My Hands)"
+    "title": "Hemorrhage (In My Hands)",
+    "result": {
+      "album": "The Best of Fuel",
+      "artist": "Fuel",
+      "name": "Hemorrhage (In My Hands)",
+      "uri": "spotify:track:3E8eSqBoqLs8ELbrK3NJHs"
+    }
   },
   {
     "artist": "Fuel",
-    "title": "Shimmer"
+    "title": "Shimmer",
+    "result": {
+      "album": "The Best of Fuel",
+      "artist": "Fuel",
+      "name": "Shimmer - Single Version",
+      "uri": "spotify:track:6DzbmjkVZpz1mrDobAoJI8"
+    }
   },
   {
     "artist": "Fun Lovin' Criminals",
-    "title": "Korean Bodega"
+    "title": "Korean Bodega",
+    "result": {
+      "album": "100% Colombian",
+      "artist": "Fun Lovin' Criminals",
+      "name": "Korean Bodega",
+      "uri": "spotify:track:2erNMUbmHXUNJ25a9IRExz"
+    }
   },
   {
     "artist": "Fun Lovin' Criminals",
-    "title": "Scooby Snacks"
+    "title": "Scooby Snacks",
+    "result": {
+      "album": "A-sides, B-sides and Rarities",
+      "artist": "Fun Lovin' Criminals",
+      "name": "Scooby Snacks",
+      "uri": "spotify:track:3cFiszJsxWK7xEXrvd8p9F"
+    }
   },
   {
     "artist": "Fun Lovin' Criminals",
-    "title": "The Fun Lovin' Criminal"
+    "title": "The Fun Lovin' Criminal",
+    "result": {
+      "album": "A-sides, B-sides and Rarities",
+      "artist": "Fun Lovin' Criminals",
+      "name": "The Fun Lovin' Criminal",
+      "uri": "spotify:track:4eytIj1CDefMixAjuYy3M8"
+    }
   },
   {
     "artist": "Fur Patrol",
-    "title": "Lydia"
+    "title": "Lydia",
+    "result": null
   },
   {
     "artist": "Garbage",
-    "title": "I Think I'm Paranoid"
+    "title": "I Think I'm Paranoid",
+    "result": {
+      "album": "Version 2.0",
+      "artist": "Garbage",
+      "name": "I Think I'm Paranoid",
+      "uri": "spotify:track:3g7WsaWWBaNldIYCSNwtuQ"
+    }
   },
   {
     "artist": "Garbage",
-    "title": "Only Happy When It Rains"
+    "title": "Only Happy When It Rains",
+    "result": {
+      "album": "Garbage",
+      "artist": "Garbage",
+      "name": "Only Happy When It Rains",
+      "uri": "spotify:track:1yea9mxOFUgcXOt5cgiBT6"
+    }
   },
   {
     "artist": "Garbage",
-    "title": "Stupid Girl"
+    "title": "Stupid Girl",
+    "result": {
+      "album": "Garbage",
+      "artist": "Garbage",
+      "name": "Stupid Girl",
+      "uri": "spotify:track:7fI96JHMnvd3Ft70Zzv74G"
+    }
   },
   {
     "artist": "Genesis",
-    "title": "I Can't Dance"
+    "title": "I Can't Dance",
+    "result": {
+      "album": "We Can't Dance",
+      "artist": "Genesis",
+      "name": "I Can't Dance - 2007 Digital Remaster",
+      "uri": "spotify:track:7safX55XidhznxK5eDdDm5"
+    }
   },
   {
     "artist": "George Thorogood & The Destroyers ",
-    "title": "Get A Haircut"
+    "title": "Get A Haircut",
+    "result": {
+      "album": "Haircut",
+      "artist": "George Thorogood & The Destroyers",
+      "name": "Get A Haircut",
+      "uri": "spotify:track:4BapXuAFLZlURi8Vyg16eE"
+    }
   },
   {
     "artist": "Geto Boys",
-    "title": "Damn It Feels Good to Be a Gangsta"
+    "title": "Damn It Feels Good to Be a Gangsta",
+    "result": {
+      "album": "Uncut Dope",
+      "artist": "Geto Boys",
+      "name": "Damn It Feels Good to Be a Gangsta",
+      "uri": "spotify:track:0HOqINudNgQFpg1le5Hnqe"
+    }
   },
   {
     "artist": "Gin Blossoms",
-    "title": "Hey Jealousy"
+    "title": "Hey Jealousy",
+    "result": {
+      "album": "I Am Angry",
+      "artist": "Gin Blossoms",
+      "name": "Hey Jealousy",
+      "uri": "spotify:track:6QUYp5AqnluDoGi7x19LFk"
+    }
   },
   {
     "artist": "Godsmack",
-    "title": "Whatever"
+    "title": "Whatever",
+    "result": {
+      "album": "Godsmack (Explicit Version)",
+      "artist": "Godsmack",
+      "name": "Whatever",
+      "uri": "spotify:track:1mfzaoVKmtSIeifmAotzM4"
+    }
   },
   {
     "artist": "Goldfinger",
-    "title": "Superman"
+    "title": "Superman",
+    "result": {
+      "album": "The Best Of Goldfinger",
+      "artist": "Goldfinger",
+      "name": "Superman",
+      "uri": "spotify:track:6cL7NCFSvqWrBH5r4mkvVV"
+    }
   },
   {
     "artist": "Gomez",
-    "title": "78 Stone Wobble"
+    "title": "78 Stone Wobble",
+    "result": {
+      "album": "Bring It On",
+      "artist": "Gomez",
+      "name": "78 Stone Wobble",
+      "uri": "spotify:track:12n8fk3Z3gOpwp32zjUuh1"
+    }
   },
   {
     "artist": "Gorillaz",
-    "title": "Clint Eastwood"
+    "title": "Clint Eastwood",
+    "result": {
+      "album": "Gorillaz",
+      "artist": "Gorillaz",
+      "name": "Clint Eastwood",
+      "uri": "spotify:track:1RKUoGiLEbcXN4GY4spQDx"
+    }
   },
   {
     "artist": "Green Day",
-    "title": "Basket Case"
+    "title": "Basket Case",
+    "result": {
+      "album": "Dookie (U.S. Version)",
+      "artist": "Green Day",
+      "name": "Basket Case",
+      "uri": "spotify:track:6L89mwZXSOwYl76YXfX13s"
+    }
   },
   {
     "artist": "Green Day",
-    "title": "Good Riddance (Time of Your Life)"
+    "title": "Good Riddance (Time of Your Life)",
+    "result": {
+      "album": "Nimrod",
+      "artist": "Green Day",
+      "name": "Good Riddance (Time Of Your Life)",
+      "uri": "spotify:track:6ORqU0bHbVCRjXm9AjyHyZ"
+    }
   },
   {
     "artist": "Green Day",
-    "title": "Longview"
+    "title": "Longview",
+    "result": {
+      "album": "Dookie (U.S. Version)",
+      "artist": "Green Day",
+      "name": "Longview",
+      "uri": "spotify:track:3LRJbFT9rKoKv4aW7PuBJC"
+    }
   },
   {
     "artist": "Green Day",
-    "title": "Welcome to Paradise"
+    "title": "Welcome to Paradise",
+    "result": {
+      "album": "Dookie (U.S. Version)",
+      "artist": "Green Day",
+      "name": "Welcome To Paradise",
+      "uri": "spotify:track:5kr3j5Clb9rjEposoMyLVt"
+    }
   },
   {
     "artist": "Grid",
-    "title": "Swamp Thing"
+    "title": "Swamp Thing",
+    "result": {
+      "album": "Pure... Dancefloor",
+      "artist": "The Grid",
+      "name": "Swamp Thing",
+      "uri": "spotify:track:3aozHICM9xNuS7v7EKeGWC"
+    }
   },
   {
     "artist": "Grinspoon",
-    "title": "Chemical Heart"
+    "title": "Chemical Heart",
+    "result": {
+      "album": "Best In Show",
+      "artist": "Grinspoon",
+      "name": "Chemical Heart",
+      "uri": "spotify:track:1VL43Dq9OTXH4oxIBf0H9x"
+    }
   },
   {
     "artist": "Groove Armada",
-    "title": "I See You Baby (Fatboy Slim mix)"
+    "title": "I See You Baby - Fatboy Slim Remix",
+    "result": {
+      "album": "Why Try Harder (The Greatest Hits)",
+      "artist": "Groove Armada",
+      "name": "I See You Baby - Fatboy Slim Remix",
+      "uri": "spotify:track:6gOcVkDVx7YAT8FgI1OI5N"
+    }
   },
   {
     "artist": "Guttermouth",
-    "title": "She's Got The Look"
+    "title": "She's Got The Look",
+    "result": {
+      "album": "Covered With Ants",
+      "artist": "Guttermouth",
+      "name": "She's Got The Look",
+      "uri": "spotify:track:0IPpDL2ZVlARtmACSzsXlc"
+    }
   },
   {
     "artist": "Haddaway",
-    "title": "What Is Love "
+    "title": "What Is Love ",
+    "result": {
+      "album": "What is Love - Remix",
+      "artist": "Haddaway",
+      "name": "What Is Love",
+      "uri": "spotify:track:2ahnofp2LbBWDXcJbMaSTu"
+    }
   },
   {
     "artist": "Hanson",
-    "title": "MMMBop"
+    "title": "MMMBop",
+    "result": {
+      "album": "Guilty Pleasures (International Version)",
+      "artist": "Hanson",
+      "name": "MMMBop - Single Version",
+      "uri": "spotify:track:4PgPnzbAgjCQ2eA6YAWcUw"
+    }
   },
   {
     "artist": "Harvey Danger",
-    "title": "Flagpole Sitta"
+    "title": "Flagpole Sitta",
+    "result": {
+      "album": "Where Have All The Merrymakers Gone?",
+      "artist": "Harvey Danger",
+      "name": "Flagpole Sitta",
+      "uri": "spotify:track:5e9lA7pDOQcpt8NLyOpeKd"
+    }
   },
   {
     "artist": "Headless Chickens",
-    "title": "Cruise Control"
+    "title": "Cruise Control",
+    "result": {
+      "album": "Cruise Control",
+      "artist": "Headless Chickens",
+      "name": "Cruise Control",
+      "uri": "spotify:track:4zKAlGuOLRShZgSYVNM0Rr"
+    }
   },
   {
     "artist": "Headless Chickens",
-    "title": "George"
+    "title": "George",
+    "result": {
+      "album": "Headless Chickens",
+      "artist": "Headless Chickens",
+      "name": "George",
+      "uri": "spotify:track:5gU25On0cSSGNwPSO9xvUR"
+    }
   },
   {
     "artist": "Hole",
-    "title": "Celebrity Skin"
+    "title": "Celebrity Skin",
+    "result": {
+      "album": "Celebrity Skin",
+      "artist": "Hole",
+      "name": "Celebrity Skin",
+      "uri": "spotify:track:2VTQAjZr7FPoEJD2sNoH3o"
+    }
   },
   {
     "artist": "Hootie & the Blowfish",
-    "title": "Hold My Hand"
+    "title": "Hold My Hand",
+    "result": {
+      "album": "Sesame Street: Songs from the Street, Vol. 5",
+      "artist": "Hootie & The Blowfish",
+      "name": "Hold My Hand",
+      "uri": "spotify:track:2MDs9xrWdxU6hmCSKXTx7g"
+    }
   },
   {
     "artist": "Hootie & the Blowfish",
-    "title": "Only Wanna Be With You"
+    "title": "Only Wanna Be With You",
+    "result": {
+      "album": "Ted: Original Motion Picture Soundtrack",
+      "artist": "Hootie & The Blowfish",
+      "name": "Only Wanna Be With You",
+      "uri": "spotify:track:6KoGNovjlbNg67dD3jfYiv"
+    }
   },
   {
     "artist": "House of Pain",
-    "title": "Jump Around"
+    "title": "Jump Around",
+    "result": {
+      "album": "House Of Pain (US Release)",
+      "artist": "House Of Pain",
+      "name": "Jump Around",
+      "uri": "spotify:track:2oTDOIAdsxPTE7yAp4YOcv"
+    }
   },
   {
     "artist": "I Mother Earth",
-    "title": "One More Astronaut"
+    "title": "One More Astronaut",
+    "result": {
+      "album": "Drive Fast, Rock Hard",
+      "artist": "I Mother Earth",
+      "name": "One More Astronaut",
+      "uri": "spotify:track:3l20bPHgAFsFPRogdTNXWS"
+    }
   },
   {
     "artist": "Ice Cube",
-    "title": "Check Yo Self (The Message remix)"
+    "title": "Check Yo Self - Remix",
+    "result": {
+      "album": "Bootlegs And B-Sides (Explicit)",
+      "artist": "Ice Cube",
+      "name": "Check Yo Self - Remix;",
+      "uri": "spotify:track:3NGT0Td7H4Is1qrlDQJxma"
+    }
   },
   {
     "artist": "Imani Coppola",
-    "title": "Legend Of A Cowgirl"
+    "title": "Legend Of A Cowgirl",
+    "result": {
+      "album": "The Essential Urban",
+      "artist": "Imani Coppola",
+      "name": "Legend Of A Cowgirl",
+      "uri": "spotify:track:4PfoyCTWKEwyKp6Hav76TR"
+    }
   },
   {
     "artist": "Imperial Teen",
-    "title": "You're One"
+    "title": "You're One",
+    "result": null
   },
   {
     "artist": "Incubus",
-    "title": "Drive"
+    "title": "Drive",
+    "result": {
+      "album": "Make Yourself",
+      "artist": "Incubus",
+      "name": "Drive",
+      "uri": "spotify:track:7nnWIPM5hwE3DaUBkvOIpy"
+    }
   },
   {
     "artist": "Incubus",
-    "title": "Pardon Me"
+    "title": "Pardon Me",
+    "result": {
+      "album": "Make Yourself",
+      "artist": "Incubus",
+      "name": "Pardon Me",
+      "uri": "spotify:track:1Y13csEpu3TK5gQdzGLrd8"
+    }
   },
   {
     "artist": "Ini Kamoze",
-    "title": "Here Comes the Hotstepper"
+    "title": "Here Comes the Hotstepper",
+    "result": {
+      "album": "Here Comes The Hotstepper",
+      "artist": "Ini Kamoze",
+      "name": "Here Comes the Hotstepper - Heartical Mix",
+      "uri": "spotify:track:3QRM0qZB7oMYavveH0iEqx"
+    }
   },
   {
     "artist": "Inner Circle",
-    "title": "Bad Boys"
+    "title": "Bad Boys",
+    "result": {
+      "album": "Blazzin' Fire",
+      "artist": "Inner Circle",
+      "name": "Bad Boys (Theme From COPS)",
+      "uri": "spotify:track:0qeKzbUsW0V4ZWRJrHNiD3"
+    }
   },
   {
     "artist": "Inner Circle",
-    "title": "Games People Play"
+    "title": "Games People Play",
+    "result": {
+      "album": "Blazzin' Fire",
+      "artist": "Inner Circle",
+      "name": "Games People Play",
+      "uri": "spotify:track:1VkNLfYxoS7Uc80xvt1xBK"
+    }
   },
   {
     "artist": "INXS",
-    "title": "Suicide Blonde"
+    "title": "Suicide Blonde",
+    "result": {
+      "album": "INXS Remastered",
+      "artist": "INXS",
+      "name": "Suicide Blonde",
+      "uri": "spotify:track:6XxFTFauoIwxcEjeped3Iz"
+    }
   },
   {
     "artist": "Iron Maiden",
-    "title": "Fear of the Dark"
+    "title": "Fear of the Dark",
+    "result": {
+      "album": "Ed Hunter",
+      "artist": "Iron Maiden",
+      "name": "Fear Of The Dark - 1998 Remastered Version",
+      "uri": "spotify:track:6q9CRTF8dyABIcKj7bCJwf"
+    }
   },
   {
     "artist": "Jagged Edge",
-    "title": "Where the Party At"
+    "title": "Where the Party At",
+    "result": {
+      "album": "Jagged Little Thrill",
+      "artist": "Jagged Edge",
+      "name": "Where the Party At",
+      "uri": "spotify:track:5mNV8Mz59bzyuQ53gTw0c0"
+    }
   },
   {
     "artist": "Jamiroquai",
-    "title": "Alright"
+    "title": "Alright",
+    "result": {
+      "album": "Travelling Without Moving",
+      "artist": "Jamiroquai",
+      "name": "Alright - Remastered",
+      "uri": "spotify:track:0cL0AarTZtfSt5Tc3a2ZDN"
+    }
   },
   {
     "artist": "Jamiroquai",
-    "title": "Canned Heat"
+    "title": "Canned Heat",
+    "result": {
+      "album": "Synkronized",
+      "artist": "Jamiroquai",
+      "name": "Canned Heat",
+      "uri": "spotify:track:0RWqE2ZaulvnN1i40qIhDh"
+    }
   },
   {
     "artist": "Jamiroquai",
-    "title": "Virtual Insanity"
+    "title": "Virtual Insanity",
+    "result": {
+      "album": "Sunday Morning Songs",
+      "artist": "Jamiroquai",
+      "name": "Virtual Insanity",
+      "uri": "spotify:track:2T8WdJTfh8mKnLn4hqJbQT"
+    }
   },
   {
     "artist": "Jane's Addiction",
-    "title": "Been Caught Stealing"
+    "title": "Been Caught Stealing",
+    "result": {
+      "album": "Ritual De Lo Habitual",
+      "artist": "Jane's Addiction",
+      "name": "Been Caught Stealing",
+      "uri": "spotify:track:4Qievb8Mqy0qxdLNVl02zt"
+    }
   },
   {
     "artist": "Jane's Addiction",
-    "title": "Jane Says"
+    "title": "Jane Says",
+    "result": {
+      "album": "Nothing's Shocking",
+      "artist": "Jane's Addiction",
+      "name": "Jane Says",
+      "uri": "spotify:track:7c1Dar0pIAW7w5TzaGjt9t"
+    }
   },
   {
     "artist": "Janet Jackson",
-    "title": "Runaway"
+    "title": "Runaway",
+    "result": {
+      "album": "The Best (International Bonus Track Version)",
+      "artist": "Janet Jackson",
+      "name": "Runaway",
+      "uri": "spotify:track:4JMjOUkgXxXLaYE5UeLibB"
+    }
   },
   {
     "artist": "Janet Jackson",
-    "title": "Together Again"
+    "title": "Together Again",
+    "result": {
+      "album": "The Velvet Rope",
+      "artist": "Janet Jackson",
+      "name": "Together Again",
+      "uri": "spotify:track:1GrikfH0jDejDvrxo84n4P"
+    }
   },
   {
     "artist": "Jars of Clay",
-    "title": "Flood"
+    "title": "Flood",
+    "result": {
+      "album": "Jars Of Clay",
+      "artist": "Jars Of Clay",
+      "name": "Flood",
+      "uri": "spotify:track:4wSqP7Vo7HcoakudSMzxAO"
+    }
   },
   {
     "artist": "Jay-Z",
-    "title": "Can I Get A..."
+    "title": "Can I Get A...",
+    "result": {
+      "album": "Vol. 2 Hard Knock Life",
+      "artist": "JAY Z",
+      "name": "Can I Get A...",
+      "uri": "spotify:track:5eTE5QaJPQzypErfIs1Jk4"
+    }
   },
   {
     "artist": "Jay-Z",
-    "title": "Hard Knock Life  (The Ghetto Anthem)"
+    "title": "Hard Knock Life  (The Ghetto Anthem)",
+    "result": {
+      "album": "The Hits Collection Volume One [Deluxe Edition (Explicit)]",
+      "artist": "JAY Z",
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "uri": "spotify:track:6CWiDYxP6pZg2WwYuYg4Ol"
+    }
   },
   {
     "artist": "Jeff Buckley",
-    "title": "Hallelujah"
+    "title": "Hallelujah",
+    "result": {
+      "album": "Grace (Legacy Edition)",
+      "artist": "Jeff Buckley",
+      "name": "Hallelujah",
+      "uri": "spotify:track:74X1epeRufHckhuX1KFD04"
+    }
   },
   {
     "artist": "Jennifer Paige",
-    "title": "Crush"
+    "title": "Crush",
+    "result": {
+      "album": "Crush",
+      "artist": "Jennifer Paige",
+      "name": "Crush",
+      "uri": "spotify:track:6wAV49hRfOiCTHztORMy8Y"
+    }
   },
   {
     "artist": "Jesus Jones",
-    "title": "Right Here, Right Now"
+    "title": "Right Here, Right Now",
+    "result": {
+      "album": "Doubt",
+      "artist": "Jesus Jones",
+      "name": "Right Here Right Now",
+      "uri": "spotify:track:3fcGGP62sllcNEhuFJVYeC"
+    }
   },
   {
     "artist": "Jimmie's Chicken Shack",
-    "title": "High"
+    "title": "High",
+    "result": {
+      "album": "2 For 1 Special",
+      "artist": "Jimmie's Chicken Shack",
+      "name": "High",
+      "uri": "spotify:track:4MJ4qebEk6osbbgqkdSEWJ"
+    }
   },
   {
     "artist": "Jimmy Cliff",
-    "title": "I Can See Clearly Now"
+    "title": "I Can See Clearly Now",
+    "result": {
+      "album": "We All Are One: The Best Of Jimmy Cliff",
+      "artist": "Jimmy Cliff",
+      "name": "I Can See Clearly Now",
+      "uri": "spotify:track:7aJZxI6TVdIvQSuWxQ4rqp"
+    }
   },
   {
     "artist": "Jimmy Eat World",
-    "title": "Bleed American"
+    "title": "Bleed American",
+    "result": {
+      "album": "Bleed American (Deluxe Edition)",
+      "artist": "Jimmy Eat World",
+      "name": "Bleed American",
+      "uri": "spotify:track:7wUUggmZV5cBlgEudvfAtj"
+    }
   },
   {
     "artist": "John Davis",
-    "title": "Theme From Beverly Hills, 90210"
+    "title": "Theme From Beverly Hills, 90210",
+    "result": {
+      "album": "Beverly Hills 90210-The Soundtrack",
+      "artist": "John Davis",
+      "name": "Theme From Beverly Hills, 90210",
+      "uri": "spotify:track:1m2iupVGsU00qSnuedBg76"
+    }
   },
   {
     "artist": "Jurassic 5",
-    "title": "Quality Control"
+    "title": "Quality Control",
+    "result": {
+      "album": "Quality Control",
+      "artist": "Jurassic 5",
+      "name": "Quality Control",
+      "uri": "spotify:track:0VEr17aiy1HCMefwtniW6j"
+    }
   },
   {
     "artist": "Jurassic 5",
-    "title": "What's Golden"
+    "title": "What's Golden",
+    "result": {
+      "album": "Power In Numbers (Explicit Version)",
+      "artist": "Jurassic 5",
+      "name": "What's Golden",
+      "uri": "spotify:track:29SQc0rWYpWyMWy5juXx04"
+    }
   },
   {
     "artist": "Jx",
-    "title": "Son of a Gun"
+    "title": "Son of a Gun",
+    "result": {
+      "album": "THE BEST EVER: 90s Dance",
+      "artist": "JX",
+      "name": "Son Of A Gun",
+      "uri": "spotify:track:2c5tyFBP9Z6YECjtu9URSi"
+    }
   },
   {
     "artist": "Kid Rock",
-    "title": "Bawitdaba"
+    "title": "Bawitdaba",
+    "result": {
+      "album": "Devil Without A Cause",
+      "artist": "Kid Rock",
+      "name": "Bawitdaba",
+      "uri": "spotify:track:0f37VQs969vZUL4gVfHRV9"
+    }
   },
   {
     "artist": "King Kapisi",
-    "title": "Screems from Da Old Plantation"
+    "title": "Screems from Da Old Plantation",
+    "result": {
+      "album": "Savage Thoughts",
+      "artist": "King Kapisi",
+      "name": "Screems From Da Old Plantation",
+      "uri": "spotify:track:1DPMqbabMHKm8bN04arwK8"
+    }
   },
   {
     "artist": "King Missile",
-    "title": "Detachable Penis"
+    "title": "Detachable Penis",
+    "result": {
+      "album": "Rhino Hi-Five: King Missile",
+      "artist": "King Missile",
+      "name": "Detachable Penis",
+      "uri": "spotify:track:3vA3kv3NDvOpFQA3bFkGbw"
+    }
   },
   {
     "artist": "Korn",
-    "title": "A.D.I.D.A.S."
+    "title": "A.D.I.D.A.S.",
+    "result": {
+      "album": "Life Is Peachy",
+      "artist": "Korn",
+      "name": "A.D.I.D.A.S.",
+      "uri": "spotify:track:0xgsyoVvRFSYvV5cdtYhX1"
+    }
   },
   {
     "artist": "Korn",
-    "title": "Freak on a Leash"
+    "title": "Freak on a Leash",
+    "result": {
+      "album": "Follow The Leader",
+      "artist": "Korn",
+      "name": "Freak On a Leash",
+      "uri": "spotify:track:7B9S4RiRczdw1B9ddjpFe8"
+    }
   },
   {
     "artist": "Korn",
-    "title": "Got the Life"
+    "title": "Got the Life",
+    "result": {
+      "album": "Follow The Leader",
+      "artist": "Korn",
+      "name": "Got the Life",
+      "uri": "spotify:track:2IdHMVUxMbLHW5HU4OvOcZ"
+    }
   },
   {
     "artist": "Kris Kross",
-    "title": "Jump"
+    "title": "Jump",
+    "result": {
+      "album": "Totally Krossed Out",
+      "artist": "Kris Kross",
+      "name": "Jump",
+      "uri": "spotify:track:27AHAtAirQapVldIm4c9ZX"
+    }
   },
   {
     "artist": "Kula Shaker",
-    "title": "Hush"
+    "title": "Hush",
+    "result": {
+      "album": "Clasicos Del Cine",
+      "artist": "Kula Shaker",
+      "name": "Hush",
+      "uri": "spotify:track:6uHCoymNMOmnaTCjalIygj"
+    }
   },
   {
     "artist": "Kula Shaker",
-    "title": "Tattva"
-  },
-  {
-    "artist": "La Bouche & Melanie Thornton",
-    "title": "Sweet Dreams"
+    "title": "Tattva",
+    "result": {
+      "album": "K",
+      "artist": "Kula Shaker",
+      "name": "Tattva",
+      "uri": "spotify:track:0rJA9FjhUTPywOUd0rlb1i"
+    }
   },
   {
     "artist": "La Bouche",
-    "title": "Be My Lover"
+    "title": "Sweet Dreams",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "La Bouche",
+      "name": "Sweet Dreams",
+      "uri": "spotify:track:2wz5weI4PREzpexKfrKgwv"
+    }
+  },
+  {
+    "artist": "La Bouche",
+    "title": "Be My Lover",
+    "result": {
+      "album": "50 Summer Hits",
+      "artist": "La Bouche",
+      "name": "Be My Lover",
+      "uri": "spotify:track:1bttWPpJQmn9zdi951BcAZ"
+    }
   },
   {
     "artist": "Larry Mullen & Adam Clayton",
-    "title": "Theme from Mission- Impossible"
+    "title": "Theme from Mission- Impossible",
+    "result": null
   },
   {
     "artist": "Lauryn Hill",
-    "title": "Doo Wop (That Thing)"
+    "title": "Doo Wop (That Thing)",
+    "result": {
+      "album": "The Miseducation of Lauryn Hill",
+      "artist": "Ms. Lauryn Hill",
+      "name": "Doo Wop (That Thing)",
+      "uri": "spotify:track:2Uu8IiLkLY0UXhCHka4Dlr"
+    }
   },
   {
     "artist": "Lauryn Hill",
-    "title": "Everything Is Everything"
+    "title": "Everything Is Everything",
+    "result": {
+      "album": "The Miseducation of Lauryn Hill",
+      "artist": "Ms. Lauryn Hill",
+      "name": "Everything Is Everything",
+      "uri": "spotify:track:09RS0QfhJVmx1zwwEGtMQu"
+    }
   },
   {
     "artist": "LEN",
-    "title": "Steal My Sunshine"
+    "title": "Steal My Sunshine",
+    "result": {
+      "album": "GO Music From The Motion Picture",
+      "artist": "Len",
+      "name": "Steal My Sunshine",
+      "uri": "spotify:track:2GRnDQCkcN6BoujfUgywOW"
+    }
   },
   {
     "artist": "Lenny Kravitz",
-    "title": "Are You Gonna Go My Way"
+    "title": "Are You Gonna Go My Way",
+    "result": {
+      "album": "Are You Gonna Go My Way",
+      "artist": "Lenny Kravitz",
+      "name": "Are You Gonna Go My Way",
+      "uri": "spotify:track:45Ia1U4KtIjAPPU7Wv1Sea"
+    }
   },
   {
     "artist": "Lenny Kravitz",
-    "title": "Fly Away"
+    "title": "Fly Away",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Lenny Kravitz",
+      "name": "Fly Away",
+      "uri": "spotify:track:0n0eMsX7WgEtc7dlscbuKU"
+    }
   },
   {
-    "artist": "LFO",
-    "title": "Summer Girls"
+    "artist": "Lyte Funkie Ones",
+    "title": "Summer Girls",
+    "result": {
+      "album": "LFO",
+      "artist": "Lyte Funkie Ones",
+      "name": "Summer Girls",
+      "uri": "spotify:track:7uYroF9RRrhRJBrigRvB6H"
+    }
   },
   {
     "artist": "Lighthouse Family",
-    "title": "High"
+    "title": "High",
+    "result": {
+      "album": "Postcards From Heaven",
+      "artist": "Lighthouse Family",
+      "name": "High",
+      "uri": "spotify:track:1KP6ieHBqTmEjqLy75gAEn"
+    }
   },
   {
     "artist": "Limp Bizkit",
-    "title": "Break Stuff"
+    "title": "Break Stuff",
+    "result": {
+      "album": "Greatest Hitz (Explicit Version)",
+      "artist": "Limp Bizkit",
+      "name": "Break Stuff",
+      "uri": "spotify:track:40bH4IjgbKDz0OFcjr028i"
+    }
   },
   {
     "artist": "Limp Bizkit",
-    "title": "Nookie"
+    "title": "Nookie",
+    "result": {
+      "album": "Significant Other (Explicit Version)",
+      "artist": "Limp Bizkit",
+      "name": "Nookie",
+      "uri": "spotify:track:47Wf9dKEHGptcL1lyQIsZk"
+    }
   },
   {
     "artist": "Limp Bizkit",
-    "title": "Re-Arranged"
+    "title": "Re-Arranged",
+    "result": {
+      "album": "Greatest Hitz (Explicit Version)",
+      "artist": "Limp Bizkit",
+      "name": "Re-Arranged",
+      "uri": "spotify:track:3NIQyT712BFynV4B1El9Db"
+    }
   },
   {
     "artist": "Limp Bizkit",
-    "title": "Rollin' (Air Raid Vehicle)"
+    "title": "Rollin' (Air Raid Vehicle)",
+    "result": {
+      "album": "Greatest Hitz (Explicit Version)",
+      "artist": "Limp Bizkit",
+      "name": "Rollin' (Air Raid Vehicle)",
+      "uri": "spotify:track:65LTO4ikfU6zu3ZQYToNdk"
+    }
   },
   {
     "artist": "Lit",
-    "title": "My Own Worst Enemy"
+    "title": "My Own Worst Enemy",
+    "result": {
+      "album": "A Place In The Sun",
+      "artist": "Lit",
+      "name": "My Own Worst Enemy",
+      "uri": "spotify:track:33iv3wnGMrrDugd7GBso1z"
+    }
   },
   {
     "artist": "Live",
-    "title": "I Alone"
+    "title": "I Alone",
+    "result": {
+      "album": "Throwing Copper",
+      "artist": "Live",
+      "name": "I Alone",
+      "uri": "spotify:track:7ndelVxF4Y8K6xg8WXUVMV"
+    }
   },
   {
     "artist": "Live",
-    "title": "Lightning Crashes"
+    "title": "Lightning Crashes",
+    "result": {
+      "album": "Throwing Copper",
+      "artist": "Live",
+      "name": "Lightning Crashes",
+      "uri": "spotify:track:5vVmnv4EN3X2VBa5Fo3UFM"
+    }
   },
   {
     "artist": "Liz Phair",
-    "title": "Polyester Bride"
+    "title": "Polyester Bride",
+    "result": {
+      "album": "Whitechocolatespaceegg",
+      "artist": "Liz Phair",
+      "name": "Polyester Bride",
+      "uri": "spotify:track:3Tbs9O6zy07BjjCU1omonJ"
+    }
   },
   {
     "artist": "LL Cool J",
-    "title": "Mama Said Knock You Out"
+    "title": "Mama Said Knock You Out",
+    "result": {
+      "album": "Mama Said Knock You Out (Deluxe Edition)",
+      "artist": "LL Cool J",
+      "name": "Mama Said Knock You Out",
+      "uri": "spotify:track:4F69LVvV9fWsMRLUGz8C4f"
+    }
   },
   {
     "artist": "Lo-Fidelity Allstars",
-    "title": "Battle Flag (feat. Pigeonhed)"
+    "title": "Battle Flag (feat. Pigeonhed)",
+    "result": {
+      "album": "How To Operate With A Blown Mind",
+      "artist": "Lo Fidelity Allstars feat. Pigeonhed",
+      "name": "Battle Flag (Feat. Pigeonhead)",
+      "uri": "spotify:track:6FntYGBf8ZhbX4thNCuBWs"
+    }
   },
   {
     "artist": "Local H",
-    "title": "All the Kids Are Right"
+    "title": "All the Kids Are Right",
+    "result": {
+      "album": "Best Of Local H – The Island Years",
+      "artist": "Local H",
+      "name": "All The Kids Are Right - Without Next",
+      "uri": "spotify:track:75u8QU2HmiTU9nS82rjrNM"
+    }
   },
   {
     "artist": "Local H",
-    "title": "Bound for the Floor"
+    "title": "Bound for the Floor",
+    "result": {
+      "album": "Best Of Local H – The Island Years",
+      "artist": "Local H",
+      "name": "Bound For The Floor",
+      "uri": "spotify:track:0KRMuoEIFnxQRcJcX2jyYq"
+    }
   },
   {
     "artist": "Local H",
-    "title": "Fritz's Corner"
+    "title": "Fritz's Corner",
+    "result": {
+      "album": "Best Of Local H – The Island Years",
+      "artist": "Local H",
+      "name": "Fritz's Corner",
+      "uri": "spotify:track:3Ig3uOEWfuHAcIrVBuJoKM"
+    }
   },
   {
     "artist": "Londonbeat",
-    "title": "I've Been Thinking About You"
+    "title": "I've Been Thinking About You",
+    "result": {
+      "album": "Fetenkult - Best Of The 90's",
+      "artist": "Londonbeat",
+      "name": "I've Been Thinking About You",
+      "uri": "spotify:track:5ojjL1ypuOtqqOpb4QiM1M"
+    }
   },
   {
     "artist": "Los del Rio",
-    "title": "Macarena"
+    "title": "Macarena",
+    "result": {
+      "album": "50 Summer Hits",
+      "artist": "Los Del Rio",
+      "name": "Macarena",
+      "uri": "spotify:track:1qCFAg2xNJWZF0D5JpDkRu"
+    }
   },
   {
     "artist": "Lou Bega",
-    "title": "Mambo No. 5 (A Little Bit of...)"
+    "title": "Mambo No. 5 (A Little Bit of...)",
+    "result": {
+      "album": "King of Mambo",
+      "artist": "Lou Bega",
+      "name": "Mambo No. 5 (A Little Bit of...)",
+      "uri": "spotify:track:5lA6mFOvaiienokVbTZEQx"
+    }
   },
   {
     "artist": "Lucas",
-    "title": "Lucas With the Lid Off"
+    "title": "Lucas With the Lid Off",
+    "result": {
+      "album": "Surreal Gourmet",
+      "artist": "Lucas",
+      "name": "Lucas With The Lid Off",
+      "uri": "spotify:track:6lpbGwgTcpxYhJxzbpArrw"
+    }
   },
   {
     "artist": "Ludacris",
-    "title": "Saturday (Oooh Oooh!)"
+    "title": "Saturday (Oooh Oooh!)",
+    "result": {
+      "album": "Word Of Mouf (Explicit)",
+      "artist": "Ludacris",
+      "name": "Saturday (Oooh! Ooooh!)",
+      "uri": "spotify:track:4exQxAmTBIfXe4u0vV2m3R"
+    }
   },
   {
     "artist": "Luniz",
-    "title": "I Got 5 on It"
+    "title": "I Got 5 on It",
+    "result": {
+      "album": "Yukmouth Presents: 420",
+      "artist": "Luniz",
+      "name": "I Got 5 On It",
+      "uri": "spotify:track:7vfvZp6KZJpxiaW6rI9ieM"
+    }
   },
   {
     "artist": "Luscious Jackson",
-    "title": "Naked Eye"
+    "title": "Naked Eye",
+    "result": {
+      "album": "Fever In Fever Out",
+      "artist": "Luscious Jackson",
+      "name": "Naked Eye",
+      "uri": "spotify:track:6YtkOhiHmf46w1noltVnF2"
+    }
   },
   {
     "artist": "Luscious Jackson",
-    "title": "Under Your Skin"
+    "title": "Under Your Skin",
+    "result": {
+      "album": "Fever In Fever Out",
+      "artist": "Luscious Jackson",
+      "name": "Under Your Skin",
+      "uri": "spotify:track:3rfLMYaegMM4XXdyIOeELi"
+    }
   },
   {
     "artist": "Mad Season",
-    "title": "River of Deceit"
+    "title": "River of Deceit",
+    "result": {
+      "album": "Above",
+      "artist": "Mad Season",
+      "name": "River Of Deceit",
+      "uri": "spotify:track:3e2fDgC93LGc9Lbdvr6I9k"
+    }
   },
   {
     "artist": "Madison Avenue",
-    "title": "Don't Call Me Baby"
+    "title": "Don't Call Me Baby",
+    "result": {
+      "album": "Don't Call Me Baby (2014 Remixes)",
+      "artist": "Madison Avenue",
+      "name": "Don't Call Me Baby - Just A Gent Remix",
+      "uri": "spotify:track:4kcjisLIBHhOIh10zFrGWJ"
+    }
   },
   {
     "artist": "Madonna",
-    "title": "Ray of Light"
+    "title": "Ray of Light",
+    "result": {
+      "album": "Ray Of Light (U.S. Version)",
+      "artist": "Madonna",
+      "name": "Ray Of Light",
+      "uri": "spotify:track:4Fpsa3pYc3gozrxHRRPvR6"
+    }
   },
   {
     "artist": "Madonna",
-    "title": "Vogue"
+    "title": "Vogue",
+    "result": {
+      "album": "Celebration (double disc version)",
+      "artist": "Madonna",
+      "name": "Vogue",
+      "uri": "spotify:track:27QvYgBk0CHOVHthWnkuWt"
+    }
   },
   {
     "artist": "Mandy Moore",
-    "title": "Candy"
+    "title": "Candy",
+    "result": {
+      "album": "The Best of Mandy Moore",
+      "artist": "Mandy Moore",
+      "name": "Candy",
+      "uri": "spotify:track:1EZhWJQFf85g6d055Gji8c"
+    }
   },
   {
     "artist": "Manic Street Preachers",
-    "title": "If You Tolerate This Your Children Will Be Next"
+    "title": "If You Tolerate This Your Children Will Be Next",
+    "result": {
+      "album": "Forever Delayed",
+      "artist": "Manic Street Preachers",
+      "name": "If You Tolerate This Your Children Will Be Next",
+      "uri": "spotify:track:4caRcqZl3JyrxwhgV5HGQ8"
+    }
   },
   {
     "artist": "Marc Cohn",
-    "title": "Walking in Memphis"
+    "title": "Walking in Memphis",
+    "result": {
+      "album": "Marc Cohn",
+      "artist": "Marc Cohn",
+      "name": "Walking In Memphis",
+      "uri": "spotify:track:5fgkjhICZnqFctrV0AyuQD"
+    }
   },
   {
     "artist": "Marcy Playground",
-    "title": "Comin' up from Behind"
+    "title": "Comin' up from Behind",
+    "result": {
+      "album": "Cruel Intentions",
+      "artist": "Marcy Playground",
+      "name": "Comin' Up From Behind - Soundtrack Version",
+      "uri": "spotify:track:6Ll9vQBrTbt1OXZutNNeQv"
+    }
   },
   {
     "artist": "Marcy Playground",
-    "title": "Saint Joe on the School Bus"
+    "title": "Saint Joe on the School Bus",
+    "result": {
+      "album": "Marcy Playground",
+      "artist": "Marcy Playground",
+      "name": "Saint Joe On The School Bus",
+      "uri": "spotify:track:1LC2Hcgf2RgEbxPHNTnzaC"
+    }
   },
   {
     "artist": "Marcy Playground",
-    "title": "Sex and Candy"
+    "title": "Sex and Candy",
+    "result": {
+      "album": "Marcy Playground",
+      "artist": "Marcy Playground",
+      "name": "Sex And Candy",
+      "uri": "spotify:track:5mkGfmJGFZpwK9nA5amOhv"
+    }
   },
   {
     "artist": "Mariah Carey",
-    "title": "Fantasy"
+    "title": "Fantasy",
+    "result": {
+      "album": "Daydream",
+      "artist": "Mariah Carey",
+      "name": "Fantasy",
+      "uri": "spotify:track:6xkryXuiZU360Lngd4sx13"
+    }
   },
   {
     "artist": "Mariah Carey",
-    "title": "Heartbreaker (feat. Jay-Z)"
+    "title": "Heartbreaker",
+    "result": {
+      "album": "Rainbow",
+      "artist": "Mariah Carey",
+      "name": "Heartbreaker",
+      "uri": "spotify:track:0jsANwwkkHyyeNyuTFq2XO"
+    }
   },
   {
     "artist": "Marilyn Manson",
-    "title": "Beautiful People"
+    "title": "Beautiful People",
+    "result": {
+      "album": "Lest We Forget (The Best Of) [International Version (Explicit)]",
+      "artist": "Marilyn Manson",
+      "name": "The Beautiful People",
+      "uri": "spotify:track:0Jy2S50dmRT3te5OeCEARx"
+    }
   },
   {
     "artist": "Marilyn Manson",
-    "title": "Golden Years"
+    "title": "Golden Years",
+    "result": null
   },
   {
     "artist": "Marilyn Manson",
-    "title": "I Don't Like the Drugs (But the Drugs Like Me)"
+    "title": "I Don't Like the Drugs (But the Drugs Like Me)",
+    "result": {
+      "album": "Mechanical Animals (Explicit Version)",
+      "artist": "Marilyn Manson",
+      "name": "I Don't Like The Drugs (But The Drugs Like Me)",
+      "uri": "spotify:track:1ZmeCfoWYcLi0sXuxmpogc"
+    }
   },
   {
     "artist": "Marilyn Manson",
-    "title": "The Dope Show"
+    "title": "The Dope Show",
+    "result": {
+      "album": "Mechanical Animals (Explicit Version)",
+      "artist": "Marilyn Manson",
+      "name": "The Dope Show",
+      "uri": "spotify:track:1wrIp2G2kEa2pt6jsUJ05A"
+    }
   },
   {
     "artist": "Mark Morrison",
-    "title": "Return of the Mack"
+    "title": "Return of the Mack",
+    "result": {
+      "album": "Return Of The Mack",
+      "artist": "Mark Morrison",
+      "name": "Return Of The Mack - C & J Street Mix",
+      "uri": "spotify:track:3jDdpx9PMlfMBS5tOBHFm9"
+    }
   },
   {
     "artist": "Massive Attack",
-    "title": "Angel"
+    "title": "Angel",
+    "result": {
+      "album": "Mezzanine",
+      "artist": "Massive Attack",
+      "name": "Angel",
+      "uri": "spotify:track:7uv632EkfwYhXoqf8rhYrg"
+    }
   },
   {
     "artist": "Massive Attack",
-    "title": "Inertia Creeps"
+    "title": "Inertia Creeps",
+    "result": {
+      "album": "Mezzanine",
+      "artist": "Massive Attack",
+      "name": "Inertia Creeps",
+      "uri": "spotify:track:3N2UhXZI4Gf64Ku3cCjz2g"
+    }
   },
   {
     "artist": "Massive Attack",
-    "title": "Protection"
+    "title": "Protection",
+    "result": {
+      "album": "Protection",
+      "artist": "Massive Attack",
+      "name": "Protection",
+      "uri": "spotify:track:3kKVqFF4pv4EXeQe428zl2"
+    }
   },
   {
     "artist": "Massive Attack",
-    "title": "Unfinished Sympathy"
+    "title": "Unfinished Sympathy",
+    "result": {
+      "album": "Collected",
+      "artist": "Massive Attack",
+      "name": "Unfinished Sympathy - 2006 Digital Remaster",
+      "uri": "spotify:track:10CiC7n8xCJJpbNcBpHsXc"
+    }
   },
   {
     "artist": "Master P",
-    "title": "Make 'Em Say Ugh"
+    "title": "Make 'Em Say Ugh",
+    "result": {
+      "album": "Ghetto D",
+      "artist": "Master P",
+      "name": "Make 'Em Say Ugh",
+      "uri": "spotify:track:0l3wp8iEtN8rgag9eTeorW"
+    }
   },
   {
     "artist": "Matchbox 20",
-    "title": "Back 2 Good"
+    "title": "Back 2 Good",
+    "result": {
+      "album": "Yourself Or Someone Like You",
+      "artist": "Matchbox Twenty",
+      "name": "Back 2 Good",
+      "uri": "spotify:track:64XSAtXpCJUmadm3fkpH4z"
+    }
   },
   {
     "artist": "Matchbox 20",
-    "title": "Push"
+    "title": "Push",
+    "result": {
+      "album": "Yourself Or Someone Like You",
+      "artist": "Matchbox Twenty",
+      "name": "Push",
+      "uri": "spotify:track:2KVwlelhxKUy8LVV6JypH3"
+    }
   },
   {
     "artist": "Matchbox 20",
-    "title": "Real World"
+    "title": "Real World",
+    "result": {
+      "album": "Yourself Or Someone Like You",
+      "artist": "Matchbox Twenty",
+      "name": "Real World",
+      "uri": "spotify:track:70fe354BpVKEvMY0de78YO"
+    }
   },
   {
     "artist": "Maxi Priest",
-    "title": "That Girl"
+    "title": "That Girl",
+    "result": {
+      "album": "The Best Of Shaggy",
+      "artist": "Maxi Priest",
+      "name": "That Girl - feat. Shaggy",
+      "uri": "spotify:track:24s6yppvGO5he6wRwCaGrr"
+    }
   },
   {
     "artist": "Mazzy Star",
-    "title": "Fade Into You"
+    "title": "Fade Into You",
+    "result": {
+      "album": "So Tonight That I Might See",
+      "artist": "Mazzy Star",
+      "name": "Fade Into You",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK"
+    }
   },
   {
     "artist": "MC Hammer",
-    "title": "U Can't Touch This"
+    "title": "U Can't Touch This",
+    "result": {
+      "album": "Please Hammer Don't Hurt 'Em",
+      "artist": "MC Hammer",
+      "name": "U Can't Touch This",
+      "uri": "spotify:track:1B75hgRqe7A4fwee3g3Wmu"
+    }
   },
   {
     "artist": "Meat Loaf",
-    "title": "I'd Do Anything for Love (But I Won't Do That)"
+    "title": "I'd Do Anything for Love (But I Won't Do That)",
+    "result": {
+      "album": "Welcome To The Neighbourhood",
+      "artist": "Meat Loaf",
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Live",
+      "uri": "spotify:track:6fqLce5TNAmNgbFwXD2DdG"
+    }
   },
   {
     "artist": "Meat Puppets",
-    "title": "Backwater"
+    "title": "Backwater",
+    "result": {
+      "album": "Too High To Die",
+      "artist": "Meat Puppets",
+      "name": "Backwater",
+      "uri": "spotify:track:3KZVWVH4epY2JGaqRs8bqg"
+    }
   },
   {
     "artist": "Meredith Brooks",
-    "title": "Bitch"
+    "title": "Bitch",
+    "result": {
+      "album": "Blurring The Edges",
+      "artist": "Meredith Brooks",
+      "name": "Bitch",
+      "uri": "spotify:track:3i6qNxyVgIdUZTTi5m25EM"
+    }
   },
   {
     "artist": "Merril Bainbridge",
-    "title": "Mouth"
+    "title": "Mouth",
+    "result": {
+      "album": "Radio Waves of the '90s: Pop Hits",
+      "artist": "Merril Bainbridge",
+      "name": "Mouth",
+      "uri": "spotify:track:2uWBgF1sPF8dSiig3ksgXZ"
+    }
   },
   {
     "artist": "Metallica",
-    "title": "Enter Sandman"
-  },
-  {
-    "artist": "Michael Jackson & Janet Jackson",
-    "title": "Scream"
-  },
-  {
-    "artist": "Michael Jackson",
-    "title": "Black or White"
-  },
-  {
-    "artist": "Michael Jackson",
-    "title": "Earth Song"
+    "title": "Enter Sandman",
+    "result": {
+      "album": "Metallica",
+      "artist": "Metallica",
+      "name": "Enter Sandman",
+      "uri": "spotify:track:1hKdDCpiI9mqz1jVHRKG0E"
+    }
   },
   {
     "artist": "Michael Jackson",
-    "title": "They Don't Care About Us"
+    "title": "Scream",
+    "result": {
+      "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+      "artist": "Michael Jackson",
+      "name": "Scream",
+      "uri": "spotify:track:4LD5dhQ3kqpqe14sGPDtBC"
+    }
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Black or White",
+    "result": {
+      "album": "The Essential Michael Jackson",
+      "artist": "Michael Jackson",
+      "name": "Black or White - Single Version",
+      "uri": "spotify:track:2Cy7QY8HPLk925AyNAt6OG"
+    }
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Earth Song",
+    "result": {
+      "album": "Michael Jackson's This Is It",
+      "artist": "Michael Jackson",
+      "name": "Earth Song - Remastered Version",
+      "uri": "spotify:track:2BMCVC1kKFxiw1fy5CpwAh"
+    }
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "They Don't Care About Us",
+    "result": {
+      "album": "Michael Jackson's This Is It",
+      "artist": "Michael Jackson",
+      "name": "They Don't Care About Us - Remastered Version",
+      "uri": "spotify:track:7MdenVOyOCRoxbgPpjEiAL"
+    }
   },
   {
     "artist": "Millencolin",
-    "title": "No Cigar"
+    "title": "No Cigar",
+    "result": {
+      "album": "Pennybridge Pioneers",
+      "artist": "Millencolin",
+      "name": "No Cigar",
+      "uri": "spotify:track:3KLkRy9l3us98SIp6mmxkk"
+    }
   },
   {
     "artist": "MN8",
-    "title": "I've Got a Little Something for You"
+    "title": "I've Got a Little Something for You",
+    "result": {
+      "album": "100 Hits of the '90s",
+      "artist": "MN8",
+      "name": "I've Got a Little Something for You",
+      "uri": "spotify:track:2hkRVX1Ea7tRespEHB5ytl"
+    }
   },
   {
     "artist": "Moby",
-    "title": "Bodyrock"
+    "title": "Bodyrock",
+    "result": {
+      "album": "Play & Play: B Sides",
+      "artist": "Moby",
+      "name": "Bodyrock",
+      "uri": "spotify:track:1Go2Lyy4cQNKCz0PzUkj9S"
+    }
   },
   {
     "artist": "Moby",
-    "title": "Honey"
+    "title": "Honey",
+    "result": {
+      "album": "Play & Play: B Sides",
+      "artist": "Moby",
+      "name": "Honey",
+      "uri": "spotify:track:52tILLw5fRKqPbe5ps1QLL"
+    }
   },
   {
     "artist": "Monaco",
-    "title": "What Do You Want from Me "
+    "title": "What Do You Want from Me ",
+    "result": {
+      "album": "100 90s",
+      "artist": "Monaco",
+      "name": "What Do You Want From Me?",
+      "uri": "spotify:track:1Ufpw7WfdUHBISMzX3g0P4"
+    }
   },
   {
     "artist": "Mono",
-    "title": "Life in Mono"
+    "title": "Life in Mono",
+    "result": {
+      "album": "Great Expectations",
+      "artist": "Mono",
+      "name": "Life In Mono - Great Expectations Soundtrack",
+      "uri": "spotify:track:1dKmWxKinP9pnTOe3YoDS2"
+    }
   },
   {
     "artist": "Mousse T. Vs Hot N Juicy",
-    "title": "Horny"
+    "title": "Horny",
+    "result": {
+      "album": "Wild Reunion, Vol. 1 (Mixed by Nick Skitz & Jimmy Z)",
+      "artist": "Mousse T. vs. Hot 'n' Juicy",
+      "name": "Horny '98",
+      "uri": "spotify:track:2J0bIPQpBsQeQjpMTwLtIs"
+    }
   },
   {
     "artist": "Mr. Oizo",
-    "title": "Flat Beat"
+    "title": "Flat Beat",
+    "result": {
+      "album": "Flat Beat",
+      "artist": "Mr. Oizo",
+      "name": "Flat Beat",
+      "uri": "spotify:track:3JPcICirkAw4TLp9UzEcfl"
+    }
   },
   {
     "artist": "Mr. President",
-    "title": "Coco Jamboo"
+    "title": "Coco Jamboo",
+    "result": {
+      "album": "We See The Same Sun",
+      "artist": "Mr. President",
+      "name": "Coco Jamboo - Radio Version",
+      "uri": "spotify:track:6rQ9qJPvInEqSzlh89LsPJ"
+    }
   },
   {
     "artist": "MxPx",
-    "title": "Chick Magnet"
+    "title": "Chick Magnet",
+    "result": {
+      "album": "Life In General",
+      "artist": "MxPx",
+      "name": "Chick Magnet - Life In General Album Version",
+      "uri": "spotify:track:4KLsA7o43EsGg2swkuol2J"
+    }
   },
   {
     "artist": "MxPx",
-    "title": "I'm OK, You're OK"
+    "title": "I'm OK, You're OK",
+    "result": {
+      "album": "Slowly Going The Way Of The Buffalo",
+      "artist": "MxPx",
+      "name": "I'm Ok, You're Ok",
+      "uri": "spotify:track:6oq5Cx8ZNK8Hp57HYXs58n"
+    }
   },
   {
     "artist": "MxPx",
-    "title": "Responsibility"
+    "title": "Responsibility",
+    "result": {
+      "album": "The Ever Passing Moment (Tooth And Nail Version)",
+      "artist": "MxPx",
+      "name": "Responsibility",
+      "uri": "spotify:track:68s0Vb3wMt8vW040FWU1YX"
+    }
   },
   {
     "artist": "N.W.A",
-    "title": "Express Yourself"
+    "title": "Express Yourself",
+    "result": {
+      "album": "Straight Outta Compton (2002 - Remaster)",
+      "artist": "N.W.A.",
+      "name": "Express Yourself",
+      "uri": "spotify:track:68YdZEkdaoXQTHRsxzS2Kq"
+    }
   },
   {
     "artist": "N.W.A",
-    "title": "Fuck tha Police"
+    "title": "Fuck tha Police",
+    "result": {
+      "album": "Straight Outta Compton (2002 - Remaster)",
+      "artist": "N.W.A.",
+      "name": "Fuck Tha Police",
+      "uri": "spotify:track:771lQyKAtqXRpZ7iM4JsbP"
+    }
   },
   {
     "artist": "N.W.A",
-    "title": "Gangsta Gangsta"
+    "title": "Gangsta Gangsta",
+    "result": {
+      "album": "Straight Outta Compton (2002 - Remaster)",
+      "artist": "N.W.A.",
+      "name": "Gangsta Gangsta",
+      "uri": "spotify:track:5cV7iNvMXJyMhFNY0HFbQh"
+    }
   },
   {
     "artist": "N.W.A",
-    "title": "Straight Outta Compton"
+    "title": "Straight Outta Compton",
+    "result": {
+      "album": "Straight Outta Compton (2002 - Remaster)",
+      "artist": "N.W.A.",
+      "name": "Straight Outta Compton",
+      "uri": "spotify:track:4LujRMTMwAfFKjm45tixHY"
+    }
   },
   {
     "artist": "Natalie Imbruglia",
-    "title": "Torn"
+    "title": "Torn",
+    "result": {
+      "album": "Glorious: The Singles 97-07",
+      "artist": "Natalie Imbruglia",
+      "name": "Torn",
+      "uri": "spotify:track:3APayTEWiUl9Ssep4BOXR2"
+    }
   },
   {
     "artist": "Naughty by Nature",
-    "title": "Hip Hop Hooray"
+    "title": "Hip Hop Hooray",
+    "result": {
+      "album": "19 Naughty III (US Release)",
+      "artist": "Naughty By Nature",
+      "name": "Hip Hop Hooray",
+      "uri": "spotify:track:6MszGZxe52sc4owTmjp0O9"
+    }
   },
   {
     "artist": "Neutral Milk Hotel",
-    "title": "In The Aeroplane Over The Sea"
+    "title": "In The Aeroplane Over The Sea",
+    "result": {
+      "album": "In The Aeroplane Over The Sea",
+      "artist": "Neutral Milk Hotel",
+      "name": "In The Aeroplane Over The Sea",
+      "uri": "spotify:track:6idBMe9Ih8c6OZj1nJWyGo"
+    }
   },
   {
     "artist": "New Order",
-    "title": "60 Miles An Hour"
+    "title": "60 Miles An Hour",
+    "result": {
+      "album": "Get Ready",
+      "artist": "New Order",
+      "name": "60 Miles An Hour",
+      "uri": "spotify:track:3u0WAeE58IqNlHv2gsvlRY"
+    }
   },
   {
     "artist": "New Radicals",
-    "title": "You Get What You Give"
+    "title": "You Get What You Give",
+    "result": {
+      "album": "I Am Happy",
+      "artist": "New Radicals",
+      "name": "You Get What You Give",
+      "uri": "spotify:track:7qOPap76B81KypLVabU8cQ"
+    }
   },
   {
     "artist": "Next",
-    "title": "Too Close"
+    "title": "Too Close",
+    "result": {
+      "album": "Platinum & Gold Collection",
+      "artist": "Next",
+      "name": "Too Close",
+      "uri": "spotify:track:2fyTojfPYs67KBWN4WYRX7"
+    }
   },
   {
     "artist": "Nine",
-    "title": "Whutcha Want "
+    "title": "Whutcha Want ",
+    "result": {
+      "album": "Profilin': The Hits",
+      "artist": "Nine",
+      "name": "Whutcha Want?",
+      "uri": "spotify:track:7vl0JjpJNnAHCREOnBKOkW"
+    }
   },
   {
     "artist": "Nine Days",
-    "title": "Absolutely (Story of a Girl)"
+    "title": "Absolutely (Story of a Girl)",
+    "result": {
+      "album": "The Madding Crowd",
+      "artist": "Nine Days",
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "uri": "spotify:track:3mNecsYFb6LQg7822DPXCP"
+    }
   },
   {
     "artist": "Nine Inch Nails",
-    "title": "Closer"
+    "title": "Closer",
+    "result": {
+      "album": "The Downward Spiral",
+      "artist": "Nine Inch Nails",
+      "name": "Closer",
+      "uri": "spotify:track:4ysiI2bYbXcGT8jMXEPQSk"
+    }
   },
   {
     "artist": "Nine Inch Nails",
-    "title": "The Perfect Drug"
+    "title": "The Perfect Drug",
+    "result": {
+      "album": "Lost Highway (Soundtrack)",
+      "artist": "Nine Inch Nails",
+      "name": "The Perfect Drug",
+      "uri": "spotify:track:3yXAS465LF0a2RzU6cAtCe"
+    }
   },
   {
     "artist": "Nirvana",
-    "title": "All Apologies"
+    "title": "All Apologies",
+    "result": {
+      "album": "MTV Unplugged In New York",
+      "artist": "Nirvana",
+      "name": "All Apologies",
+      "uri": "spotify:track:2S4lAby9LtHrSS8l5kyHO9"
+    }
   },
   {
     "artist": "Nirvana",
-    "title": "Come as You Are"
+    "title": "Come as You Are",
+    "result": {
+      "album": "Nirvana (International Version)",
+      "artist": "Nirvana",
+      "name": "Come As You Are",
+      "uri": "spotify:track:5r35Zd5Onw3aV3Gm9XdgtI"
+    }
   },
   {
     "artist": "Nirvana",
-    "title": "In Bloom"
+    "title": "In Bloom",
+    "result": {
+      "album": "Nirvana (International Version)",
+      "artist": "Nirvana",
+      "name": "In Bloom - Nevermind Version",
+      "uri": "spotify:track:07bEZWP1PqS5jCR0iiz1zt"
+    }
   },
   {
     "artist": "Nirvana",
-    "title": "Lithium"
+    "title": "Lithium",
+    "result": {
+      "album": "Nirvana (International Version)",
+      "artist": "Nirvana",
+      "name": "Lithium",
+      "uri": "spotify:track:2DrEeo4eMULdAVe1U7P9PB"
+    }
   },
   {
     "artist": "Nirvana",
-    "title": "Smells Like Teen Spirit"
+    "title": "Smells Like Teen Spirit",
+    "result": {
+      "album": "Nirvana (International Version)",
+      "artist": "Nirvana",
+      "name": "Smells Like Teen Spirit",
+      "uri": "spotify:track:4hy4fb5D1KL50b3sng9cjw"
+    }
   },
   {
     "artist": "No Doubt",
-    "title": "Don't Speak"
+    "title": "Don't Speak",
+    "result": {
+      "album": "Tragic Kingdom",
+      "artist": "No Doubt",
+      "name": "Don't Speak",
+      "uri": "spotify:track:5PsUB0ISfQxRLhF5DmI5Ks"
+    }
   },
   {
     "artist": "No Mercy",
-    "title": "Where Do You Go"
+    "title": "Where Do You Go",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "No Mercy",
+      "name": "Where Do You Go",
+      "uri": "spotify:track:1lkfcyCLP0KPykSLIgh1VT"
+    }
   },
   {
     "artist": "Oasis",
-    "title": "All Around the World"
+    "title": "All Around the World",
+    "result": {
+      "album": "Be Here Now",
+      "artist": "Oasis",
+      "name": "All Around the World",
+      "uri": "spotify:track:49wTOZeDkmJQ9KImOq94nX"
+    }
   },
   {
     "artist": "Oasis",
-    "title": "Champagne Supernova"
+    "title": "Champagne Supernova",
+    "result": {
+      "album": "(What's the Story) Morning Glory",
+      "artist": "Oasis",
+      "name": "Champagne Supernova",
+      "uri": "spotify:track:4pl3KL59qGPUUeNeYwPrOn"
+    }
   },
   {
     "artist": "Oasis",
-    "title": "Supersonic"
+    "title": "Supersonic",
+    "result": {
+      "album": "Definitely Maybe",
+      "artist": "Oasis",
+      "name": "Supersonic",
+      "uri": "spotify:track:5AkT8GQhA7RDVKebTTiZPF"
+    }
   },
   {
     "artist": "Oasis",
-    "title": "Wonderwall"
+    "title": "Wonderwall",
+    "result": {
+      "album": "(What's the Story) Morning Glory",
+      "artist": "Oasis",
+      "name": "Wonderwall",
+      "uri": "spotify:track:3UNAMgNHKl0fWzbZaU0fDM"
+    }
   },
   {
     "artist": "Offspring",
-    "title": "Come Out and Play"
+    "title": "Come Out and Play",
+    "result": {
+      "album": "Smash",
+      "artist": "The Offspring",
+      "name": "Come Out and Play",
+      "uri": "spotify:track:5JJDu0Z5DKe7mR31MGksSg"
+    }
   },
   {
     "artist": "Offspring",
-    "title": "Self Esteem"
+    "title": "Self Esteem",
+    "result": {
+      "album": "Smash",
+      "artist": "The Offspring",
+      "name": "Self Esteem",
+      "uri": "spotify:track:1FkoVC85Ds3mFoK0fVqEqP"
+    }
   },
   {
     "artist": "OMC",
-    "title": "How Bizarre"
+    "title": "How Bizarre",
+    "result": {
+      "album": "100 Essential Hits - 90s",
+      "artist": "OMC",
+      "name": "How Bizarre",
+      "uri": "spotify:track:6X0LbtgpysrL9WEuSGI8WP"
+    }
   },
   {
     "artist": "Onyx",
-    "title": "Slam"
+    "title": "Slam",
+    "result": {
+      "album": "Bacdafucup",
+      "artist": "Onyx",
+      "name": "Slam",
+      "uri": "spotify:track:38fJv1GvxHkHlgbERUuBCJ"
+    }
   },
   {
     "artist": "OPM",
-    "title": "Heaven Is a Halfpipe"
+    "title": "Heaven Is a Halfpipe",
+    "result": {
+      "album": "Menace To Sobriety",
+      "artist": "OPM",
+      "name": "Heaven Is A Halfpipe (If I Die)",
+      "uri": "spotify:track:1Sm3U3B5XoidYQEZQZrh3i"
+    }
   },
   {
     "artist": "Orbital",
-    "title": "Halcyon and on and On"
+    "title": "Halcyon and on and On",
+    "result": {
+      "album": "Orbital 2",
+      "artist": "Orbital",
+      "name": "Halcyon And On And On",
+      "uri": "spotify:track:6l0LbTF2V77M3LPpcOBmqX"
+    }
   },
   {
     "artist": "Our Lady Peace",
-    "title": "Clumsy"
+    "title": "Clumsy",
+    "result": {
+      "album": "Clumsy",
+      "artist": "Our Lady Peace",
+      "name": "Clumsy",
+      "uri": "spotify:track:5IOUNrN8E37eLGdLNRr9aC"
+    }
   },
   {
     "artist": "Our Lady Peace",
-    "title": "Starseed"
+    "title": "Starseed",
+    "result": {
+      "album": "Armageddon - The Album",
+      "artist": "Our Lady Peace",
+      "name": "Starseed - \"Armageddon\" Remix",
+      "uri": "spotify:track:6i68AztjzFpK1zjBYcHN11"
+    }
   },
   {
     "artist": "Our Lady Peace",
-    "title": "Superman's Dead"
+    "title": "Superman's Dead",
+    "result": {
+      "album": "Clumsy",
+      "artist": "Our Lady Peace",
+      "name": "Superman's Dead",
+      "uri": "spotify:track:1612JQ4JxS8bm5ky53N3bH"
+    }
   },
   {
     "artist": "OutKast",
-    "title": "Atliens"
+    "title": "Atliens",
+    "result": {
+      "album": "ATLiens",
+      "artist": "OutKast",
+      "name": "ATLiens",
+      "uri": "spotify:track:2vfvGlqCB7oertO5VLE0sz"
+    }
   },
   {
     "artist": "OutKast",
-    "title": "B.O.B."
+    "title": "B.O.B.",
+    "result": {
+      "album": "Stankonia",
+      "artist": "OutKast",
+      "name": "B.O.B.",
+      "uri": "spotify:track:3WibbMr6canxRJXhNtAvLU"
+    }
   },
   {
     "artist": "OutKast",
-    "title": "Ms. Jackson"
+    "title": "Ms. Jackson",
+    "result": {
+      "album": "Stankonia",
+      "artist": "OutKast",
+      "name": "Ms. Jackson",
+      "uri": "spotify:track:0I3q5fE6wg7LIfHGngUTnV"
+    }
   },
   {
     "artist": "P.M. Dawn",
-    "title": "Set Adrift on Memory Bliss"
+    "title": "Set Adrift on Memory Bliss",
+    "result": {
+      "album": "Latest & Greatest",
+      "artist": "P.M. Dawn",
+      "name": "Set Adrift on Memory Bliss (Re-Recorded)",
+      "uri": "spotify:track:3rcNGUOJ0mPOUcAFUlEyT3"
+    }
   },
   {
     "artist": "P.O.D.",
-    "title": "Alive"
+    "title": "Alive",
+    "result": {
+      "album": "Greatest Hits [The Atlantic Years]",
+      "artist": "P.O.D.",
+      "name": "Alive - 2006 Remastered Version",
+      "uri": "spotify:track:3IRovqSVYx3CNtDWRebsET"
+    }
   },
   {
     "artist": "P.O.D.",
-    "title": "Southtown"
+    "title": "Southtown",
+    "result": {
+      "album": "Greatest Hits [The Atlantic Years]",
+      "artist": "P.O.D.",
+      "name": "Southtown - 2006 Remastered Version",
+      "uri": "spotify:track:1Xf9XhxiCHnru2jEwGgD4D"
+    }
   },
   {
     "artist": "Papa Roach",
-    "title": "Blood Brothers"
+    "title": "Blood Brothers",
+    "result": {
+      "album": "Infest",
+      "artist": "Papa Roach",
+      "name": "Blood Brothers",
+      "uri": "spotify:track:40prrJvM3P7xOg393SU4Hy"
+    }
   },
   {
     "artist": "Papa Roach",
-    "title": "Last Resort"
+    "title": "Last Resort",
+    "result": {
+      "album": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
+      "artist": "Papa Roach",
+      "name": "Last Resort",
+      "uri": "spotify:track:4V05j7HDUU2bZQwDOeIySh"
+    }
   },
   {
     "artist": "Pato Banton",
-    "title": "Baby Come Back"
+    "title": "Baby Come Back",
+    "result": {
+      "album": "The Best of Pato Banton",
+      "artist": "Pato Banton",
+      "name": "Baby Come Back - With Ali & Robin Campbell",
+      "uri": "spotify:track:1MkcvwNhKiE5vyrw73xZtY"
+    }
   },
   {
     "artist": "Paul Oakenfold",
-    "title": "Starry-Eyed Surprise"
+    "title": "Starry-Eyed Surprise",
+    "result": {
+      "album": "Happy Love Sick",
+      "artist": "Shifty",
+      "name": "Starry Eyed Surprise",
+      "uri": "spotify:track:3fqrT5xsadwnttDhYNs0Oc"
+    }
   },
   {
     "artist": "Paula Cole",
-    "title": "Where Have All the Cowboys Gone "
+    "title": "Where Have All the Cowboys Gone ",
+    "result": {
+      "album": "Rhino Hi-Five: Paula Cole",
+      "artist": "Paula Cole",
+      "name": "Where Have All the Cowboys Gone?",
+      "uri": "spotify:track:2wnqgQ1gEDeD9QW6i6EqLV"
+    }
   },
   {
     "artist": "Peaches",
-    "title": "Fuck the Pain Away"
+    "title": "Fuck the Pain Away",
+    "result": {
+      "album": "The Teaches Of Peaches",
+      "artist": "Peaches",
+      "name": "Fuck The Pain Away",
+      "uri": "spotify:track:1XHFob24QklIXtLRopKirJ"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "Alive"
+    "title": "Alive",
+    "result": {
+      "album": "Ten",
+      "artist": "Pearl Jam",
+      "name": "Alive",
+      "uri": "spotify:track:1L94M3KIu7QluZe63g64rv"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "Better Man"
+    "title": "Better Man",
+    "result": {
+      "album": "Vitalogy",
+      "artist": "Pearl Jam",
+      "name": "Better Man - Remastered",
+      "uri": "spotify:track:2B98ljvzqpCVgt5reTHq28"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "Even Flow"
+    "title": "Even Flow",
+    "result": {
+      "album": "Ten",
+      "artist": "Pearl Jam",
+      "name": "Even Flow",
+      "uri": "spotify:track:6QewNVIDKdSl8Y3ycuHIei"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "I Got ID"
+    "title": "I Got ID",
+    "result": {
+      "album": "rearviewmirror (greatest hits 1991-2003)",
+      "artist": "Pearl Jam",
+      "name": "I Got Id",
+      "uri": "spotify:track:454wC5PPsU0mPltiJqxDbz"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "Jeremy"
+    "title": "Jeremy",
+    "result": {
+      "album": "Ten",
+      "artist": "Pearl Jam",
+      "name": "Jeremy",
+      "uri": "spotify:track:62nQ8UZVqR2RMvkJHkcO2o"
+    }
   },
   {
     "artist": "Pearl Jam",
-    "title": "Last Kiss"
+    "title": "Last Kiss",
+    "result": {
+      "album": "Last Kiss",
+      "artist": "Pearl Jam",
+      "name": "Last Kiss",
+      "uri": "spotify:track:0QnONzv3TvHAWk294h6DaQ"
+    }
   },
   {
     "artist": "Peter Andre",
-    "title": "Get Down on It"
+    "title": "Get Down on It",
+    "result": null
   },
   {
     "artist": "Peter Andre",
-    "title": "Mysterious Girl"
+    "title": "Mysterious Girl",
+    "result": {
+      "album": "The Long Road Back",
+      "artist": "Peter Andre",
+      "name": "Mysterious Girl - Radio Edit",
+      "uri": "spotify:track:3GCpEbJzknVdpvx9WI03x3"
+    }
   },
   {
     "artist": "Pixies",
-    "title": "Monkey Gone to Heaven"
+    "title": "Monkey Gone to Heaven",
+    "result": {
+      "album": "Doolittle",
+      "artist": "Pixies",
+      "name": "Monkey Gone To Heaven",
+      "uri": "spotify:track:1lFC3sMgOcDrVzNh8zXRnl"
+    }
   },
   {
     "artist": "Pixies",
-    "title": "Wave Of Mutilation"
+    "title": "Wave Of Mutilation",
+    "result": {
+      "album": "Doolittle",
+      "artist": "Pixies",
+      "name": "Wave Of Mutilation",
+      "uri": "spotify:track:1yJiE307EBIzOB9kqH1deb"
+    }
   },
   {
     "artist": "Pizzaman",
-    "title": "Trippin On Sunshine"
+    "title": "Trippin On Sunshine",
+    "result": {
+      "album": "Best of",
+      "artist": "Pizzaman",
+      "name": "Trippin On Sunshine",
+      "uri": "spotify:track:4wXheD8kV6fxfCPhVuHghV"
+    }
   },
   {
     "artist": "Placebo",
-    "title": "Every You Every Me"
+    "title": "Every You Every Me",
+    "result": {
+      "album": "Without You I'm Nothing",
+      "artist": "Placebo",
+      "name": "Every You Every Me",
+      "uri": "spotify:track:3tRv4ZYZimrL27flnjgeR6"
+    }
   },
   {
     "artist": "Placebo",
-    "title": "Pure Morning"
+    "title": "Pure Morning",
+    "result": {
+      "album": "Without You I'm Nothing",
+      "artist": "Placebo",
+      "name": "Pure Morning",
+      "uri": "spotify:track:1TqmZVIyeD4aN4Wa0wbnfy"
+    }
   },
   {
     "artist": "Placebo",
-    "title": "You Don't Care About Us"
+    "title": "You Don't Care About Us",
+    "result": {
+      "album": "Without You I'm Nothing",
+      "artist": "Placebo",
+      "name": "You Don't Care About Us",
+      "uri": "spotify:track:79DaDiGhVkVQj8c6jmOffI"
+    }
   },
   {
     "artist": "Porno for Pyros",
-    "title": "Pets"
+    "title": "Pets",
+    "result": {
+      "album": "Porno For Pyros",
+      "artist": "Porno for Pyros",
+      "name": "Pets",
+      "uri": "spotify:track:5kcQEPksJHTOLQ4In5oGN2"
+    }
   },
   {
     "artist": "Portishead",
-    "title": "Glory Box"
+    "title": "Glory Box",
+    "result": {
+      "album": "Dummy (Non UK Version)",
+      "artist": "Portishead",
+      "name": "Glory Box",
+      "uri": "spotify:track:68oUQRwGJGExtkpaSvSbgb"
+    }
   },
   {
     "artist": "Powerman 5000",
-    "title": "When Worlds Collide"
+    "title": "When Worlds Collide",
+    "result": {
+      "album": "Tonight The Stars Revolt (Explicit Version)",
+      "artist": "Powerman 5000",
+      "name": "When Worlds Collide",
+      "uri": "spotify:track:4xfcKZRY6LnjfZwE5lVJp0"
+    }
   },
   {
     "artist": "Pras",
-    "title": "Ghetto Supastar (feat. Mya, Ol' Dirty Bastard)"
-  },
-  {
-    "artist": "Presidents of the United States of Ameri",
-    "title": "Video Killed the Radio Star"
+    "title": "Ghetto Supastar",
+    "result": {
+      "album": "Ghetto Supastar",
+      "artist": "Pras",
+      "name": "Ghetto Supastar (That is What You Are)",
+      "uri": "spotify:track:31bf9SEOppLU6lQ85d8om6"
+    }
   },
   {
     "artist": "Presidents of the United States of America",
-    "title": "Lump"
+    "title": "Video Killed the Radio Star",
+    "result": {
+      "album": "Pure Frosting",
+      "artist": "The Presidents Of The United States Of America",
+      "name": "Video Killed The Radio Star",
+      "uri": "spotify:track:7wck5ORA8dJB8To9rc10gi"
+    }
   },
   {
     "artist": "Presidents of the United States of America",
-    "title": "Peaches"
+    "title": "Lump",
+    "result": {
+      "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+      "artist": "The Presidents Of The United States Of America",
+      "name": "Lump",
+      "uri": "spotify:track:2JdzB67NvIa90K4gEZPLeX"
+    }
+  },
+  {
+    "artist": "Presidents of the United States of America",
+    "title": "Peaches",
+    "result": {
+      "album": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+      "artist": "The Presidents Of The United States Of America",
+      "name": "Peaches",
+      "uri": "spotify:track:3VEFybccRTeWSZRkJxDuNR"
+    }
   },
   {
     "artist": "Primal Scream",
-    "title": "Loaded"
+    "title": "Loaded",
+    "result": {
+      "album": "Screamadelica",
+      "artist": "Primal Scream",
+      "name": "Loaded",
+      "uri": "spotify:track:0CBxYZz0mxzViWUvoMnRGi"
+    }
   },
   {
     "artist": "Primal Scream",
-    "title": "Movin' on Up"
+    "title": "Movin' on Up",
+    "result": {
+      "album": "Live FM Charity Concert",
+      "artist": "Primal Scream",
+      "name": "Movin' On Up - Live",
+      "uri": "spotify:track:4aLBVYKNGvdHBMqoL1Jso4"
+    }
   },
   {
     "artist": "Primitive Radio Gods",
-    "title": "Standing Outside a Broken Phone Booth with Money in My Hand"
+    "title": "Standing Outside a Broken Phone Booth with Money in My Hand",
+    "result": {
+      "album": "Rocket",
+      "artist": "Primitive Radio Gods",
+      "name": "Standing Outside a Broken Phone Booth with Money in My Hand",
+      "uri": "spotify:track:5hcer4MP5GeHqtSjDYx5AC"
+    }
   },
   {
     "artist": "Propellerheads",
-    "title": "Spybreak!"
+    "title": "Spybreak!",
+    "result": {
+      "album": "Decksandrumsandrockandroll",
+      "artist": "Propellerheads",
+      "name": "Spybreak !",
+      "uri": "spotify:track:4iVjyzPXZwOuu5z6Gd4IvF"
+    }
   },
   {
     "artist": "Public Enemy",
-    "title": "Fight the Power"
+    "title": "Fight the Power",
+    "result": {
+      "album": "Fear Of A Black Planet",
+      "artist": "Public Enemy",
+      "name": "Fight The Power",
+      "uri": "spotify:track:26zWdOUpB6P9E9OtQQc0qp"
+    }
   },
   {
-    "artist": "Puff Daddy & The Family",
-    "title": "I'll Be Missing You"
+    "artist": "Diddy",
+    "title": "I'll Be Missing You",
+    "result": {
+      "album": "Bad Boy's 10th Anniversary- The Hits",
+      "artist": "Diddy",
+      "name": "I'll Be Missing You (feat. 112)",
+      "uri": "spotify:track:3QHONiXGMGU3z68mQInncF"
+    }
   },
   {
     "artist": "Pulp",
-    "title": "Common People"
+    "title": "Common People",
+    "result": {
+      "album": "Hits (International version)",
+      "artist": "Pulp",
+      "name": "Common People - Full Length Version; Album Version",
+      "uri": "spotify:track:5xMAMaVbW3tkjXTmSUBPTd"
+    }
   },
   {
-    "artist": "Q. Lazzarus",
-    "title": "Goodbye Horses (Extended version)"
+    "artist": "Q Lazzarus & Garvey",
+    "title": "Goodbye Horses",
+    "result": {
+      "album": "CLERKS II (Music From The Motion Picture)",
+      "artist": "Q Lazzarus & Garvey",
+      "name": "Goodbye, Horses",
+      "uri": "spotify:track:71coiXrc4ti5HqZAh80vOC"
+    }
   },
   {
     "artist": "Quad City DJ's",
-    "title": "Space Jam"
+    "title": "Space Jam",
+    "result": null
   },
   {
     "artist": "Queens of the Stone Age",
-    "title": "Feel Good Hit of the Summer"
+    "title": "Feel Good Hit of the Summer",
+    "result": {
+      "album": "Rated R - Deluxe Edition",
+      "artist": "Queens of the Stone Age",
+      "name": "Feel Good Hit Of The Summer",
+      "uri": "spotify:track:5LbRsTHDPRx17YGyqNZTYn"
+    }
   },
   {
     "artist": "Queensrÿche?",
-    "title": "Silent Lucidity"
+    "title": "Silent Lucidity",
+    "result": {
+      "album": "Empire - 20th Anniversary Edition",
+      "artist": "Queensrÿche",
+      "name": "Silent Lucidity - 2003 - Remaster",
+      "uri": "spotify:track:6OSyCAmXT4Gkd3OQ2aPOaF"
+    }
   },
   {
     "artist": "R Kelly",
-    "title": "I Believe I Can Fly"
+    "title": "I Believe I Can Fly",
+    "result": {
+      "album": "R.",
+      "artist": "R. Kelly",
+      "name": "I Believe I Can Fly",
+      "uri": "spotify:track:1qCZWsYD9qDqEzFboaP83p"
+    }
   },
   {
     "artist": "R.E.M.",
-    "title": "Losing My Religion"
+    "title": "Losing My Religion",
+    "result": {
+      "album": "Out Of Time (U.S. Version)",
+      "artist": "R.E.M.",
+      "name": "Losing My Religion",
+      "uri": "spotify:track:74EV0g12ihUoOUXMprFpZB"
+    }
   },
   {
     "artist": "R.E.M.",
-    "title": "Man on the Moon"
+    "title": "Man on the Moon",
+    "result": {
+      "album": "Automatic For The People (U.S. Version)",
+      "artist": "R.E.M.",
+      "name": "Man On The Moon",
+      "uri": "spotify:track:74q8a3WdCCSHbRLU2aoP8a"
+    }
   },
   {
     "artist": "R.E.M.",
-    "title": "Orange Crush"
+    "title": "Orange Crush",
+    "result": {
+      "album": "Green (25th Anniversary Deluxe Edition)",
+      "artist": "R.E.M.",
+      "name": "Orange Crush",
+      "uri": "spotify:track:0YFHWBbEohQW4UOZq7ApR9"
+    }
   },
   {
     "artist": "R.E.M.",
-    "title": "Stand"
+    "title": "Stand",
+    "result": {
+      "album": "Green (25th Anniversary Deluxe Edition)",
+      "artist": "R.E.M.",
+      "name": "Stand",
+      "uri": "spotify:track:4ClUSerft3tsd5S3fJG5JL"
+    }
   },
   {
     "artist": "Radiohead",
-    "title": "Fake Plastic Trees"
+    "title": "Fake Plastic Trees",
+    "result": {
+      "album": "The Bends [Collectors Edition]",
+      "artist": "Radiohead",
+      "name": "Fake Plastic Trees",
+      "uri": "spotify:track:0Uro2xUVsEHQNKR5QL4Lku"
+    }
   },
   {
     "artist": "Radiohead",
-    "title": "Just"
+    "title": "Just",
+    "result": {
+      "album": "The Bends",
+      "artist": "Radiohead",
+      "name": "Just",
+      "uri": "spotify:track:4aSAA0QQSUUX3YUiXsdtbn"
+    }
   },
   {
     "artist": "Radiohead",
-    "title": "My Iron Lung"
+    "title": "My Iron Lung",
+    "result": {
+      "album": "The Bends [Collectors Edition]",
+      "artist": "Radiohead",
+      "name": "My Iron Lung",
+      "uri": "spotify:track:0f5B2p63SHBNHxuBzIr9qQ"
+    }
   },
   {
     "artist": "Radiohead",
-    "title": "Paranoid Android"
+    "title": "Paranoid Android",
+    "result": {
+      "album": "OK Computer [Collector's Edition]",
+      "artist": "Radiohead",
+      "name": "Paranoid Android",
+      "uri": "spotify:track:0LTZD4vTsp0EN1wXatc9IR"
+    }
   },
   {
     "artist": "Rage Against the Machine",
-    "title": "Bulls on Parade"
+    "title": "Bulls on Parade",
+    "result": {
+      "album": "Evil Empire",
+      "artist": "Rage Against The Machine",
+      "name": "Bulls on Parade",
+      "uri": "spotify:track:0tZ3mElWcr74OOhKEiNz1x"
+    }
   },
   {
     "artist": "Rage Against the Machine",
-    "title": "Guerrilla Radio"
+    "title": "Guerrilla Radio",
+    "result": {
+      "album": "The Battle Of Los Angeles",
+      "artist": "Rage Against The Machine",
+      "name": "Guerrilla Radio",
+      "uri": "spotify:track:1wsRitfRRtWyEapl0q22o8"
+    }
   },
   {
     "artist": "Rage Against the Machine",
-    "title": "Killing in the Name"
+    "title": "Killing in the Name",
+    "result": {
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "artist": "Rage Against The Machine",
+      "name": "Killing In The Name - Remastered",
+      "uri": "spotify:track:59WN2psjkt1tyaxjspN8fp"
+    }
   },
   {
     "artist": "Rage Against the Machine",
-    "title": "Renegades of Funk"
+    "title": "Renegades of Funk",
+    "result": {
+      "album": "Renegades",
+      "artist": "Rage Against The Machine",
+      "name": "Renegades Of Funk",
+      "uri": "spotify:track:5YBVDvTSSSiqv7KZDeUlXA"
+    }
   },
   {
     "artist": "Rage Against the Machine",
-    "title": "Wake Up"
+    "title": "Wake Up",
+    "result": {
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "artist": "Rage Against The Machine",
+      "name": "Wake Up - Remastered",
+      "uri": "spotify:track:2QiqwOVUctPRVggO9G1Zs5"
+    }
   },
   {
     "artist": "Rammstein",
-    "title": "Du Hast"
+    "title": "Du Hast",
+    "result": {
+      "album": "Sehnsucht",
+      "artist": "Rammstein",
+      "name": "Du hast",
+      "uri": "spotify:track:3cwDSDzTiWr5H5xMQhQ6Mx"
+    }
   },
   {
     "artist": "Rancid",
-    "title": "Time Bomb"
+    "title": "Time Bomb",
+    "result": {
+      "album": "...And Out Come The Wolves",
+      "artist": "Rancid",
+      "name": "Time Bomb",
+      "uri": "spotify:track:41kg2RvdwBuIv0OPpvBS4v"
+    }
   },
   {
     "artist": "Red Hot Chili Peppers",
-    "title": "Give It Away"
+    "title": "Give It Away",
+    "result": {
+      "album": "Blood Sugar Sex Magik (Deluxe Version)",
+      "artist": "Red Hot Chili Peppers",
+      "name": "Give It Away",
+      "uri": "spotify:track:0uppYCG86ajpV2hSR3dJJ0"
+    }
   },
   {
     "artist": "Red Hot Chili Peppers",
-    "title": "Higher Ground"
+    "title": "Higher Ground",
+    "result": {
+      "album": "Mother's Milk",
+      "artist": "Red Hot Chili Peppers",
+      "name": "Higher Ground - 2003 - Remaster",
+      "uri": "spotify:track:5arVt2Wg0zbiWwAOZef2Nl"
+    }
   },
   {
     "artist": "Red Hot Chili Peppers",
-    "title": "Soul To Squeeze"
+    "title": "Soul To Squeeze",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Red Hot Chili Peppers",
+      "name": "Soul To Squeeze",
+      "uri": "spotify:track:3arKRnq9OUd7yq6LRwVW8I"
+    }
   },
   {
     "artist": "Red Hot Chili Peppers",
-    "title": "Under the Bridge"
+    "title": "Under the Bridge",
+    "result": {
+      "album": "Blood Sugar Sex Magik (Deluxe Version)",
+      "artist": "Red Hot Chili Peppers",
+      "name": "Under The Bridge",
+      "uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0"
+    }
   },
   {
     "artist": "Rednex",
-    "title": "Cotton Eye Joe"
+    "title": "Cotton Eye Joe",
+    "result": {
+      "album": "Sex & Violins",
+      "artist": "Rednex",
+      "name": "Cotton Eye Joe - Original Version",
+      "uri": "spotify:track:0Jg602cHeMCnPez9baacIe"
+    }
   },
   {
     "artist": "Reef",
-    "title": "Place Your Hands"
+    "title": "Place Your Hands",
+    "result": {
+      "album": "Together - The Best Of",
+      "artist": "Reef",
+      "name": "Place Your Hands",
+      "uri": "spotify:track:29OrKlVi8EM1u8VDIlF4qO"
+    }
   },
   {
     "artist": "Reel 2 Real",
-    "title": "I Like to Move It"
+    "title": "I Like to Move It",
+    "result": {
+      "album": "I Like To Move It [feat. The Mad Stuntman] (2010 Mixes)",
+      "artist": "Reel 2 Real",
+      "name": "I Like To Move It (feat. The Mad Stuntman) [Radio Mix] - Radio Mix",
+      "uri": "spotify:track:48XTrEbn0R7YbCB6BSSIUW"
+    }
   },
   {
     "artist": "Reel Big Fish",
-    "title": "Sell Out"
+    "title": "Sell Out",
+    "result": {
+      "album": "Turn The Radio Off",
+      "artist": "Reel Big Fish",
+      "name": "Sell Out",
+      "uri": "spotify:track:6SJ1hWFVBIiUgGgHKvwXCQ"
+    }
   },
   {
     "artist": "Regurgitator",
-    "title": "Black Bugs"
+    "title": "Black Bugs",
+    "result": {
+      "album": "Unit",
+      "artist": "Regurgitator",
+      "name": "Black Bugs",
+      "uri": "spotify:track:4e5wI6VC4eVDTtpyZ409Pw"
+    }
   },
   {
     "artist": "Regurgitator",
-    "title": "Freshmint!"
+    "title": "Freshmint!",
+    "result": {
+      "album": "...art",
+      "artist": "Regurgitator",
+      "name": "Freshmint!",
+      "uri": "spotify:track:6IvYyehfHRe4zm9Gf3qp9c"
+    }
   },
   {
     "artist": "Regurgitator",
-    "title": "Happiness"
+    "title": "Happiness",
+    "result": {
+      "album": "Boys and Girls Soundtrack",
+      "artist": "Regurgitator",
+      "name": "Happiness",
+      "uri": "spotify:track:1ppBzVGVnwJsoBwrSS3TtI"
+    }
   },
   {
     "artist": "Regurgitator",
-    "title": "Polyester Girl"
+    "title": "Polyester Girl",
+    "result": {
+      "album": "Polyester Girl",
+      "artist": "Regurgitator",
+      "name": "Polyester Girl",
+      "uri": "spotify:track:5VJ9u3JQ4dXdyKVchE7rlp"
+    }
   },
   {
     "artist": "Republica",
-    "title": "Ready to Go"
+    "title": "Ready to Go",
+    "result": {
+      "album": "Ready To Go",
+      "artist": "Republica",
+      "name": "Ready to Go",
+      "uri": "spotify:track:2bEbTqj36jmuwMhvvCRC2y"
+    }
   },
   {
     "artist": "Ricky Martin",
-    "title": "Livin' la Vida Loca"
+    "title": "Livin' la Vida Loca",
+    "result": {
+      "album": "Ricky Martin",
+      "artist": "Ricky Martin",
+      "name": "Livin' la Vida Loca",
+      "uri": "spotify:track:0Ph6L4l8dYUuXFmb71Ajnd"
+    }
   },
   {
     "artist": "Ricky Martin",
-    "title": "María"
+    "title": "María",
+    "result": {
+      "album": "Ricky Martin",
+      "artist": "Ricky Martin",
+      "name": "María - Pablo Flores Spanglish Radio Edit",
+      "uri": "spotify:track:4bNqBlJkoueiFla9YsyNg9"
+    }
   },
   {
     "artist": "Right Said Fred",
-    "title": "I'm Too Sexy"
+    "title": "I'm Too Sexy",
+    "result": {
+      "album": "Up",
+      "artist": "Right Said Fred",
+      "name": "I'm Too Sexy",
+      "uri": "spotify:track:2WElktskrNJEwgpp5Vouxk"
+    }
   },
   {
     "artist": "Rob Zombie",
-    "title": "Dragula"
+    "title": "Dragula",
+    "result": {
+      "album": "Hellbilly Deluxe",
+      "artist": "Rob Zombie",
+      "name": "Dragula",
+      "uri": "spotify:track:4QEFQlNFerDnWvNU8NASiV"
+    }
   },
   {
     "artist": "Robert Miles",
-    "title": "Children"
+    "title": "Children",
+    "result": {
+      "album": "Dance Vault Mixes - Children",
+      "artist": "Robert Miles",
+      "name": "Children",
+      "uri": "spotify:track:4wtR6HB3XekEengMX17cpc"
+    }
   },
   {
     "artist": "Robyn",
-    "title": "Show Me Love"
+    "title": "Show Me Love",
+    "result": {
+      "album": "Robyn Is Here",
+      "artist": "Robyn",
+      "name": "Show Me Love - Radio Version",
+      "uri": "spotify:track:6SluaPiV04KOaRTOIScoff"
+    }
   },
   {
     "artist": "Run-D.M.C. & Jason Nevins",
-    "title": "It's Like That"
+    "title": "It's Like That",
+    "result": {
+      "album": "Keep Calm and Party",
+      "artist": "Run–D.M.C.",
+      "name": "It's Like That",
+      "uri": "spotify:track:14lvKqXmmpwG2FNwg4r1sG"
+    }
   },
   {
     "artist": "Salt-N-Pepa",
-    "title": "Let's Talk About Sex"
+    "title": "Let's Talk About Sex",
+    "result": {
+      "album": "Icon",
+      "artist": "Salt-N-Pepa",
+      "name": "Let's Talk About Sex",
+      "uri": "spotify:track:4zu3SDxP5Zy6F6tpzXbWK8"
+    }
   },
   {
     "artist": "Salt-N-Pepa",
-    "title": "Shoop"
+    "title": "Shoop",
+    "result": {
+      "album": "Very Necessary",
+      "artist": "Salt-N-Pepa",
+      "name": "Shoop",
+      "uri": "spotify:track:0ipLnUeK5PODrTKyT3wVGT"
+    }
   },
   {
     "artist": "Salt-N-Pepa",
-    "title": "Whatta Man"
+    "title": "Whatta Man",
+    "result": {
+      "album": "Very Necessary",
+      "artist": "Salt-N-Pepa",
+      "name": "Whatta Man",
+      "uri": "spotify:track:3eRsSIhorhBnLrsy2uhM8r"
+    }
   },
   {
     "artist": "Santana",
-    "title": "Smooth (feat. Rob Thomas)"
+    "title": "Smooth",
+    "result": {
+      "album": "Supernatural (Remastered)",
+      "artist": "Santana",
+      "name": "Smooth",
+      "uri": "spotify:track:0n2SEXB2qoRQg171q7XqeW"
+    }
   },
   {
     "artist": "Sash!",
-    "title": "Ecuador"
+    "title": "Ecuador",
+    "result": {
+      "album": "The Best Of",
+      "artist": "Sash!",
+      "name": "Ecuador",
+      "uri": "spotify:track:5UuVC9noWHcsOX08ctdbDD"
+    }
   },
   {
     "artist": "Sash!",
-    "title": "Encore une Fois"
+    "title": "Encore une Fois",
+    "result": {
+      "album": "The Best Of",
+      "artist": "Sash!",
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "uri": "spotify:track:67Zp9TsbLDAiMdmr66EKx0"
+    }
   },
   {
     "artist": "Sash!",
-    "title": "Stay"
+    "title": "Stay",
+    "result": {
+      "album": "The Best Of",
+      "artist": "Sash!",
+      "name": "Stay",
+      "uri": "spotify:track:3BGCw1tMuKqF0AtnRY9ppR"
+    }
   },
   {
     "artist": "Savage Garden",
-    "title": "I Want You"
+    "title": "I Want You",
+    "result": {
+      "album": "Savage Garden",
+      "artist": "Savage Garden",
+      "name": "I Want You",
+      "uri": "spotify:track:229XpgFuSxIjL7xCnnUmyK"
+    }
   },
   {
     "artist": "Savage Garden",
-    "title": "Truly Madly Deeply"
+    "title": "Truly Madly Deeply",
+    "result": {
+      "album": "Savage Garden (Remix album - The Future Of Earthly Delites)",
+      "artist": "Savage Garden",
+      "name": "Truly Madly Deeply",
+      "uri": "spotify:track:4jFxD1ap00GeFesop82Nfs"
+    }
   },
   {
     "artist": "Scatman John",
-    "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)"
+    "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+    "result": {
+      "album": "Fetenkult - Best Of The 90's",
+      "artist": "Scatman John",
+      "name": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - Basic Radio",
+      "uri": "spotify:track:0qaoj7Wc44VUP0hvIDVzPg"
+    }
   },
   {
     "artist": "Seal",
-    "title": "Fly Like an Eagle"
+    "title": "Fly Like an Eagle",
+    "result": {
+      "album": "Hits",
+      "artist": "Seal",
+      "name": "Fly Like An Eagle",
+      "uri": "spotify:track:4Nwm4lvNRxXkGR6aMmtdKm"
+    }
   },
   {
     "artist": "Seal",
-    "title": "Kiss from a Rose"
+    "title": "Kiss from a Rose",
+    "result": {
+      "album": "Seal [1994]",
+      "artist": "Seal",
+      "name": "Kiss From A Rose",
+      "uri": "spotify:track:3YKptz29AsOlm7WAVnztBh"
+    }
   },
   {
     "artist": "Semisonic",
-    "title": "Closing Time"
+    "title": "Closing Time",
+    "result": {
+      "album": "Feeling Strangely Fine",
+      "artist": "Semisonic",
+      "name": "Closing Time",
+      "uri": "spotify:track:4EnkwZd0UJAuHpNMMemQaA"
+    }
   },
   {
     "artist": "Semisonic",
-    "title": "Singing in My Sleep"
+    "title": "Singing in My Sleep",
+    "result": {
+      "album": "Feeling Strangely Fine",
+      "artist": "Semisonic",
+      "name": "Singing In My Sleep",
+      "uri": "spotify:track:2uIIIHdYOlVtlryL0gD5xu"
+    }
   },
   {
     "artist": "Seven Mary Three",
-    "title": "Cumbersome"
+    "title": "Cumbersome",
+    "result": {
+      "album": "American Standard",
+      "artist": "Seven Mary Three",
+      "name": "Cumbersome",
+      "uri": "spotify:track:6u1yKoh00WaoSpNp46RzKF"
+    }
   },
   {
     "artist": "Shaggy",
-    "title": "Boombastic"
+    "title": "Boombastic",
+    "result": {
+      "album": "Mr Lover Lover - The Best Of Shaggy... (Part 1)",
+      "artist": "Shaggy",
+      "name": "Boombastic",
+      "uri": "spotify:track:1jqLJBQwo7yBCqYQWukLkq"
+    }
   },
   {
     "artist": "Shaggy",
-    "title": "In the Summertime"
+    "title": "In the Summertime",
+    "result": {
+      "album": "The Best Of Shaggy",
+      "artist": "Shaggy",
+      "name": "In the Summertime - feat. Rayvon",
+      "uri": "spotify:track:0COid4yuRhbLqTkgzhu9k9"
+    }
   },
   {
     "artist": "Shaggy",
-    "title": "It Wasn't Me"
+    "title": "It Wasn't Me",
+    "result": {
+      "album": "Hot Shot (International Version #2)",
+      "artist": "Shaggy",
+      "name": "It Wasn't Me",
+      "uri": "spotify:track:1lzr43nnXAijIGYnCT8M8H"
+    }
   },
   {
     "artist": "Shawn Colvin",
-    "title": "Sunny Came Home"
+    "title": "Sunny Came Home",
+    "result": {
+      "album": "A Few Small Repairs",
+      "artist": "Shawn Colvin",
+      "name": "Sunny Came Home",
+      "uri": "spotify:track:4mOxpj82q6n3EO7HBZCelX"
+    }
   },
   {
     "artist": "Sheryl Crow",
-    "title": "A Change Would Do You Good"
+    "title": "A Change Would Do You Good",
+    "result": {
+      "album": "Sheryl Crow",
+      "artist": "Sheryl Crow",
+      "name": "A Change Would Do You Good",
+      "uri": "spotify:track:1Tos18wHtCNe0gBq8rq6D6"
+    }
   },
   {
     "artist": "Sheryl Crow",
-    "title": "All I Wanna Do"
+    "title": "All I Wanna Do",
+    "result": {
+      "album": "Tuesday Night Music Club",
+      "artist": "Sheryl Crow",
+      "name": "All I Wanna Do",
+      "uri": "spotify:track:4cqHVuDLFbO1XCr4nmks4S"
+    }
   },
   {
     "artist": "Sheryl Crow",
-    "title": "Strong Enough"
+    "title": "Strong Enough",
+    "result": {
+      "album": "Tuesday Night Music Club",
+      "artist": "Sheryl Crow",
+      "name": "Strong Enough",
+      "uri": "spotify:track:6dEYYbvTQ83OUp6PMywfmp"
+    }
   },
   {
     "artist": "Shihad",
-    "title": "Home Again"
+    "title": "Home Again",
+    "result": {
+      "album": "Home Again",
+      "artist": "Shihad",
+      "name": "Home Again",
+      "uri": "spotify:track:7oCIJitq9OQSeefoshwiSI"
+    }
   },
   {
     "artist": "Silverchair",
-    "title": "Anthem for the Year 2000"
+    "title": "Anthem for the Year 2000",
+    "result": {
+      "album": "Neon Ballroom",
+      "artist": "Silverchair",
+      "name": "Anthem for the Year 2000",
+      "uri": "spotify:track:3J19l4hOfwFFIF715BwVcG"
+    }
   },
   {
     "artist": "Silverchair",
-    "title": "Freak"
+    "title": "Freak",
+    "result": {
+      "album": "Freak Show",
+      "artist": "Silverchair",
+      "name": "Freak",
+      "uri": "spotify:track:2RDgs05sg2vrpwiAEUkWd0"
+    }
   },
   {
     "artist": "Silverchair",
-    "title": "Tomorrow"
+    "title": "Tomorrow",
+    "result": {
+      "album": "Frogstomp 20th Anniversary (Deluxe Edition [Remastered])",
+      "artist": "Silverchair",
+      "name": "Tomorrow - Remastered",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj"
+    }
   },
   {
     "artist": "Sir Mix-A-Lot",
-    "title": "Baby Got Back"
+    "title": "Baby Got Back",
+    "result": {
+      "album": "Fitboxing",
+      "artist": "Sir Mix-A-Lot",
+      "name": "Baby Got Back",
+      "uri": "spotify:track:4AVFt5pcYJW0TCsgukFUZI"
+    }
   },
   {
     "artist": "Sisqó",
-    "title": "Thong Song"
+    "title": "Thong Song",
+    "result": {
+      "album": "Unleash The Dragon (Explicit)",
+      "artist": "Sisqo",
+      "name": "Thong Song",
+      "uri": "spotify:track:60e1nB8fP9h4Yw44sIfeQx"
+    }
   },
   {
     "artist": "Sister Hazel",
-    "title": "All for You"
+    "title": "All for You",
+    "result": {
+      "album": "100 Rock",
+      "artist": "Sister Hazel",
+      "name": "All For You",
+      "uri": "spotify:track:4oH5EzxHxhte4YceEkNPNo"
+    }
   },
   {
     "artist": "Sixpence None the Richer",
-    "title": "Kiss Me"
+    "title": "Kiss Me",
+    "result": {
+      "album": "6 PICKS: Essential Radio Hits EP",
+      "artist": "Sixpence None The Richer",
+      "name": "Kiss Me",
+      "uri": "spotify:track:75fuzn623bYyKISKlFHdCw"
+    }
   },
   {
     "artist": "Skee-Lo",
-    "title": "I Wish"
+    "title": "I Wish",
+    "result": {
+      "album": "I Wish",
+      "artist": "Skee-Lo",
+      "name": "I Wish - Radio Edit",
+      "uri": "spotify:track:0QMHVTnrFTQJoaqmkdsKhT"
+    }
   },
   {
     "artist": "Slim",
-    "title": "Bullet In My Hand"
+    "title": "Bullet In My Hand",
+    "result": {
+      "album": "Drive Thru",
+      "artist": "Slim",
+      "name": "Bullet In My Hand",
+      "uri": "spotify:track:6JgkEQUhYKqNi14wvRKkWJ"
+    }
   },
   {
     "artist": "Smash Mouth",
-    "title": "All Star"
+    "title": "All Star",
+    "result": {
+      "album": "Hector's Mix Tape",
+      "artist": "Smash Mouth",
+      "name": "All Star",
+      "uri": "spotify:track:6qs6Mwhmm3xKKbQak5DKK8"
+    }
   },
   {
     "artist": "Smash Mouth",
-    "title": "Can't Get Enough of You Baby"
+    "title": "Can't Get Enough of You Baby",
+    "result": {
+      "album": "All Star Smash Hits",
+      "artist": "Smash Mouth",
+      "name": "Can't Get Enough Of You Baby",
+      "uri": "spotify:track:2YGFjCtEo5hhNutCO8RdQf"
+    }
   },
   {
     "artist": "Smash Mouth",
-    "title": "Then the Morning Comes"
+    "title": "Then the Morning Comes",
+    "result": {
+      "album": "All Star Smash Hits",
+      "artist": "Smash Mouth",
+      "name": "Then The Morning Comes",
+      "uri": "spotify:track:1cC11FYZ0whYet1pnzA6sy"
+    }
   },
   {
     "artist": "Smash Mouth",
-    "title": "Walkin' on the Sun"
+    "title": "Walkin' on the Sun",
+    "result": {
+      "album": "Smash Mouth (International Version)",
+      "artist": "Smash Mouth",
+      "name": "Walkin' On The Sun",
+      "uri": "spotify:track:1m2EwoCsZlX5JauNr9O4zk"
+    }
   },
   {
     "artist": "Smash Mouth",
-    "title": "Why Can't We Be Friends"
+    "title": "Why Can't We Be Friends",
+    "result": {
+      "album": "All Star Smash Hits",
+      "artist": "Smash Mouth",
+      "name": "Why Can't We Be Friends",
+      "uri": "spotify:track:6PVJFuMAKIL1fnvW9iTCg9"
+    }
   },
   {
     "artist": "Smashing Pumpkins",
-    "title": "1979"
+    "title": "1979",
+    "result": {
+      "album": "Mellon Collie and the Infinite Sadness (2012 - Remaster)",
+      "artist": "The Smashing Pumpkins",
+      "name": "1979",
+      "uri": "spotify:track:3Y8Ff1nH44jFywAtpgmleZ"
+    }
   },
   {
     "artist": "Smashing Pumpkins",
-    "title": "Disarm"
+    "title": "Disarm",
+    "result": {
+      "album": "Siamese Dream (2011 - Remaster)",
+      "artist": "The Smashing Pumpkins",
+      "name": "Disarm",
+      "uri": "spotify:track:7A8caPxvrT8ZgLvQPPUCcj"
+    }
   },
   {
     "artist": "Smashing Pumpkins",
-    "title": "Today"
+    "title": "Today",
+    "result": {
+      "album": "Rotten Apples, The Smashing Pumpkins Greatest Hits",
+      "artist": "The Smashing Pumpkins",
+      "name": "Today",
+      "uri": "spotify:track:1XPta4VLT78HQnVFd1hlsK"
+    }
   },
   {
     "artist": "Smashing Pumpkins",
-    "title": "Zero"
+    "title": "Zero",
+    "result": {
+      "album": "Mellon Collie and the Infinite Sadness (2012 - Remaster)",
+      "artist": "The Smashing Pumpkins",
+      "name": "Zero",
+      "uri": "spotify:track:1o2jjiTtiVJEtQyYzcRHnm"
+    }
   },
   {
     "artist": "Snap!",
-    "title": "The Power"
+    "title": "The Power",
+    "result": {
+      "album": "World Power",
+      "artist": "SNAP!",
+      "name": "The Power",
+      "uri": "spotify:track:04Mh4OWSBUBn5Vpna4DXrA"
+    }
   },
   {
     "artist": "Sneaker Pimps",
-    "title": "6 Underground [Nellee Hooper Edit]"
+    "title": "6 Underground - Nellee Hooper Mix",
+    "result": {
+      "album": "Becoming X",
+      "artist": "Sneaker Pimps",
+      "name": "6 Underground - Nellee Hooper Mix",
+      "uri": "spotify:track:4OchoJP9f6qiSycrX8iV9Z"
+    }
   },
   {
     "artist": "Sneaker Pimps",
-    "title": "Spin Spin Sugar"
+    "title": "Spin Spin Sugar",
+    "result": {
+      "album": "Becoming Remixed",
+      "artist": "Sneaker Pimps",
+      "name": "Spin Spin Sugar",
+      "uri": "spotify:track:21YnhSNvEfNSBo8GWQuVtw"
+    }
   },
   {
     "artist": "Snoop Dogg",
-    "title": "Gin and Juice"
+    "title": "Gin and Juice",
+    "result": {
+      "album": "Doggystyle",
+      "artist": "Snoop Dogg",
+      "name": "Gin And Juice",
+      "uri": "spotify:track:0WKYRFtH6KKbaNWjsxqm70"
+    }
   },
   {
     "artist": "Snoop Dogg",
-    "title": "Who Am I (What's My Name) "
+    "title": "Who Am I (What's My Name) ",
+    "result": {
+      "album": "Doggystyle",
+      "artist": "Snoop Dogg",
+      "name": "Who Am I (What's My Name)?",
+      "uri": "spotify:track:5XhkV07Vou38wnrzwURUOC"
+    }
   },
   {
     "artist": "Snow",
-    "title": "Informer"
+    "title": "Informer",
+    "result": {
+      "album": "12 Inches Of Snow",
+      "artist": "Snow",
+      "name": "Informer",
+      "uri": "spotify:track:2LjiPAQOVazT8sRyXL3XRs"
+    }
   },
   {
     "artist": "Soundgarden",
-    "title": "Black Hole Sun"
+    "title": "Black Hole Sun",
+    "result": {
+      "album": "Superunknown (20th Anniversary)",
+      "artist": "Soundgarden",
+      "name": "Black Hole Sun",
+      "uri": "spotify:track:3ztCt91U2wGkDZuzbCwH6H"
+    }
   },
   {
     "artist": "Soundgarden",
-    "title": "Bleed Together"
+    "title": "Bleed Together",
+    "result": {
+      "album": "Echo Of Miles: Scattered Tracks Across The Path",
+      "artist": "Soundgarden",
+      "name": "Bleed Together",
+      "uri": "spotify:track:094jFvzgQNDMlUoLsRWQqR"
+    }
   },
   {
     "artist": "Soundgarden",
-    "title": "Blow Up The Outside World"
+    "title": "Blow Up The Outside World",
+    "result": {
+      "album": "Down On The Upside",
+      "artist": "Soundgarden",
+      "name": "Blow Up The Outside World",
+      "uri": "spotify:track:17YjA62oHG4JL2qXMo3iqN"
+    }
   },
   {
     "artist": "Soundgarden",
-    "title": "Burden in My Hand"
+    "title": "Burden in My Hand",
+    "result": {
+      "album": "Down On The Upside",
+      "artist": "Soundgarden",
+      "name": "Burden In My Hand",
+      "uri": "spotify:track:5aDKuMBuyPZsIgbfR7UbQK"
+    }
   },
   {
     "artist": "Soundgarden",
-    "title": "Spoonman"
+    "title": "Spoonman",
+    "result": {
+      "album": "Superunknown (20th Anniversary)",
+      "artist": "Soundgarden",
+      "name": "Spoonman",
+      "uri": "spotify:track:2tkyEHSkv0I3l4OkBe1FnO"
+    }
   },
   {
     "artist": "Space",
-    "title": "Female of the Species"
+    "title": "Female of the Species",
+    "result": {
+      "album": "Spiders",
+      "artist": "Space",
+      "name": "Female Of The Species",
+      "uri": "spotify:track:4oWmifC8SThccLseeRcKVj"
+    }
   },
   {
     "artist": "Spacehog",
-    "title": "In The Meantime"
+    "title": "In The Meantime",
+    "result": {
+      "album": "Resident Alien (US Release)",
+      "artist": "Spacehog",
+      "name": "In The Meantime",
+      "uri": "spotify:track:02lTDOxHeXTHsdwXoz6lpC"
+    }
   },
   {
     "artist": "Spice Girls",
-    "title": "Spice Up Your Life"
+    "title": "Spice Up Your Life",
+    "result": {
+      "album": "Spiceworld",
+      "artist": "Spice Girls",
+      "name": "Spice Up Your Life",
+      "uri": "spotify:track:5qGwqO0lkbBXw4xNfzT7SF"
+    }
   },
   {
     "artist": "Spice Girls",
-    "title": "Stop"
+    "title": "Stop",
+    "result": {
+      "album": "Spiceworld",
+      "artist": "Spice Girls",
+      "name": "Stop",
+      "uri": "spotify:track:3FteycP8CaXS1MhjcXekVT"
+    }
   },
   {
     "artist": "Spice Girls",
-    "title": "Wannabe"
+    "title": "Wannabe",
+    "result": {
+      "album": "Spice",
+      "artist": "Spice Girls",
+      "name": "Wannabe - Radio Edit",
+      "uri": "spotify:track:1Je1IMUlBXcx1Fz0WE7oPT"
+    }
   },
   {
     "artist": "Spiderbait",
-    "title": "Glokenpop"
+    "title": "Glockenpop",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Spiderbait",
+      "name": "Glockenpop",
+      "uri": "spotify:track:1M1eLN8TwP3rkoFWwmPDwz"
+    }
   },
   {
     "artist": "Spiderbait",
-    "title": "Shazam!"
+    "title": "Shazam!",
+    "result": {
+      "album": "Grand Slam",
+      "artist": "Spiderbait",
+      "name": "Shazam!",
+      "uri": "spotify:track:5v9vHWHw8EIEznTtSbPacg"
+    }
   },
   {
     "artist": "Spiderbait",
-    "title": "Stevie"
+    "title": "Stevie",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "Spiderbait",
+      "name": "Stevie",
+      "uri": "spotify:track:14rdmEgkqxulRrpSHKfhun"
+    }
   },
   {
     "artist": "Spin Doctors",
-    "title": "Two Princes"
+    "title": "Two Princes",
+    "result": {
+      "album": "Pocket Full Of Kryptonite",
+      "artist": "Spin Doctors",
+      "name": "Two Princes",
+      "uri": "spotify:track:4ePP9So5xRzspjLFVVbj90"
+    }
   },
   {
     "artist": "Splendora",
-    "title": "You're Standing On My Neck (Theme from Daria)"
+    "title": "You're Standing On My Neck (Theme from Daria)",
+    "result": null
   },
   {
     "artist": "Sprung Monkey",
-    "title": "Get 'Em Outta Here"
+    "title": "Get 'Em Outta Here",
+    "result": null
   },
   {
     "artist": "Stabbing Westward",
-    "title": "Save Yourself"
+    "title": "Save Yourself",
+    "result": {
+      "album": "The Essential Stabbing Westward",
+      "artist": "Stabbing Westward",
+      "name": "Save Yourself",
+      "uri": "spotify:track:561spezvXFVnAOYoSv4Bxy"
+    }
   },
   {
     "artist": "Staind",
-    "title": "It's Been Awhile"
+    "title": "It's Been Awhile",
+    "result": {
+      "album": "Break The Cycle (Parental Advisory)",
+      "artist": "Staind",
+      "name": "It's Been Awhile",
+      "uri": "spotify:track:1BExV8JprNJLvLeDE9qdEW"
+    }
   },
   {
     "artist": "Staind",
-    "title": "Outside"
+    "title": "Outside",
+    "result": {
+      "album": "Break The Cycle (Parental Advisory)",
+      "artist": "Staind",
+      "name": "Outside - Original",
+      "uri": "spotify:track:5D6rk7Zr7FRy5m2fDte5fp"
+    }
   },
   {
     "artist": "Stardust",
-    "title": "Music Sounds Better With You"
+    "title": "Music Sounds Better With You",
+    "result": {
+      "album": "Total Music: Dance Classics Vol. 1",
+      "artist": "Stardust",
+      "name": "Music Sounds Better With You - 12\" Club Mix",
+      "uri": "spotify:track:0a53p8UzpQD0uW1hFUB4oF"
+    }
   },
   {
     "artist": "Steps",
-    "title": "Tragedy"
+    "title": "Tragedy",
+    "result": {
+      "album": "Step One",
+      "artist": "Steps",
+      "name": "Tragedy",
+      "uri": "spotify:track:1oL2eWOqDRV0YruSr7tReo"
+    }
   },
   {
     "artist": "Stereo MC's",
-    "title": "Connected"
+    "title": "Connected",
+    "result": {
+      "album": "Connected",
+      "artist": "Stereo MC's",
+      "name": "Connected",
+      "uri": "spotify:track:5tXWXbZC2wCvXBzlxu0ZQ6"
+    }
   },
   {
     "artist": "Stone Temple Pilots",
-    "title": "Interstate Love Song"
+    "title": "Interstate Love Song",
+    "result": {
+      "album": "Purple",
+      "artist": "Stone Temple Pilots",
+      "name": "Interstate Love Song",
+      "uri": "spotify:track:1AfYo6cKm3yHsJHdmNoGO1"
+    }
   },
   {
     "artist": "Stone Temple Pilots",
-    "title": "Plush"
+    "title": "Plush",
+    "result": {
+      "album": "Core",
+      "artist": "Stone Temple Pilots",
+      "name": "Plush",
+      "uri": "spotify:track:3jJZVeExYzVYiV6Y9Fl3DX"
+    }
   },
   {
     "artist": "Stone Temple Pilots",
-    "title": "Sex Type Thing"
+    "title": "Sex Type Thing",
+    "result": {
+      "album": "Core",
+      "artist": "Stone Temple Pilots",
+      "name": "Sex Type Thing",
+      "uri": "spotify:track:2nWjhmRImt6LScZIPQMBnM"
+    }
   },
   {
     "artist": "Stroke 9",
-    "title": "Kick Some Ass"
+    "title": "Kick Some Ass",
+    "result": {
+      "album": "Rip It Off",
+      "artist": "Stroke 9",
+      "name": "Kick Some Ass",
+      "uri": "spotify:track:66Zys3XGJhr2pusoVSE9jD"
+    }
   },
   {
     "artist": "Sublime",
-    "title": "Doin' Time"
+    "title": "Doin' Time",
+    "result": {
+      "album": "Sublime",
+      "artist": "Sublime",
+      "name": "Doin' Time",
+      "uri": "spotify:track:0Ylaocf86J0PZAhjAP8wzl"
+    }
   },
   {
     "artist": "Sublime",
-    "title": "Santeria"
+    "title": "Santeria",
+    "result": {
+      "album": "Sublime (Deluxe Edition)",
+      "artist": "Sublime",
+      "name": "Santeria",
+      "uri": "spotify:track:70rXTQgWnZAvgptmoJnFWo"
+    }
   },
   {
     "artist": "Sublime",
-    "title": "What I Got"
+    "title": "What I Got",
+    "result": {
+      "album": "Sublime (Deluxe Edition)",
+      "artist": "Sublime",
+      "name": "What I Got",
+      "uri": "spotify:track:3xsrky7ED45oiA0rSN1RjM"
+    }
   },
   {
     "artist": "Sublime",
-    "title": "Wrong Way"
+    "title": "Wrong Way",
+    "result": {
+      "album": "Sublime",
+      "artist": "Sublime",
+      "name": "Wrong Way",
+      "uri": "spotify:track:5cPfmNMC3AENizySC5oPu2"
+    }
   },
   {
     "artist": "Sugar Ray",
-    "title": "Every Morning"
+    "title": "Every Morning",
+    "result": {
+      "album": "The Best Of Sugar Ray (US Release)",
+      "artist": "Sugar Ray",
+      "name": "Every Morning - Remastered",
+      "uri": "spotify:track:6Neq7tjnknt4URNI8txFL4"
+    }
   },
   {
     "artist": "Sugar Ray",
-    "title": "Fly"
+    "title": "Fly",
+    "result": {
+      "album": "Rhino Hi-Five: Sugar Ray",
+      "artist": "Sugar Ray",
+      "name": "Fly",
+      "uri": "spotify:track:5fuGP7Dze9tkadS9WoPbar"
+    }
   },
   {
     "artist": "Sugar Ray",
-    "title": "Someday"
+    "title": "Someday",
+    "result": {
+      "album": "The Best Of Sugar Ray (US Release)",
+      "artist": "Sugar Ray",
+      "name": "Someday - Remastered",
+      "uri": "spotify:track:6NcHJ23mLQKnVxQcOmT7JW"
+    }
   },
   {
     "artist": "Sugar Ray",
-    "title": "When It's Over"
+    "title": "When It's Over",
+    "result": {
+      "album": "The Best Of Sugar Ray (US Release)",
+      "artist": "Sugar Ray",
+      "name": "When It's Over - Remastered",
+      "uri": "spotify:track:3eWxADd1CLwJVhyPzrCpl8"
+    }
   },
   {
     "artist": "Supergrass",
-    "title": "Alright"
+    "title": "Alright",
+    "result": {
+      "album": "I Should Coco",
+      "artist": "Supergrass",
+      "name": "Alright",
+      "uri": "spotify:track:5xC8uOesnn0udeXAYlAnoY"
+    }
   },
   {
     "artist": "Supergrass",
-    "title": "Cheapskate"
+    "title": "Cheapskate",
+    "result": {
+      "album": "In It For The Money",
+      "artist": "Supergrass",
+      "name": "Cheapskate",
+      "uri": "spotify:track:3EQg9Zahk5ov05uwGdYsOg"
+    }
   },
   {
     "artist": "Supergroove",
-    "title": "Can't Get Enough"
+    "title": "Can't Get Enough",
+    "result": {
+      "album": "Postage",
+      "artist": "Supergroove",
+      "name": "Can't Get Enough",
+      "uri": "spotify:track:6OHZ4qXzbRtasiQhGKjPyo"
+    }
   },
   {
     "artist": "Supergroove",
-    "title": "You Gotta Know"
+    "title": "You Gotta Know",
+    "result": {
+      "album": "Postage",
+      "artist": "Supergroove",
+      "name": "You Gotta Know",
+      "uri": "spotify:track:7pNXommZ0yVnNV58khQiBg"
+    }
   },
   {
     "artist": "Supermen Lovers",
-    "title": "Starlight"
+    "title": "Starlight",
+    "result": {
+      "album": "Starlight - EP",
+      "artist": "The Supermen Lovers",
+      "name": "Starlight (Radio Edit)",
+      "uri": "spotify:track:4UfupbARPxljVkBmuZlJnY"
+    }
   },
   {
     "artist": "Swingin' Utters",
-    "title": "Five Lessons Learned"
+    "title": "Five Lessons Learned",
+    "result": {
+      "album": "Live In A Dive",
+      "artist": "Swingin' Utters",
+      "name": "Five Lessons Learned - Live",
+      "uri": "spotify:track:6MzX1KCzAWKqvmEXPkSNGT"
+    }
   },
   {
     "artist": "Tadpole",
-    "title": "Alright"
+    "title": "Alright",
+    "result": {
+      "album": "The Buddhafinger",
+      "artist": "Tadpole",
+      "name": "Alright",
+      "uri": "spotify:track:5tKggofPaPwREIT9orDXax"
+    }
   },
   {
     "artist": "Tadpole",
-    "title": "Backdoor"
+    "title": "Backdoor",
+    "result": {
+      "album": "The Buddhafinger",
+      "artist": "Tadpole",
+      "name": "Backdoor",
+      "uri": "spotify:track:4GxgeTgPUR2cTwD0vCQxDe"
+    }
   },
   {
     "artist": "Tag Team",
-    "title": "Whoomp! (There It Is)"
+    "title": "Whoomp! (There It Is)",
+    "result": {
+      "album": "Booty Bass Party",
+      "artist": "Tag Team",
+      "name": "Whoomp! There It Is",
+      "uri": "spotify:track:4syVOaNXaoof1ls2bCyDOV"
+    }
   },
   {
     "artist": "Take That",
-    "title": "Back for Good"
+    "title": "Back for Good",
+    "result": {
+      "album": "Never Forget - The Ultimate Collection",
+      "artist": "Take That",
+      "name": "Back for Good - Radio Mix",
+      "uri": "spotify:track:2BIBtKMUnHyYs3BsEiILTU"
+    }
   },
   {
     "artist": "Tal Bachman",
-    "title": "She's So High"
+    "title": "She's So High",
+    "result": {
+      "album": "Tal Bachman",
+      "artist": "Tal Bachman",
+      "name": "She's so High",
+      "uri": "spotify:track:7mnGQesk1TzQLzQ9bYWZPR"
+    }
   },
   {
     "artist": "Tamperer",
-    "title": "Feel It"
+    "title": "Feel It",
+    "result": {
+      "album": "Feel It ( 2008 )",
+      "artist": "The Tamperer",
+      "name": "Feel It ( 2008 ) - The Mac Project Radio Edit",
+      "uri": "spotify:track:4TkpaDw1dFE93O9HfwQ4YO"
+    }
   },
   {
     "artist": "Technohead",
-    "title": "I Wanna Be a Hippy"
+    "title": "I Wanna Be a Hippy",
+    "result": {
+      "album": "Happy Hardcore Top 100",
+      "artist": "Technohead",
+      "name": "I Wanna Be A Hippy",
+      "uri": "spotify:track:3NVfe7Iqz2mk5hqJSGPVNs"
+    }
   },
   {
     "artist": "Technotronic",
-    "title": "Get Up (Before the Night Is Over)"
+    "title": "Get Up (Before the Night Is Over)",
+    "result": {
+      "album": "Pump Up The Jam",
+      "artist": "Technotronic",
+      "name": "Get Up (Before The Night Is Over)",
+      "uri": "spotify:track:2iefx36GH8cC9WTmE2jCv7"
+    }
   },
   {
     "artist": "Technotronic",
-    "title": "Pump Up the Jam"
+    "title": "Pump Up the Jam",
+    "result": {
+      "album": "Ultimate Club Dance 90s",
+      "artist": "Technotronic",
+      "name": "Pump Up the Jam",
+      "uri": "spotify:track:7rL33IgIVe3Wd2eHHFnFQ7"
+    }
   },
   {
     "artist": "The Avalanches",
-    "title": "Frontier Psychiatrist"
+    "title": "Frontier Psychiatrist",
+    "result": {
+      "album": "Since I Left You",
+      "artist": "The Avalanches",
+      "name": "Frontier Psychiatrist",
+      "uri": "spotify:track:46Xfa8fSQQlq9WZWqVtowP"
+    }
   },
   {
     "artist": "The B-52's",
-    "title": "Love Shack"
+    "title": "Love Shack",
+    "result": {
+      "album": "Cosmic Thing",
+      "artist": "The B-52's",
+      "name": "Love Shack",
+      "uri": "spotify:track:4W4wYHtsrgDiivRASVOINL"
+    }
   },
   {
     "artist": "The B-52's",
-    "title": "Roam"
+    "title": "Roam",
+    "result": {
+      "album": "Roam [Edit] / Bushfire [Digital 45]",
+      "artist": "The B-52's",
+      "name": "Roam [Edit] (45 Version)",
+      "uri": "spotify:track:0jfONt56vckywtWwm8wjki"
+    }
   },
   {
-    "artist": "The Beastie Boys",
-    "title": "Alive"
+    "artist": "Beastie Boys",
+    "title": "Alive",
+    "result": {
+      "album": "Anthology: The Sounds Of Science",
+      "artist": "Beastie Boys",
+      "name": "Alive",
+      "uri": "spotify:track:47VwQ3IrLmlhteJC9ZYzsR"
+    }
   },
   {
-    "artist": "The Bloodhound Gang",
-    "title": "Fire Water Burn"
+    "artist": "Bloodhound Gang",
+    "title": "Fire Water Burn",
+    "result": {
+      "album": "One Fierce Beer Coaster (Explicit)",
+      "artist": "Bloodhound Gang",
+      "name": "Fire Water Burn",
+      "uri": "spotify:track:6EdUE6TbcVzxfDnBZPTAg5"
+    }
   },
   {
-    "artist": "The Bloodhound Gang",
-    "title": "I Wish I Was Queer So I Could Get Chicks"
+    "artist": "Bloodhound Gang",
+    "title": "I Wish I Was Queer So I Could Get Chicks",
+    "result": {
+      "album": "One Fierce Beer Coaster (Explicit)",
+      "artist": "Bloodhound Gang",
+      "name": "I Wish I Was Queer So I Could Get Chicks",
+      "uri": "spotify:track:4c2W2zm7Nf8m9tNdyDVrEG"
+    }
   },
   {
-    "artist": "The Bloodhound Gang",
-    "title": "The Bad Touch"
+    "artist": "Bloodhound Gang",
+    "title": "The Bad Touch",
+    "result": {
+      "album": "Nu Rock (International Version)",
+      "artist": "Bloodhound Gang",
+      "name": "The Bad Touch",
+      "uri": "spotify:track:2qONptRzQM0D3BGOgAsapI"
+    }
   },
   {
-    "artist": "The Bloodhound Gang",
-    "title": "Why's Everybody Always Pickin' on Me "
+    "artist": "Bloodhound Gang",
+    "title": "Why's Everybody Always Pickin' on Me ",
+    "result": {
+      "album": "One Fierce Beer Coaster (Explicit)",
+      "artist": "Bloodhound Gang",
+      "name": "Why's Everybody Always Pickin' On Me?",
+      "uri": "spotify:track:6x4UJWIhNrtV0wDFKsNfg1"
+    }
   },
   {
-    "artist": "The BoDeans",
-    "title": "Closer to Free"
+    "artist": "Bodeans",
+    "title": "Closer to Free",
+    "result": {
+      "album": "The Best of BoDeans - Slash and Burn",
+      "artist": "Bodeans",
+      "name": "Closer To Free",
+      "uri": "spotify:track:4j2Xkx947eebgeZQBw6pEQ"
+    }
   },
   {
     "artist": "The Breeders",
-    "title": "Cannonball"
+    "title": "Cannonball",
+    "result": {
+      "album": "Last Splash",
+      "artist": "The Breeders",
+      "name": "Cannonball",
+      "uri": "spotify:track:11nv53N7ZnNTCgyl8yxvYd"
+    }
   },
   {
     "artist": "The Bucketheads",
-    "title": "The Bomb!"
+    "title": "The Bomb!",
+    "result": {
+      "album": "Henry Street Bombs Vol. 1",
+      "artist": "Kenny Dope",
+      "name": "The Bomb! (These Sounds Fall Into My Mind)",
+      "uri": "spotify:track:3tlRGvVZWleW4ZNncqVNI9"
+    }
   },
   {
     "artist": "The Cardigans",
-    "title": "Been It"
+    "title": "Been It",
+    "result": {
+      "album": "Best Of",
+      "artist": "The Cardigans",
+      "name": "Been It",
+      "uri": "spotify:track:3r6D0ZS3HXtHpzsdSnIbC7"
+    }
   },
   {
     "artist": "The Cardigans",
-    "title": "Erase-Rewind"
+    "title": "Erase-Rewind",
+    "result": {
+      "album": "Best Of",
+      "artist": "The Cardigans",
+      "name": "Erase / Rewind",
+      "uri": "spotify:track:6GnjOfq4MFPmDKkUV8zFD8"
+    }
   },
   {
     "artist": "The Cardigans",
-    "title": "Lovefool"
+    "title": "Lovefool",
+    "result": {
+      "album": "Best Of",
+      "artist": "The Cardigans",
+      "name": "Lovefool",
+      "uri": "spotify:track:6vvYOBxKmCvUSEQgxdZiAq"
+    }
   },
   {
     "artist": "The Cardigans",
-    "title": "My Favourite Game"
+    "title": "My Favourite Game",
+    "result": {
+      "album": "Best Of",
+      "artist": "The Cardigans",
+      "name": "My Favourite Game",
+      "uri": "spotify:track:4LpOPF5RXZhS1GLzclhyaT"
+    }
   },
   {
     "artist": "The Cranberries",
-    "title": "Linger"
+    "title": "Linger",
+    "result": {
+      "album": "With Love",
+      "artist": "The Cranberries",
+      "name": "Linger",
+      "uri": "spotify:track:4Uk4gF91MYaimdAAtta5Wx"
+    }
   },
   {
     "artist": "The Cranberries",
-    "title": "Salvation"
+    "title": "Salvation",
+    "result": {
+      "album": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+      "artist": "The Cranberries",
+      "name": "Salvation",
+      "uri": "spotify:track:2jTGd685DHpxAjluVFh5gs"
+    }
   },
   {
     "artist": "The Cranberries",
-    "title": "Zombie"
+    "title": "Zombie",
+    "result": {
+      "album": "No Need To Argue (The Complete Sessions 1994-1995)",
+      "artist": "The Cranberries",
+      "name": "Zombie",
+      "uri": "spotify:track:6xy6jNeNTYwjnKTDzMyHw2"
+    }
   },
   {
     "artist": "The Crystal Method",
-    "title": "Busy Child"
+    "title": "Busy Child",
+    "result": {
+      "album": "Vegas",
+      "artist": "The Crystal Method",
+      "name": "Busy Child",
+      "uri": "spotify:track:43F49A8ReVXhH7l0jGMViS"
+    }
   },
   {
     "artist": "The Crystal Method",
-    "title": "Keep Hope Alive"
+    "title": "Keep Hope Alive",
+    "result": {
+      "album": "The Family Values Tour 1999",
+      "artist": "The Crystal Method",
+      "name": "Keep Hope Alive",
+      "uri": "spotify:track:24MKU3Liux9yC5kG8woa4O"
+    }
   },
   {
     "artist": "The Cure",
-    "title": "Friday I'm in Love"
+    "title": "Friday I'm in Love",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "The Cure",
+      "name": "Friday I'm In Love",
+      "uri": "spotify:track:0lxt6J01WBpovNFVF87Yqa"
+    }
   },
   {
     "artist": "The Cure",
-    "title": "Just Like Heaven"
+    "title": "Just Like Heaven",
+    "result": {
+      "album": "Kiss Me Kiss Me Kiss Me",
+      "artist": "The Cure",
+      "name": "Just Like Heaven",
+      "uri": "spotify:track:5ft1GmMZA4uNX7afvQfDLn"
+    }
   },
   {
     "artist": "The Dandy Warhols",
-    "title": "Bohemian Like You"
+    "title": "Bohemian Like You",
+    "result": {
+      "album": "Thirteen Tales From Urban Bohemia",
+      "artist": "The Dandy Warhols",
+      "name": "Bohemian Like You",
+      "uri": "spotify:track:0yEhNqCwEfy8LHUmnZoHpP"
+    }
   },
   {
     "artist": "The Dandy Warhols",
-    "title": "Not If You Were the Last Junkie on Earth"
+    "title": "Not If You Were the Last Junkie on Earth",
+    "result": {
+      "album": "The Best Of The Capitol Years: 1995-2007",
+      "artist": "The Dandy Warhols",
+      "name": "Not If You Were The Last Junkie On Earth",
+      "uri": "spotify:track:6joG7xWbji3b5cFhB5wUux"
+    }
   },
   {
     "artist": "The Divinyls",
-    "title": "I Touch Myself"
+    "title": "I Touch Myself",
+    "result": {
+      "album": "The Karaoke Channel - Sing I Touch Myself Like Divinyls",
+      "artist": "The Karaoke Channel",
+      "name": "I Touch Myself",
+      "uri": "spotify:track:20SIiVh56h5SwzEUIHdxyO"
+    }
   },
   {
     "artist": "The Ernies",
-    "title": "Here and Now"
+    "title": "Here and Now",
+    "result": {
+      "album": "Meson Ray",
+      "artist": "The Ernies",
+      "name": "Here & Now",
+      "uri": "spotify:track:7pIZ4XDMrAYzSPCdvYXrKe"
+    }
   },
   {
     "artist": "The Four Seasons",
-    "title": "December 63 (Oh What A Night)"
+    "title": "December 63 (Oh What A Night)",
+    "result": {
+      "album": "Drew's Famous # 1 Karaoke Hits: Sing Like Frankie Valli & The Four Seasons",
+      "artist": "The Karaoke Crew",
+      "name": "December '63 (Oh What a Night) (Karaoke Version)",
+      "uri": "spotify:track:5DwbpsnJeS1hKVb9dfVSQ7"
+    }
   },
   {
     "artist": "The Goo Goo Dolls",
-    "title": "Iris"
+    "title": "Iris",
+    "result": {
+      "album": "Greatest Hits Volume One - The Singles",
+      "artist": "The Goo Goo Dolls",
+      "name": "Iris",
+      "uri": "spotify:track:6vrUTGn5p8IrfTZ0J6sIVM"
+    }
   },
   {
     "artist": "The Goo Goo Dolls",
-    "title": "Slide"
+    "title": "Slide",
+    "result": {
+      "album": "Greatest Hits Volume One - The Singles",
+      "artist": "The Goo Goo Dolls",
+      "name": "Slide",
+      "uri": "spotify:track:0eG5CqXwJpa5MBjYyg1lRm"
+    }
   },
   {
     "artist": "The Immortals",
-    "title": "Techno Syndrome (Mortal Kombat)"
+    "title": "Techno Syndrome (Mortal Kombat)",
+    "result": null
   },
   {
     "artist": "The La's",
-    "title": "There She Goes"
+    "title": "There She Goes",
+    "result": {
+      "album": "The La's",
+      "artist": "The La's",
+      "name": "There She Goes",
+      "uri": "spotify:track:4c6vZqYHFur11FbWATIJ9P"
+    }
   },
   {
     "artist": "The Lightning Seeds",
-    "title": "You Showed Me"
+    "title": "You Showed Me",
+    "result": {
+      "album": "Like You Do - Best of the Lightning Seeds",
+      "artist": "The Lightning Seeds",
+      "name": "You Showed Me",
+      "uri": "spotify:track:4eqSlSH5HsIZSH9CH23cci"
+    }
   },
   {
     "artist": "The Living End",
-    "title": "All Torn Down"
+    "title": "All Torn Down",
+    "result": {
+      "album": "The Living End",
+      "artist": "The Living End",
+      "name": "All Torn Down",
+      "uri": "spotify:track:7wExJtAgOuF21fMxUwyIsB"
+    }
   },
   {
     "artist": "The Living End",
-    "title": "Prisoner of Society"
+    "title": "Prisoner of Society",
+    "result": {
+      "album": "The Living End",
+      "artist": "The Living End",
+      "name": "Prisoner Of Society",
+      "uri": "spotify:track:2HY0xuuAqkGAlocHJ2Plu3"
+    }
   },
   {
     "artist": "The Living End",
-    "title": "Save the Day"
+    "title": "Save the Day",
+    "result": {
+      "album": "The Living End",
+      "artist": "The Living End",
+      "name": "Save The Day",
+      "uri": "spotify:track:542di2pc4TrCoIpfBaucc4"
+    }
   },
   {
     "artist": "The Living End",
-    "title": "Second Solution"
+    "title": "Second Solution",
+    "result": {
+      "album": "The Living End",
+      "artist": "The Living End",
+      "name": "Second Solution",
+      "uri": "spotify:track:1kj3ASwCuqDnzehRd3WIz3"
+    }
   },
   {
     "artist": "The Living End",
-    "title": "West End Riot"
+    "title": "West End Riot",
+    "result": {
+      "album": "The Living End",
+      "artist": "The Living End",
+      "name": "West End Riot",
+      "uri": "spotify:track:56X1106MCLMjHhBF4qPEwk"
+    }
   },
   {
     "artist": "The Mighty Mighty Bosstones",
-    "title": "The Impression That I Get"
+    "title": "The Impression That I Get",
+    "result": {
+      "album": "Let's Face It (Explicit Version)",
+      "artist": "The Mighty Mighty Bosstones",
+      "name": "The Impression That I Get",
+      "uri": "spotify:track:2F5r18ZlLUBqnt0jjhhETm"
+    }
   },
   {
     "artist": "The Muffs",
-    "title": "Kids in America"
+    "title": "Kids in America",
+    "result": {
+      "album": "Hamburger",
+      "artist": "The Muffs",
+      "name": "Kids in America",
+      "uri": "spotify:track:5lZAzpl6XoswhDz7BukTta"
+    }
   },
   {
     "artist": "The Notorious B.I.G.",
-    "title": "Hypnotize"
+    "title": "Hypnotize",
+    "result": {
+      "album": "Greatest Hits (Explicit Version)",
+      "artist": "The Notorious B.I.G.",
+      "name": "Hypnotize",
+      "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0"
+    }
   },
   {
     "artist": "The Offspring",
-    "title": "All I Want"
+    "title": "All I Want",
+    "result": {
+      "album": "Ixnay On The Hombre",
+      "artist": "The Offspring",
+      "name": "All I Want",
+      "uri": "spotify:track:78tTwFtkh8Gtgeyi11mYq7"
+    }
   },
   {
     "artist": "The Offspring",
-    "title": "Gone Away"
+    "title": "Gone Away",
+    "result": {
+      "album": "Ixnay On The Hombre",
+      "artist": "The Offspring",
+      "name": "Gone Away",
+      "uri": "spotify:track:62v2N1mQfVCnKJuTPsLPJJ"
+    }
   },
   {
     "artist": "The Offspring",
-    "title": "Pretty Fly (For a White Guy)"
+    "title": "Pretty Fly (For a White Guy)",
+    "result": {
+      "album": "Americana",
+      "artist": "The Offspring",
+      "name": "Pretty Fly (For a White Guy)",
+      "uri": "spotify:track:15HadeuRG9THazDGzLH8ZU"
+    }
   },
   {
     "artist": "The Offspring",
-    "title": "The Kids Aren't Alright"
+    "title": "The Kids Aren't Alright",
+    "result": {
+      "album": "Americana",
+      "artist": "The Offspring",
+      "name": "The Kids Aren't Alright",
+      "uri": "spotify:track:4sQJXbtxwoKHG7PwMRJ0Ig"
+    }
   },
   {
     "artist": "The Outhere Brothers",
-    "title": "Boom Boom Boom"
+    "title": "Boom Boom Boom",
+    "result": {
+      "album": "Taste of Chicago House",
+      "artist": "The Outhere Brothers",
+      "name": "Boom Boom Boom",
+      "uri": "spotify:track:2hprnT01P8klIrW9LoYVvn"
+    }
   },
   {
     "artist": "The Presidents of the United States of America",
-    "title": "Mach 5"
+    "title": "Mach 5",
+    "result": {
+      "album": "II",
+      "artist": "The Presidents Of The United States Of America",
+      "name": "Mach 5",
+      "uri": "spotify:track:1o9YwTLE9x5iL3TkeVN6Kp"
+    }
   },
   {
     "artist": "The Presidents of the United States of America",
-    "title": "Volcano"
+    "title": "Volcano",
+    "result": {
+      "album": "II",
+      "artist": "The Presidents Of The United States Of America",
+      "name": "Volcano",
+      "uri": "spotify:track:5R2RN575ilpoQJK4SMvktL"
+    }
   },
   {
     "artist": "The Primitives",
-    "title": "Crash ('95 Mix)"
+    "title": "Crash ('95 Mix)",
+    "result": {
+      "album": "Dumb & Dumber",
+      "artist": "The Primitives",
+      "name": "Crash - The '95 Mix",
+      "uri": "spotify:track:2ffLx3EWVpBteQQkgaekCB"
+    }
   },
   {
     "artist": "The Proclaimers",
-    "title": "I'm Gonna Be (500 Miles)"
+    "title": "I'm Gonna Be (500 Miles)",
+    "result": {
+      "album": "Finest",
+      "artist": "The Proclaimers",
+      "name": "I'm Gonna Be (500 Miles)",
+      "uri": "spotify:track:66S14BkJDxgkYxLl5DCqOz"
+    }
   },
   {
     "artist": "The Prodigy",
-    "title": "Breathe"
+    "title": "Breathe",
+    "result": {
+      "album": "The Fat Of The Land",
+      "artist": "The Prodigy",
+      "name": "Breathe",
+      "uri": "spotify:track:5FCyoZGaN6nRod1oNDJIWZ"
+    }
   },
   {
     "artist": "The Prodigy",
-    "title": "Firestarter"
+    "title": "Firestarter",
+    "result": {
+      "album": "The Fat Of The Land",
+      "artist": "The Prodigy",
+      "name": "Firestarter",
+      "uri": "spotify:track:0QwzCPyTv6UnzjAhZZ0CkB"
+    }
   },
   {
     "artist": "The Prodigy",
-    "title": "Smack My Bitch Up"
+    "title": "Smack My Bitch Up",
+    "result": {
+      "album": "The Fat Of The Land",
+      "artist": "The Prodigy",
+      "name": "Smack My Bitch Up",
+      "uri": "spotify:track:2lBpN5CZ3zLyVIPejUhN6Y"
+    }
   },
   {
     "artist": "The Prodigy",
-    "title": "Voodoo People"
+    "title": "Voodoo People",
+    "result": {
+      "album": "Their Law The Singles 1990 - 2005",
+      "artist": "The Prodigy",
+      "name": "Voodoo People (Pendulum Mix)",
+      "uri": "spotify:track:4IwnNqIML38mYMXGKVsScD"
+    }
   },
   {
     "artist": "The Real McCoy",
-    "title": "Another Night"
+    "title": "Another Night",
+    "result": {
+      "album": "Clássicos da Dance Music 90's",
+      "artist": "MC Sar & The Real McCoy",
+      "name": "Another Night",
+      "uri": "spotify:track:2qDJRHkhkoxbjDHiYowi8h"
+    }
   },
   {
     "artist": "The Real McCoy",
-    "title": "Run Away"
+    "title": "Run Away",
+    "result": null
   },
   {
     "artist": "The Rembrandts",
-    "title": "I'll Be There for You"
+    "title": "I'll Be There for You",
+    "result": {
+      "album": "I'll Be There For You (Theme From FRIENDS) / Snippets: Don't Hide Your Love / End Of The Beginning / Lovin' Me Insane / Drowning In Your Tears / This House Is Not A Home / What Will It Take [Digital 45]",
+      "artist": "The Rembrandts",
+      "name": "I'll Be There For You [Theme From FRIENDS] (45 version)",
+      "uri": "spotify:track:1lfjTOtTRUDkzcmahA4lcs"
+    }
   },
   {
     "artist": "The Simpsons",
-    "title": "Do the Bartman"
+    "title": "Do the Bartman",
+    "result": {
+      "album": "The Simpsons Sing The Blues",
+      "artist": "The Simpsons",
+      "name": "Do The Bartman",
+      "uri": "spotify:track:3QqcE0U4RE3MQbmJfD1tsO"
+    }
   },
   {
     "artist": "The Smashing Pumpkins",
-    "title": "Bullet with Butterfly Wings"
+    "title": "Bullet with Butterfly Wings",
+    "result": {
+      "album": "Mellon Collie and the Infinite Sadness (2012 - Remaster)",
+      "artist": "The Smashing Pumpkins",
+      "name": "Bullet With Butterfly Wings",
+      "uri": "spotify:track:4qMzPtAZe0C9KWpWIzvZAP"
+    }
   },
   {
     "artist": "The Smashing Pumpkins",
-    "title": "Tonight, Tonight"
+    "title": "Tonight, Tonight",
+    "result": {
+      "album": "Mellon Collie and the Infinite Sadness (2012 - Remaster)",
+      "artist": "The Smashing Pumpkins",
+      "name": "Tonight, Tonight",
+      "uri": "spotify:track:4iCGSi1RonREsPtfEKYj5b"
+    }
   },
   {
     "artist": "The Stone Roses",
-    "title": "Fools Gold"
+    "title": "Fools Gold",
+    "result": {
+      "album": "The Stone Roses",
+      "artist": "The Stone Roses",
+      "name": "Fools Gold - Remastered",
+      "uri": "spotify:track:2mv6GY70UsHiTCGQZ4JfgC"
+    }
   },
   {
     "artist": "The Stone Roses",
-    "title": "I Wanna Be Adored"
+    "title": "I Wanna Be Adored",
+    "result": {
+      "album": "The Stone Roses",
+      "artist": "The Stone Roses",
+      "name": "I Wanna Be Adored - Remastered",
+      "uri": "spotify:track:758wEKVqfYopJIHYWdLVd4"
+    }
   },
   {
     "artist": "The Stone Roses",
-    "title": "Love Spreads"
+    "title": "Love Spreads",
+    "result": {
+      "album": "Second Coming",
+      "artist": "The Stone Roses",
+      "name": "Love Spreads",
+      "uri": "spotify:track:1vW6lAtewJNs7oezT8wDQd"
+    }
   },
   {
     "artist": "The Suicide Machines",
-    "title": "New Girl"
+    "title": "New Girl",
+    "result": {
+      "album": "The Least Worst Of The Suicide Machine (Explicit Version)",
+      "artist": "The Suicide Machines",
+      "name": "New Girl",
+      "uri": "spotify:track:4ncajKx90avGRsScLJwJad"
+    }
   },
   {
     "artist": "The Tamperer",
-    "title": "If You Buy This Record Your Life Will Be Better"
+    "title": "If You Buy This Record Your Life Will Be Better",
+    "result": {
+      "album": "Time 25th Anniversary",
+      "artist": "The Tamperer",
+      "name": "If You Buy This Record (Your Life Will Be Better) - Original Mix",
+      "uri": "spotify:track:0jBQyLibhH9vZNESINsCdU"
+    }
   },
   {
     "artist": "The Verve",
-    "title": "Bitter Sweet Symphony"
+    "title": "Bitter Sweet Symphony",
+    "result": {
+      "album": "This Is Music: The Singles 92-98",
+      "artist": "The Verve",
+      "name": "Bitter Sweet Symphony - 2004 Digital Remaster",
+      "uri": "spotify:track:1WYEDcS7WGjv0rG7rmMX3o"
+    }
   },
   {
     "artist": "The Verve",
-    "title": "Lucky Man"
+    "title": "Lucky Man",
+    "result": {
+      "album": "Urban Hymns",
+      "artist": "The Verve",
+      "name": "Lucky Man",
+      "uri": "spotify:track:5tBnCBnTlDQQRdlqHe9qXq"
+    }
   },
   {
     "artist": "The Verve Pipe",
-    "title": "Freshmen"
+    "title": "Freshmen",
+    "result": {
+      "album": "Villains",
+      "artist": "The Verve Pipe",
+      "name": "The Freshmen",
+      "uri": "spotify:track:21jEuMn2lf37715rwjow2M"
+    }
   },
   {
     "artist": "The Verve Pipe",
-    "title": "Photograph"
+    "title": "Photograph",
+    "result": {
+      "album": "Villains",
+      "artist": "The Verve Pipe",
+      "name": "Photograph",
+      "uri": "spotify:track:4qRy7TYFcWEMx5jF0rREld"
+    }
   },
   {
     "artist": "The Wallflowers",
-    "title": "One Headlight"
+    "title": "One Headlight",
+    "result": {
+      "album": "Bringing Down The Horse",
+      "artist": "The Wallflowers",
+      "name": "One Headlight",
+      "uri": "spotify:track:4AmJpaF86079ZjFVVYhFbJ"
+    }
   },
   {
     "artist": "The Wannadies",
-    "title": "You and Me Song"
+    "title": "You and Me Song",
+    "result": {
+      "album": "Be A Girl",
+      "artist": "The Wannadies",
+      "name": "You And Me Song",
+      "uri": "spotify:track:5q4l9EBUjYJ8tzpkVm3kRN"
+    }
   },
   {
     "artist": "Third Eye Blind",
-    "title": "Graduate"
+    "title": "Graduate",
+    "result": {
+      "album": "Third Eye Blind",
+      "artist": "Third Eye Blind",
+      "name": "Graduate",
+      "uri": "spotify:track:6pLko0BJo4OmvbmPbLURsl"
+    }
   },
   {
     "artist": "Third Eye Blind",
-    "title": "Jumper"
+    "title": "Jumper",
+    "result": {
+      "album": "Third Eye Blind",
+      "artist": "Third Eye Blind",
+      "name": "Jumper - 1998 Edit Version",
+      "uri": "spotify:track:3354J49VpkbZJho7Ztdzpw"
+    }
   },
   {
     "artist": "Third Eye Blind",
-    "title": "Losing a Whole Year"
+    "title": "Losing a Whole Year",
+    "result": {
+      "album": "Third Eye Blind",
+      "artist": "Third Eye Blind",
+      "name": "Losing A Whole Year",
+      "uri": "spotify:track:5lgOUdoMBB3eZuSmc5HL4r"
+    }
   },
   {
     "artist": "Third Eye Blind",
-    "title": "Semi-Charmed Life"
+    "title": "Semi-Charmed Life",
+    "result": {
+      "album": "Third Eye Blind",
+      "artist": "Third Eye Blind",
+      "name": "Semi-Charmed Life",
+      "uri": "spotify:track:42et6fnHCw1HIPSrdPprMl"
+    }
   },
   {
     "artist": "TLC",
-    "title": "Unpretty"
+    "title": "Unpretty",
+    "result": {
+      "album": "Fanmail",
+      "artist": "TLC",
+      "name": "Unpretty",
+      "uri": "spotify:track:0BUoLE4o9eVahDHvTqak67"
+    }
   },
   {
     "artist": "TLC",
-    "title": "Waterfalls"
+    "title": "Waterfalls",
+    "result": {
+      "album": "Crazysexycool",
+      "artist": "TLC",
+      "name": "Waterfalls",
+      "uri": "spotify:track:6qspW4YKycviDFjHBOaqUY"
+    }
   },
   {
     "artist": "Toad the Wet Sprocket",
-    "title": "Come Down"
+    "title": "Come Down",
+    "result": {
+      "album": "Playlist: The Very Best Of Toad The Wet Sprocket",
+      "artist": "Toad The Wet Sprocket",
+      "name": "Come Down",
+      "uri": "spotify:track:69Wdrkwig1GUtszCkC8IJq"
+    }
   },
   {
     "artist": "Toadies",
-    "title": "Possum Kingdom"
+    "title": "Possum Kingdom",
+    "result": {
+      "album": "Heretics",
+      "artist": "Toadies",
+      "name": "Possum Kingdom",
+      "uri": "spotify:track:7geL2YhrXDr9tFjoNJMaSZ"
+    }
   },
   {
     "artist": "Tom Jones",
-    "title": "Burning Down The House (feat. The Cardigans)"
+    "title": "Burning Down The House",
+    "result": {
+      "album": "Best Of",
+      "artist": "Tom Jones",
+      "name": "Burning Down The House",
+      "uri": "spotify:track:7FgmnYKW9O87uvMoE2ouTF"
+    }
   },
   {
     "artist": "Tom Jones",
-    "title": "Sex Bomb (feat. Mousse T)"
+    "title": "Sex Bomb",
+    "result": {
+      "album": "Popular Song Covers - Vol. 1",
+      "artist": "Tom Jones",
+      "name": "Sex Bomb",
+      "uri": "spotify:track:47TOpx16LwqnL9ff2uWTef"
+    }
   },
   {
     "artist": "Tonic",
-    "title": "If You Could Only See"
+    "title": "If You Could Only See",
+    "result": {
+      "album": "Lemon Parade",
+      "artist": "Tonic",
+      "name": "If You Could Only See",
+      "uri": "spotify:track:48w23eUUSD88z3xpetzOoE"
+    }
   },
   {
     "artist": "Tool",
-    "title": "Forty Six & 2"
+    "title": "Forty Six & 2",
+    "result": {
+      "album": "Electro-acoustic Tribute To Tool,the",
+      "artist": "Tool Tribute Band",
+      "name": "Forty Six & 2",
+      "uri": "spotify:track:3QgGgsF6UF6mHAGoirOnwv"
+    }
   },
   {
     "artist": "Tool",
-    "title": "Sober"
+    "title": "Sober",
+    "result": {
+      "album": "Electro-acoustic Tribute To Tool,the",
+      "artist": "Tool Tribute Band",
+      "name": "Sober",
+      "uri": "spotify:track:4qL5MI0YZ8kRlgsefi2hCr"
+    }
   },
   {
     "artist": "Tool",
-    "title": "Stinkfist"
+    "title": "Stinkfist",
+    "result": {
+      "album": "Electro-acoustic Tribute To Tool,the",
+      "artist": "Tool Tribute Band",
+      "name": "Stinkfist",
+      "uri": "spotify:track:1MfbGa32fZoxPCOO2RMKGM"
+    }
   },
   {
     "artist": "Tripping Daisy",
-    "title": "I Got A Girl"
+    "title": "I Got A Girl",
+    "result": {
+      "album": "I Am An Elastic Firecracker",
+      "artist": "Tripping Daisy",
+      "name": "I Got A Girl",
+      "uri": "spotify:track:5fxfwjQ1OmbnkOlg39HsSO"
+    }
   },
   {
     "artist": "TV Themes",
-    "title": "Teenage Mutant Ninja Turtles"
+    "title": "Teenage Mutant Ninja Turtles",
+    "result": null
   },
   {
     "artist": "U2",
-    "title": "Hold Me, Thrill Me, Kiss Me, Kill Me"
+    "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+    "result": {
+      "album": "The Best Of 1990-2000",
+      "artist": "U2",
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "uri": "spotify:track:0uWG5H5PrBOI4e46neKfhB"
+    }
   },
   {
     "artist": "U2",
-    "title": "Mysterious Ways"
+    "title": "Mysterious Ways",
+    "result": {
+      "album": "Achtung Baby",
+      "artist": "U2",
+      "name": "Mysterious Ways",
+      "uri": "spotify:track:7FOZKzyMlqKMOua5aehMUa"
+    }
   },
   {
     "artist": "Underworld",
-    "title": "Born Slippy .NUXX"
+    "title": "Born Slippy .NUXX",
+    "result": {
+      "album": "1992 - 2012",
+      "artist": "Underworld",
+      "name": "Born Slippy (Nuxx)",
+      "uri": "spotify:track:1zsDbmrf4ZkjW5hsSsaDjO"
+    }
   },
   {
     "artist": "Underworld",
-    "title": "Cowgirl"
+    "title": "Cowgirl",
+    "result": {
+      "album": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+      "artist": "Underworld",
+      "name": "Cowgirl - Remastered",
+      "uri": "spotify:track:3V50rKwWpOO4liXEOuMhDY"
+    }
   },
   {
     "artist": "Unique II",
-    "title": "Break My Stride"
+    "title": "Break My Stride",
+    "result": {
+      "album": "Break My Stride Re-Work 2002",
+      "artist": "Unique II",
+      "name": "Break My Stride",
+      "uri": "spotify:track:4lBKA4WiQo44pF6fZAgE59"
+    }
   },
   {
     "artist": "Us3",
-    "title": "Cantaloop (Flip Fantasia)"
+    "title": "Cantaloop (Flip Fantasia)",
+    "result": {
+      "album": "Hand On The Torch",
+      "artist": "Us3",
+      "name": "Cantaloop (Flip Fantasia)",
+      "uri": "spotify:track:06DSI8L6IT8SizCw3JLckz"
+    }
   },
   {
     "artist": "Vanessa Amorosi",
-    "title": "Absolutely Everybody"
+    "title": "Absolutely Everybody",
+    "result": {
+      "album": "The Power (15 Year Anniversary Re-Issue)",
+      "artist": "Vanessa Amorosi",
+      "name": "Absolutely Everybody",
+      "uri": "spotify:track:283898Lgbl6LidapOraXiN"
+    }
   },
   {
     "artist": "Vanilla Ice",
-    "title": "Ice Ice Baby"
+    "title": "Ice Ice Baby",
+    "result": {
+      "album": "Vanilla Ice Is Back! - Hip Hop Classics",
+      "artist": "Vanilla Ice",
+      "name": "Ice Ice Baby",
+      "uri": "spotify:track:3XVozq1aeqsJwpXrEZrDJ9"
+    }
   },
   {
     "artist": "Vanilla Ice",
-    "title": "Ninja Rap"
+    "title": "Ninja Rap",
+    "result": {
+      "album": "Platinum Underground",
+      "artist": "Vanilla Ice",
+      "name": "Ninja Rap 2",
+      "uri": "spotify:track:21nov1kGTEuSOF0IqvPz3D"
+    }
   },
   {
     "artist": "Vanilla Ice",
-    "title": "Play That Funky Music"
+    "title": "Play That Funky Music",
+    "result": {
+      "album": "To The Extreme",
+      "artist": "Vanilla Ice",
+      "name": "Play That Funky Music",
+      "uri": "spotify:track:1Ezs8eYxuZjhlgyoI1Bo76"
+    }
   },
   {
     "artist": "Various Artists",
-    "title": "Jock Jam [Mega Mix]"
+    "title": "Jock Jam [Mega Mix]",
+    "result": null
   },
   {
     "artist": "Vengaboys",
-    "title": "We Like to Party! (The Vengabus)"
+    "title": "We Like to Party! (The Vengabus)",
+    "result": {
+      "album": "Greatest Hits!",
+      "artist": "Vengaboys",
+      "name": "We like to Party! (The Vengabus) - Airplay",
+      "uri": "spotify:track:3UL6Lzsocv9Ucizgzid2B0"
+    }
   },
   {
     "artist": "Vertical Horizon",
-    "title": "Everything You Want"
+    "title": "Everything You Want",
+    "result": {
+      "album": "Everything You Want",
+      "artist": "Vertical Horizon",
+      "name": "Everything You Want",
+      "uri": "spotify:track:4cKGldbhGJniI8BrB3K6tb"
+    }
   },
   {
     "artist": "Veruca Salt",
-    "title": "Volcano Girls"
+    "title": "Volcano Girls",
+    "result": {
+      "album": "Eight Arms To Hold You",
+      "artist": "Veruca Salt",
+      "name": "Volcano Girls",
+      "uri": "spotify:track:6ifDwKH8OlIWPcXuWMyST2"
+    }
   },
   {
     "artist": "Vitamin C",
-    "title": "Graduation (Friends Forever)"
+    "title": "Graduation (Friends Forever)",
+    "result": {
+      "album": "Vitamin C",
+      "artist": "Vitamin C",
+      "name": "Graduation (Friends Forever)",
+      "uri": "spotify:track:45V4Mk7vZV2b9JfSWuUX9m"
+    }
   },
   {
     "artist": "Vitamin C",
-    "title": "Smile"
+    "title": "Smile",
+    "result": {
+      "album": "Vitamin C",
+      "artist": "Vitamin C",
+      "name": "Smile",
+      "uri": "spotify:track:5Xkvi3GZeRGah9e5px61gG"
+    }
   },
   {
     "artist": "Ween",
-    "title": "Push Th' Little Daisies"
+    "title": "Push Th' Little Daisies",
+    "result": {
+      "album": "Pure Guava",
+      "artist": "Ween",
+      "name": "Push th' Little Daisies",
+      "uri": "spotify:track:2fX2DfFf5Qq1kYpHu8OMlC"
+    }
   },
   {
     "artist": "Weezer",
-    "title": "Buddy Holly"
+    "title": "Buddy Holly",
+    "result": {
+      "album": "Weezer (Deluxe Edition)",
+      "artist": "Weezer",
+      "name": "Buddy Holly",
+      "uri": "spotify:track:5XkVQZWvsVwedk0Jv54SVH"
+    }
   },
   {
     "artist": "Weezer",
-    "title": "El Scorcho"
+    "title": "El Scorcho",
+    "result": {
+      "album": "Pinkerton - Deluxe Edition",
+      "artist": "Weezer",
+      "name": "El Scorcho",
+      "uri": "spotify:track:1PB7gRWcvefzu7t3LJLUlf"
+    }
   },
   {
     "artist": "Weezer",
-    "title": "Say It Ain't So"
+    "title": "Say It Ain't So",
+    "result": {
+      "album": "Weezer",
+      "artist": "Weezer",
+      "name": "Say It Ain't So",
+      "uri": "spotify:track:7vhhU4SsMDV8uSQlCxf1Lk"
+    }
   },
   {
     "artist": "Weezer",
-    "title": "Undone -- The Sweater Song"
+    "title": "Undone -- The Sweater Song",
+    "result": {
+      "album": "Weezer",
+      "artist": "Weezer",
+      "name": "Undone -- The Sweater Song",
+      "uri": "spotify:track:45F4sDuahUBzOFAYmfzU1t"
+    }
   },
   {
     "artist": "Wheatus",
-    "title": "Teenage Dirtbag"
+    "title": "Teenage Dirtbag",
+    "result": {
+      "album": "Songs From Dawson's Creek - Vol. II",
+      "artist": "Wheatus",
+      "name": "Teenage Dirtbag - Explicit Album Version",
+      "uri": "spotify:track:3LI4MmibTkXH5cGpCGZgyw"
+    }
   },
   {
     "artist": "White Town",
-    "title": "Your Woman"
+    "title": "Your Woman",
+    "result": {
+      "album": "Women In Technology",
+      "artist": "White Town",
+      "name": "Your Woman",
+      "uri": "spotify:track:4ACxa9buEUnOdYEoPcnMpi"
+    }
   },
   {
     "artist": "Wildchild",
-    "title": "Renegade Master 98 (Fatboy Slim Old Skool edit)"
+    "title": "Renegade Master 98 (Fatboy Slim Old Skool edit)",
+    "result": null
+  },
+  {
+    "artist": "DJ Jazzy Jeff & The Fresh Prince",
+    "title": "The Fresh Prince of Bel-air",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "name": "The Fresh Prince of Bel-Air - Theme from NBC's The Fresh Prince of Bel-Air",
+      "uri": "spotify:track:0UREO3QWbXJW3gOUXpK1am"
+    }
   },
   {
     "artist": "Will Smith",
-    "title": "Fresh Prince of Belair Theme"
+    "title": "Gettin' Jiggy Wit It",
+    "result": {
+      "album": "Big Willie Style",
+      "artist": "Will Smith",
+      "name": "Gettin' Jiggy Wit It",
+      "uri": "spotify:track:0weAUscowxeqDtpCgtbpgp"
+    }
   },
   {
     "artist": "Will Smith",
-    "title": "Gettin' Jiggy Wit It"
+    "title": "Men in Black",
+    "result": {
+      "album": "Big Willie Style",
+      "artist": "Will Smith",
+      "name": "Men in Black",
+      "uri": "spotify:track:2FK7fxjzQEXD7Z32HSF0Hl"
+    }
   },
   {
     "artist": "Will Smith",
-    "title": "Men in Black"
+    "title": "Miami",
+    "result": {
+      "album": "Big Willie Style",
+      "artist": "Will Smith",
+      "name": "Miami",
+      "uri": "spotify:track:6e8Ou0wiqAzIpWb2eSxll8"
+    }
   },
   {
     "artist": "Will Smith",
-    "title": "Miami"
-  },
-  {
-    "artist": "Will Smith",
-    "title": "Wild Wild West"
+    "title": "Wild Wild West",
+    "result": {
+      "album": "Willennium",
+      "artist": "Will Smith",
+      "name": "Wild Wild West - Album Version With Intro",
+      "uri": "spotify:track:5AMvBCtX2rspUdoeJ9IsPN"
+    }
   },
   {
     "artist": "Wreckx-N-Effect",
-    "title": "Rump Shaker"
+    "title": "Rump Shaker",
+    "result": {
+      "album": "Hard Or Smooth",
+      "artist": "Wreckx-N-Effect",
+      "name": "Rump Shaker",
+      "uri": "spotify:track:4dY4JVC0Q9CwpeZ6JAclIc"
+    }
   },
   {
     "artist": "Wu-Tang Clan",
-    "title": "C.R.E.A.M."
+    "title": "C.R.E.A.M.",
+    "result": {
+      "album": "Enter The Wu-Tang Clan - 36 Chambers (Deluxe Version)",
+      "artist": "Wu-Tang Clan",
+      "name": "C.R.E.A.M.",
+      "uri": "spotify:track:119c93MHjrDLJTApCVGpvx"
+    }
   },
   {
     "artist": "Wu-Tang Clan",
-    "title": "Gravel Pit"
+    "title": "Gravel Pit",
+    "result": {
+      "album": "Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits",
+      "artist": "Wu-Tang Clan",
+      "name": "Gravel Pit",
+      "uri": "spotify:track:2tNmhDlMbwQZLxQtWMt2EU"
+    }
   },
   {
-    "artist": "xNSYNC",
-    "title": "Bye Bye Bye"
+    "artist": "NSYNC",
+    "title": "Bye Bye Bye",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "*NSYNC",
+      "name": "Bye Bye Bye",
+      "uri": "spotify:track:2yiZyjMEByt9sJBZWnWaDR"
+    }
   },
   {
-    "artist": "xNSYNC",
-    "title": "I Want You Back"
+    "artist": "NSYNC",
+    "title": "I Want You Back",
+    "result": {
+      "album": "Greatest Hits",
+      "artist": "*NSYNC",
+      "name": "I Want You Back - Radio Edit",
+      "uri": "spotify:track:6DnIintEs3aWns0rwVGlLE"
+    }
   },
   {
     "artist": "Zebrahead",
-    "title": "Get Back"
+    "title": "Get Back",
+    "result": {
+      "album": "The Early Years - Revisited",
+      "artist": "zebrahead",
+      "name": "Get Back",
+      "uri": "spotify:track:274y8FPDAx1ytaIGoSSfbt"
+    }
   }
 ]
